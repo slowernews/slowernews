@@ -1,8 +1,5 @@
 @charset "UTF-8";
 
-/* Import ET Book styles
-   adapted from https://github.com/edwardtufte/et-book/blob/gh-pages/et-book.css */
-
 @font-face {
     font-family: "et-book";
     src: url("et-book/et-book-roman-line-figures/et-book-roman-line-figures.eot");
@@ -24,8 +21,6 @@
     font-style: normal; 
 }
 
-
-/* Tufte CSS styles */
 html {
     font-size: 15px; 
 }
@@ -35,11 +30,10 @@ body {
     margin-left: auto;
     margin-right: auto;
     padding-left: 12.5%;
-    font-family: et-book, Palatino, "Palatino Linotype", "Palatino LT STD", "Book Antiqua", Georgia, serif;
+    font-family: et-book, serif;
     background-color: #fffff8;
     color: #111;
     max-width: 1400px;
-    counter-reset: sidenote-counter; 
 }
 
 h1 {
@@ -85,10 +79,6 @@ p.subtitle {
     font-size: 1.8rem;
     display: block;
     line-height: 1; 
-}
-
-.numeral {
-    font-family: et-book-roman-old-style; 
 }
 
 .danger {
@@ -256,26 +246,7 @@ img {
     position: relative; 
 }
 
-.sidenote-number {
-    counter-increment: sidenote-counter; 
-}
-
-.sidenote-number:after,
 .sidenote:before {
-    font-family: et-book-roman-old-style;
-    position: relative;
-    vertical-align: baseline; 
-}
-
-.sidenote-number:after {
-    content: counter(sidenote-counter);
-    font-size: 1rem;
-    top: -0.5rem;
-    left: 0.1rem; 
-}
-
-.sidenote:before {
-    content: counter(sidenote-counter) " ";
     font-size: 1rem;
     top: -0.5rem; 
 }
@@ -297,20 +268,11 @@ div.table-wrapper {
     font-family: "Trebuchet MS", "Gill Sans", "Gill Sans MT", sans-serif; 
 }
 
-.sans {
-    font-family: "Gill Sans", "Gill Sans MT", Calibri, sans-serif;
-    letter-spacing: .03em; 
-}
-
 code {
     font-family: Consolas, "Liberation Mono", Menlo, Courier, monospace;
     font-size: 1.0rem;
     line-height: 1.42;
     -webkit-text-size-adjust: 100%; /* Prevent adjustments of font size after orientation changes in iOS. See https://github.com/edwardtufte/tufte-css/issues/81#issuecomment-261953409 */
-}
-
-.sans > code {
-    font-size: 1.2rem; 
 }
 
 h1 > code,
