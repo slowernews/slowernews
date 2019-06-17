@@ -92,7 +92,7 @@ p,
 ul {
     font-size: 1.4rem;
     line-height: 2rem;
-    width: 55%;
+    width: 60%;
 }
 
 footer p {
@@ -143,45 +143,9 @@ color:navy;
         padding-right: 8%; 
     }
     
-    hr,
-    section > p,
-    section > footer,
-    section > table {
+	p, ul {width: 100%}
+
+    hr{
         width: 100%; 
-    }
-
-    section > ul {
-        width: 90%; 
-    }
-    
-    blockquote {
-        margin-left: 1.5em;
-        margin-right: 0em; 
-    }
-
-    blockquote p,
-    blockquote footer {
-        width: 100%; 
-    }
-    
-    label.margin-toggle:not(.sidenote-number) {
-        display: inline; 
-    }
-
-    .sidenote,
-    .marginnote {
-        display: none; 
-    }
-    
-    .margin-toggle:checked + .sidenote,
-    .margin-toggle:checked + .marginnote {
-        display: block;
-        float: left;
-        left: 1rem;
-        clear: both;
-        width: 95%;
-        margin: 1rem 2.5%;
-        vertical-align: baseline;
-        position: relative; 
     }
 }
