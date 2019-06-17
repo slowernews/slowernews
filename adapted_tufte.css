@@ -137,6 +137,9 @@ color:navy;
 }
 
 @media (max-width: 760px) {
+	html{
+		background-color: red;
+	}
     body {
         width: 84%;
         padding-left: 8%;
