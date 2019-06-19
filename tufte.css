@@ -81,7 +81,7 @@ p.subtitle {
     line-height: 1; 
 }
 
-.danger {
+.recent {
     color: red; 
 }
 
@@ -95,7 +95,6 @@ section {
 }
 
 p,
-ol,
 ul {
     font-size: 1.4rem;
     line-height: 2rem; 
@@ -108,7 +107,7 @@ p {
     vertical-align: baseline; 
 }
 
-/* Chapter Epigraphs */
+/* Epigraphs
 div.epigraph {
     margin: 5em 0; 
 }
@@ -130,8 +129,9 @@ div.epigraph > blockquote > footer {
 div.epigraph > blockquote > footer > cite {
     font-style: italic; 
 }
-/* end chapter epigraphs styles */
+*/
 
+/*
 blockquote {
     font-size: 1.4rem; 
 }
@@ -152,18 +152,19 @@ section > footer,
 section > table {
     width: 55%; 
 }
+*/
 
 /* 50 + 5 == 55, to be the same width as paragraph */
 section > ol,
 section > ul {
-    width: 50%;
-    -webkit-padding-start: 5%; 
+    width: 51%;
+    -webkit-padding-start: 4%; 
 }
 
 li:not(:first-child) {
     margin-top: 0.25rem; 
 }
-
+/*
 figure {
     padding: 0;
     border: 0;
@@ -191,6 +192,7 @@ figcaption {
 figure.fullwidth figcaption {
     margin-right: 24%; 
 }
+*/
 
 /* Links: replicate underline that clears descenders */
 a:link,
@@ -198,11 +200,12 @@ a:visited {
     color: inherit; 
 }
 
+/*
 .no-tufte-underline:link {
     background: unset;
     text-shadow: unset;
 }
-
+*/
 a:link, .tufte-underline, .hover-tufte-underline:hover {
     text-decoration: none;
     background: -webkit-linear-gradient(#fffff8, #fffff8), -webkit-linear-gradient(#fffff8, #fffff8), -webkit-linear-gradient(currentColor, currentColor);
@@ -227,7 +230,7 @@ a:link::-moz-selection {
     background: #b4d5fe;
 }
 
-/* Sidenotes, margin notes, figures, captions */
+/* Sidenotes, margin notes, figures, captions
 img {
     max-width: 100%; 
 }
@@ -268,19 +271,6 @@ div.table-wrapper {
     font-family: "Trebuchet MS", "Gill Sans", "Gill Sans MT", sans-serif; 
 }
 
-code {
-    font-family: Consolas, "Liberation Mono", Menlo, Courier, monospace;
-    font-size: 1.0rem;
-    line-height: 1.42;
-    -webkit-text-size-adjust: 100%; /* Prevent adjustments of font size after orientation changes in iOS. See https://github.com/edwardtufte/tufte-css/issues/81#issuecomment-261953409 */
-}
-
-h1 > code,
-h2 > code,
-h3 > code {
-    font-size: 0.80em; 
-}
-
 .marginnote > code,
 .sidenote > code {
     font-size: 1rem; 
@@ -296,7 +286,7 @@ pre.code {
 pre.code.fullwidth {
     width: 90%; 
 }
-
+*/
 .fullwidth {
     max-width: 90%;
     clear:both; 
@@ -318,10 +308,10 @@ label.sidenote-number {
 label.margin-toggle:not(.sidenote-number) {
     display: none; 
 }
-
+/*
 .iframe-wrapper {
     position: relative;
-    padding-bottom: 56.25%; /* 16:9 */
+    padding-bottom: 56.25%; /* 16:9 */ /*
     padding-top: 25px;
     height: 0; 
 }
@@ -333,7 +323,7 @@ label.margin-toggle:not(.sidenote-number) {
     width: 100%;
     height: 100%; 
 }
-
+*/
 @media (max-width: 760px) {
     body {
         width: 84%;

@@ -1,33 +1,3 @@
-@charset "UTF-8";
-
-/* Import ET Book styles
-   adapted from https://github.com/edwardtufte/et-book/blob/gh-pages/et-book.css */
-
-@font-face {
-    font-family: "et-book";
-    src: url("et-book/et-book-roman-line-figures.woff");
-    font-weight: normal;
-    font-style: normal; 
-}
-
-@font-face {
-    font-family: "et-book";
-    src: url("et-book/et-book-display-italic-old-style-figures.woff");
-    font-weight: normal;
-    font-style: italic; 
-}
-
-@font-face {
-    font-family: "et-book";
-    src: url("et-book/et-book-bold-line-figures.woff");
-    font-weight: bold;
-    font-style: normal; 
-}
-
-html {
-    font-size: 15px; 
-}
-
 body {
     width: 87.5%;
     margin-left: auto;
