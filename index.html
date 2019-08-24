@@ -8,7 +8,7 @@
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<meta name="google-site-verification" content="SBJy8oor-IjdV_P3Yx0jUdgza6e4VVuICgwhXAIsqYg" />
 	<style>
-		
+
 		@font-face {
 			font-family: "et-book";
 			src: url("assets/et-book-roman-line-figures.woff");
@@ -24,6 +24,9 @@
 		html {
 			font-size: 15px;
 		}
+
+
+		/* LAYOUT */
 		body {
 			background-color: #fffff8;
 			color: #111;
@@ -46,6 +49,9 @@
 			padding-bottom: 5rem;
 			padding-top: 1rem;
 		}
+
+
+		/* TEXT */
 		h1 {
 			font-size: 4.2rem;
 			font-weight: 400;
@@ -65,30 +71,17 @@
 			font-size: 1.7rem;
 			font-style: normal;
 			font-weight: 400;
-			line-height: 1; 
+			line-height: 1;
 			margin-bottom: 1.4rem;
 			margin-top: 4rem;
-		}
-		hr {
-			height: 1px;
-			width: 99%;
-			border: 0;
-			border-top: 1px solid #ccc;
-			margin: 1em 0;
-			padding: 0;
 		}
 		p.subtitle {
 			display: block;
 			font-size: 1.8rem;
 			font-style: italic;
-			line-height: 1; 
+			line-height: 1;
 			margin-bottom: 3rem;
 			margin-top: 1rem;
-		}
-		ul {
-			width: 53%;
-			-webkit-padding-start: 2%;
-			-moz-padding-start: 2%;
 		}
 		p, ul {
 			font-size: 1.4rem;
@@ -98,11 +91,29 @@
 			padding-right: 0;
 			vertical-align: baseline;
 		}
+		ul {
+			width: 53%;
+			-webkit-padding-start: 2%;
+			-moz-padding-start: 2%;
+		}
 		li {
 			margin-bottom: 0.8rem;
-			margin-top: 0.8rem;			
+			margin-top: 0.8rem;
+		}
+		li:not(:first-child) {
+			margin-top: 0.25rem;
 		}
 
+
+		/* EXTRAS */
+		hr {
+			height: 1px;
+			width: 99%;
+			border: 0;
+			border-top: 1px solid #ccc;
+			margin: 1em 0;
+			padding: 0;
+		}
 		.recent {
 			color: red;
 		}
@@ -110,15 +121,18 @@
 			max-width: 90%;
 			clear:both;
 		}
-		li:not(:first-child) {
-			margin-top: 0.25rem;
-		}
+
+
+		/* SCREENS */
 		@media (max-width: 800px) {
 			body {
 				width: 86%;
 				padding-left: 7%;
 				padding-right: 7%;
-			}			
+			}
+			h1 {
+				font-size: 3rem;
+			}
 			hr, section > p {
 				width: 100%;
 			}
@@ -132,12 +146,14 @@
 				margin-top: 1.2rem;
 			}
 		}
-		/* Links: replicate underline that clears descenders */
+
+
+		/* LINKS (replicate underline that clears descenders) */
 		a:link,
 		a:visited {
 			color: inherit;
 		}
-		a:link, .tufte-underline, .hover-tufte-underline:hover {
+		a:link {
 			text-decoration: none;
 			background: -webkit-linear-gradient(#fffff8, #fffff8), -webkit-linear-gradient(#fffff8, #fffff8), -webkit-linear-gradient(currentColor, currentColor);
 			background: linear-gradient(#fffff8, #fffff8), linear-gradient(#fffff8, #fffff8), linear-gradient(currentColor, currentColor);
@@ -149,14 +165,11 @@
 			background-position: 0% 93%, 100% 93%, 0% 93%;
 		}
 		@media screen and (-webkit-min-device-pixel-ratio: 0) {
-			a:link, .tufte-underline, .hover-tufte-underline:hover {
+			a:link {
 				background-position-y: 87%, 87%, 87%;
 			}
 		}
-		a:link::selection, a:link::-moz-selection {
-			text-shadow: 0.03em 0 #b4d5fe, -0.03em 0 #b4d5fe, 0 0.03em #b4d5fe, 0 -0.03em #b4d5fe, 0.06em 0 #b4d5fe, -0.06em 0 #b4d5fe, 0.09em 0 #b4d5fe, -0.09em 0 #b4d5fe, 0.12em 0 #b4d5fe, -0.12em 0 #b4d5fe, 0.15em 0 #b4d5fe, -0.15em 0 #b4d5fe;
-			background: #b4d5fe;
-		}
+
 	</style>
 	<link rel="icon" type="image/png" href="assets/favicon.png">
 </head>
@@ -341,7 +354,7 @@
 			<li><a target="_blank" href="https://www.theguardian.com/culture/2019/may/25/weimar-republic-hedonism-sex-fear-art-culture-celebration">Hedonism, sex and fear – why the Weimar republic is in vogue.</a></li>
 			<li><a target="_blank" href="https://www.economist.com/asia/2017/05/18/as-crime-dries-up-japans-police-hunt-for-things-to-do">As crime dries up, Japan’s police hunt for things to do.</a></li>
 			<li><a target="_blank" href="url">The escape room games industry is booming.</a></li>
-			<li><a target="_blank" href="url">In the future, we will photograph everything and look at nothing.</a></li>
+			<li><a target="_blank" href="url">In the future we will photograph everything and look at nothing.</a></li>
 			<li><a target="_blank" href="https://github.com/jaymeh13/Keyboardgym/blob/master/README.md">Keyboard gym.</a></li>
 			<li><a target="_blank" href="https://arstechnica.com/gaming/2018/05/op-ed-game-companies-need-to-cut-the-crap-loot-boxes-are-obviously-gambling/">Loot boxes are gambling.</a></li>
 		</ul>
@@ -404,7 +417,7 @@
 		<h2>Energy:</h2>
 		<ul>
 			<li><a target="_blank" href="https://www.hcn.org/issues/50.21/nuclear-energy-a-new-generation-of-environmentalists-is-learning-to-stop-worrying-and-love-nuclear-power">New generation of environmentalists is learning to love atomic power.</a></li>
-			<li><a target="_blank" href="url">Solar now produces a better energy return on investment than oil.</a></li>
+			<li><a target="_blank" href="url">Solar now produces a better return on investment than oil.</a></li>
 			<li><a target="_blank" href="https://www.sciencealert.com/the-world-s-first-solar-road-has-turned-out-to-be-a-disappointing-failure">First solar road has officially crumbled into a total failure.</a></li>
 		</ul>
 	</section>	
@@ -432,8 +445,8 @@
 			<li><a target="_blank" href="https://www.theguardian.com/environment/2019/jul/16/true-cost-of-cheap-food-is-health-and-climate-crises-says-commission">True cost of cheap food is health and climate crises.</a></li>       
 			<li><a target="_blank" href="https://ourworldindata.org/is-organic-agriculture-better-for-the-environment">Is organic agriculture better for the environment?</a></li>
 			<li><a target="_blank" href="https://weburbanist.com/2015/04/21/old-new-jersey-factory-to-house-earths-largest-vertical-farm/">Old New Jersey factory to house earth's largest vertical farm.</a></li>
-			<li><a target="_blank" href="https://www.bbc.com/news/business-45130010">World's first floating farm making waves in Rotterdam.</a></li>
-			<li><a target="_blank" href="https://www.theguardian.com/cities/2019/aug/13/worlds-largest-urban-farm-to-open-on-a-paris-rooftop">World's largest urban farm to open – on a Paris rooftop.</a></li>
+			<li><a target="_blank" href="https://www.bbc.com/news/business-45130010">World's first floating farm in Rotterdam.</a></li>
+			<li><a target="_blank" href="https://www.theguardian.com/cities/2019/aug/13/worlds-largest-urban-farm-to-open-on-a-paris-rooftop">World's largest urban farm to open on a Paris rooftop.</a></li>
 			<li><a target="_blank" href="https://www.latimes.com/business/la-fi-agriculture-farmlands-solar-power-20190703-story.html">California farmers are «planting» solar panels as water supplies dry up.</a></li>			
 		</ul>
 	</section>
@@ -526,16 +539,15 @@
 	<p>Slower News is updated when relevant. Visit every month and «you're good to go». Newer (or deprecated) articles are easy to spot.
 
 	<h3>Can I contribute?</h3>
-	<p>Open an issue or pull request <a target="_blank" href="https://github.com/slownews/slownews.github.io">the repository</a> with relevant links and corrections. Although, I'm the curator (aka BDFL) of the front page.<br>
-	You don't know how to do it? The simplest way is to bore a «tech savvy friend».</p>
+	<p>Open an issue or pull request <a target="_blank" href="https://github.com/slownews/slownews.github.io">the repository</a> with relevant links and corrections. Although, I'm the curator (aka BDFL) of the front page. You don't know how to do it? The simplest way is to bore a «tech savvy friend».</p>
 
 	<h3>Feeling grateful?</h3>
 	<p>Shop through my <a href="https://amzn.to/2xAL8zb">Amazon</a>, <a href="https://amzn.to/2xvNQ9k">Amazon.ca</a>, <a href="https://amzn.to/2JcTuUC">Amazon.uk</a>, <a href="https://amzn.to/2YtjT5A">Amazon.de</a>, <a href="">Amazon.fr</a>, <a href="">Amazon.it</a> or <a href="">Amazon.es</a> affiliate links. You pay exactly the same and it keeps my motivation high. I don't want to publish intrusive ads neither data farm with yet another stupid login.</p>
 
 	<h3>Colophon</h3>
-	<p>Hand coded SPA - with no JS - and statically hosted at Github. Tufte CSS (adapted). Text only. No tracking and no bloat. Ok, I use webfonts but web design is mostly typography.</p>
+	<p>Hand coded SPA - with no JS - and statically hosted at Github. Tufte CSS (adapted). No images, no tracking and no bloat. Ok, I use webfonts but web design is mostly typography.</p>
 	<hr>
-	<small>Updated during Q3/2019 - v033</small>
+	<small>Updated during Q3/2019 - v040</small>
 </footer>
 
 </body>
