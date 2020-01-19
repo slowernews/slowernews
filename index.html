@@ -14,12 +14,14 @@
 			src: url("assets/et-book-roman-line-figures.woff");
 			font-weight: normal;
 			font-style: normal;
+			font-display: swap;
 		}
 		@font-face {
 			font-family: "et-book";
 			src: url("assets/et-book-display-italic-old-style-figures.woff");
 			font-weight: normal;
 			font-style: italic;
+			font-display: swap;
 		}
 		html {
 			font-size: 15px;
@@ -152,10 +154,12 @@
 
 
 		/* LINKS (replicate underline that clears descenders) */
-		a:link,
-		a:visited {
+		a:link {
 			color: inherit;
 		}
+		a:visited {
+			color: grey;
+		} 
 		a:link {
 			text-decoration: none;
 			background: -webkit-linear-gradient(#fffff8, #fffff8), -webkit-linear-gradient(#fffff8, #fffff8), -webkit-linear-gradient(currentColor, currentColor);
@@ -178,7 +182,6 @@
 </head>
 
 <body>
-
 	<p class="greatLink"><a href="mailto:archimodelsblog@gmail.com">Dear sponsor, this text link could show us your great product!</a></p>
 <header>
 	<h1>Slower News</h1>
@@ -209,9 +212,9 @@
 			<li><a target="_blank" href="https://www.zeit.de/wirtschaft/2019-05/kapitalismus-demokratie-ungleichheit-globalisierung-english/komplettansicht">The superrich endanger Democracy.</a></li>
 			<li><a target="_blank" href="https://aeon.co/essays/forget-voting-it-s-time-to-start-choosing-our-leaders-by-lottery">Lottocracy: choosing representatives by lottery.</a></li>
 			<li><a target="_blank" href="https://www.nbim.no/en/">Norwegian oil fund for future generations.</a></li>
-			<li><a target="_blank" href="https://business.financialpost.com/technology/jim-balsillie-data-is-not-the-new-oil-its-the-new-plutonium">«Data is not the new oil – it’s the new plutonium».</a></li>
-			<li><a target="_blank" href="https://www.theatlantic.com/ideas/archive/2019/05/facebook-algorithms-are-making-it-harder/588931/">Tech companies are deleting evidence of war crimes.</a></li>
 			<li><a target="_blank" href="https://onezero.medium.com/authoritarian-nations-are-turning-the-internet-into-a-weapon-10119d4e9992">Authoritarian nations are turning the internet into a weapon.</a></li>
+			<li><a target="_blank" href="https://www.theatlantic.com/ideas/archive/2019/05/facebook-algorithms-are-making-it-harder/588931/">Tech companies are deleting evidence of war crimes.</a></li>
+			<li><a target="_blank" href="https://business.financialpost.com/technology/jim-balsillie-data-is-not-the-new-oil-its-the-new-plutonium">«Data is not the new oil – it’s the new plutonium».</a></li>
 		</ul>
 	</section>
 
@@ -232,9 +235,9 @@
 			<li><a target="_blank" href="https://www.independent.co.uk/news/business/news/foreign-direct-investment-tax-avoidance-havens-imf-a9097906.html">Almost 40% of foreign investment is aimed at tax dodging.</a> | <a target="_blank" href="https://www.bloomberg.com/news/articles/2018-11-08/a-fifth-of-china-s-homes-are-empty-that-s-50-million-apartments">A fifth of china’s homes are empty.</a></li>
 			<li><a target="_blank" href="https://www.theatlantic.com/ideas/archive/2019/10/are-we-cusp-next-dot-com-bubble/600232/">The Not-Com bubble is popping.</a></li>
 			<li><a target="_blank" href="https://www.bloomberg.com/news/features/2019-05-21/silicon-valley-s-shame-living-in-a-van-in-google-s-backyard">Living in a van in Google's backyard.</a></li>
+			<li><a target="_blank" href="https://www.bloomberg.com/news/features/2018-03-16/japan-s-prisons-are-a-haven-for-elderly-women">Japan’s prisons are a haven for elderly women.</a></li>
 			<li><a target="_blank" href="https://kolostories.com/contents/list">Geoarbitrage: the power of money depends on where you live.</a></li>
 			<li><a target="_blank" href="https://peterdiamandis.tumblr.com/post/147548445548/demonetized-cost-of-livingl">Demonetized cost of living.</a></li>
-			<li><a target="_blank" href="https://www.bloomberg.com/news/features/2018-03-16/japan-s-prisons-are-a-haven-for-elderly-women">Japan’s prisons are a haven for elderly women.</a></li>
 		</ul>
 	</section>
 
@@ -281,8 +284,8 @@
 	<section id="work">
 		<h2>Work:</h2>
 		<ul>
-			<li><a target="_blank" href="https://www.nytimes.com/2018/02/08/magazine/when-youre-a-digital-nomad-the-world-is-your-office.html">When you’re a «digital nomad» the world is your office.</a> | <a target="_blank" href="https://doist.com/blog/asynchronous-communication/">Asynchronous communication is the real reason remote workers are more productive.</a></li>
 			<li><a target="_blank" href="https://www.forbes.com/sites/alejandrocremades/2019/07/21/he-built-a-1-billion-business-where-all-700-employees-work-remotely/">$1 billion business where all 700 employees work remotely.</a></li>
+			<li><a target="_blank" href="https://www.nytimes.com/2018/02/08/magazine/when-youre-a-digital-nomad-the-world-is-your-office.html">When you’re a «digital nomad» the world is your office.</a> | <a target="_blank" href="https://doist.com/blog/asynchronous-communication/">Asynchronous communication is the real reason remote workers are more productive.</a></li>
 			<li><a target="_blank" href="https://soranews24.com/2018/11/29/cafe-opens-in-tokyo-staffed-by-robots-controlled-by-paralyzed-people/">Cafe opens in Tokyo staffed by robots controlled by paralyzed people.</a></li>
 			<li><a target="_blank" href="https://www.wsj.com/articles/resumes-are-starting-to-look-like-instagramand-sometimes-even-tinder-11565707364?mod=rsswn">Résumés are starting to look like Instagram — and sometimes even Tinder.</a></li>
 			<li><a target="_blank" href="https://hiringengineersbook.com/post/trouble-hiring/">When hiring senior engineers, you’re not buying, you’re selling.</a></li>
@@ -349,16 +352,15 @@
 	<section id="media">
 		<h2>Media:</h2>
 		<ul>
+			<li><a target="_blank" href="http://lab.cccb.org/en/renata-avila-the-internet-of-creation-disappeared-now-we-have-the-internet-of-surveillance-and-control/">The internet of creation disappeared. Now we have the internet of surveillance and control.</a></li>
+			<li><a target="_blank" href="https://www.yahoo.com/finance/news/click-farms-internet-china-154440209.html">Click farms booming in China.</a> | <a target="_blank" href="https://www.ted.com/talks/zeynep_tufekci_we_re_building_a_dystopia_just_to_make_people_click_on_ads">We're building a dystopia just to make people click on ads.</a></li>
+			<li><a target="_blank" href="https://www.newyorker.com/news/letter-from-silicon-valley/the-lonely-work-of-moderating-hacker-news">The lonely work of moderating a web community.</a></li>
+			<li><a target="_blank" href="https://localbabysitter.com/netflix-saves-our-kids-from-up-to-400-hours-of-commercials-a-year/">Netflix saves kids from up to 400 hours of commercials a year.</a></li>
 			<li><a target="_blank" href="https://www.nytimes.com/2019/07/10/magazine/streaming-race-netflix-hbo-hulu-amazon.html">The great race to rule streaming TV.</a></li>
 			<li><a target="_blank" href="https://en.wikipedia.org/wiki/Slow_television">Slow Television</a> or <a target="_blank" href="https://www.theguardian.com/tv-and-radio/2019/aug/21/the-age-of-comfort-tv-why-people-are-secretly-watching-friends-and-the-office-on-a-loop">confort TV.</a></li>
-			<li><a target="_blank" href="https://www.newyorker.com/news/letter-from-silicon-valley/the-lonely-work-of-moderating-hacker-news">The lonely work of moderating a web community.</a></li>
-			<li class="recent"><a class="recent" href="https://www.rollingstone.com/music/music-features/what-is-happening-to-streamings-superstars-845395/">World's biggest music artists are losing market share in streaming.</a></li>
 			<li><a target="_blank" href="https://www.nme.com/news/music/vinyl-set-outsell-cds-first-time-since-1986-2545781">Vinyl set to outsell CDs for first time since 1986.</a></li>
+			<li class="recent"><a class="recent" href="https://www.rollingstone.com/music/music-features/what-is-happening-to-streamings-superstars-845395/">World's biggest music artists are losing market share in streaming.</a></li>
 			<li><a target="_blank" href="https://www.theatlantic.com/technology/archive/2019/08/amazons-plan-take-over-world-publishing/595630/">Amazon is winning at publishing.</a></li>
-			<li><a target="_blank" href="https://localbabysitter.com/netflix-saves-our-kids-from-up-to-400-hours-of-commercials-a-year/">Netflix saves kids from up to 400 hours of commercials a year.</a></li>
-			<li><a target="_blank" href="https://www.ted.com/talks/zeynep_tufekci_we_re_building_a_dystopia_just_to_make_people_click_on_ads">We're building a dystopia just to make people click on ads.</a></li>
-			<li><a target="_blank" href="https://www.yahoo.com/finance/news/click-farms-internet-china-154440209.html">Click farms booming in China.</a></li>
-			<li><a target="_blank" href="http://lab.cccb.org/en/renata-avila-the-internet-of-creation-disappeared-now-we-have-the-internet-of-surveillance-and-control/">The internet of creation disappeared. Now we have the internet of surveillance and control.</a></li>
 		</ul>
 	</section>
 
@@ -378,9 +380,9 @@
 	<section id="religion">
 		<h2>Religion:</h2>
 		<ul>
-			<li><a target="_blank" href="https://supchina.com/2019/07/31/communism-is-a-faith/">«Communism is a faith».</a></li>
 			<li><a target="_blank" href="https://www.theguardian.com/world/2015/feb/02/iceland-temple-norse-gods-1000-years">Iceland to build first temple to Norse gods since Viking age.</a></li>
 			<li><a target="_blank" href="https://www.nytimes.com/2019/08/06/dining/butchers-meat-vegetarian-vegan.html">The vegetarians who turned into butchers.</a></li>
+			<li><a target="_blank" href="https://supchina.com/2019/07/31/communism-is-a-faith/">«Communism is a faith».</a></li>
 		</ul>
 	</section>	
 
@@ -390,10 +392,10 @@
 			<li><a target="_blank" href="https://www.nytimes.com/2018/06/28/books/open-book-wigtown-bookstore.html">Bookstore allows people to run the shop while renting an apartment upstairs.</a></li>
 			<li><a target="_blank" href="http://www.bbc.com/culture/story/20170626-the-dark-side-of-the-british-seaside">Much of the seaside’s appeal comes from its association with less structure and more freedom.</a></li>
 			<li><a target="_blank" href="https://veridici.com/how-airbnb-is-silently-changing-himalayan-villages/">How airbnb is silently changing himalayan villages.</a></li>
-			<li><a target="_blank" href="https://www.theguardian.com/cities/2019/jan/28/no-one-likes-being-a-tourist-the-rise-of-the-anti-tour">«No one likes being a tourist»: the rise of the anti-tour.</a></li>
 			<li><a target="_blank" href="https://www.citylab.com/transportation/2019/04/europe-night-train-sweden-eco-travel-sleeper-car-fossil-free/586228/">Sweden wants to revive Europe’s overnight trains.</a></li>
-			<li><a target="_blank" href="https://www.theatlantic.com/ideas/archive/2019/06/crowds-tourists-are-ruining-popular-destinations/590767/">Too many people want to travel.</a></li>
 			<li class="recent"><a target="_blank" href="https://dinnerdocument.com/2019/04/30/i-dream-of-canteens/" class="recent">I dream of canteens.</a></li>
+			<li><a target="_blank" href="https://www.theguardian.com/cities/2019/jan/28/no-one-likes-being-a-tourist-the-rise-of-the-anti-tour">«No one likes being a tourist»: the rise of the anti-tour.</a></li>
+			<li><a target="_blank" href="https://www.theatlantic.com/ideas/archive/2019/06/crowds-tourists-are-ruining-popular-destinations/590767/">Too many people want to travel.</a></li>
 			<li><a target="_blank" href="https://adventure.com/begpacking-worst-travel-trend/">Begpacking.</a></li>
 		</ul>
 	</section>
@@ -548,7 +550,6 @@
 			<li><a target="_blank" href="https://www.forbes.com/sites/bishopjordan/2017/07/07/bitcoin-millionaire/">Traveling the world on $25m of bitcoin profits.</a></li>
 		</ul>
 	</section>
-
 </main>
 
 <footer id="about" class="fullwidth">
@@ -556,8 +557,8 @@
 	<h3>WTF is this?</h3>
 	<p>This is, somehow, a slowly updated news-aggregator with relevant trends, micro-trends and edge cases for borderline nerds, that don't want to miss out, neither spend a shit-ton of time distilling trivia.</p>
 	<p>This project appeared while «scratching my own itch» - an information flood is drowning our times - and before becoming a website, it lived as a markdown file.</p>
-	<h3>How do you curate articles?</h3>
 
+	<h3>How do you curate articles?</h3>
 	<p>Articles are hand selected. Everything that calls my attention and passes the «trivia filter» will be added to Slower News. It's certainly affected by my biases <a href="https://github.com/slownews/wisdom-tldr-guide/blob/master/FAQ%20%26%20CHANGELOG.md#what-are-your-main-biases">(I'm aware of these)</a> and most articles were on Hacker News.</p>
 
 	<h3>How often is Slower News updated?</h3>
@@ -570,9 +571,9 @@
 	<p>Shop through my <a href="https://amzn.to/2xAL8zb">Amazon</a>, <a href="https://amzn.to/2xvNQ9k">Amazon.ca</a>, <a href="https://amzn.to/2JcTuUC">Amazon.uk</a> and <a href="https://amzn.to/2YtjT5A">Amazon.de</a> affiliate links. You pay exactly the same and it keeps my motivation high. I don't want to publish intrusive ads neither data farm with yet another stupid login.</p>
 
 	<h3>Colophon</h3>
-	<p>Hand coded SPA - with no JS - and statically hosted at Github. Tufte CSS (adapted). No images, no tracking (GDPR friendly) and no bloat. Ok, I use non-standard fonts but web design is mostly typography.</p>
+	<p>Hand coded SPA - with no JS - and statically hosted at Github. Tufte CSS (adapted). No images, no tracking (GDPR friendly analytics with xxx) and no bloat. Ok, I use non-standard fonts but web design is mostly typography.</p>
 	<hr>
-	<small>Updated: December/2019 - v063</small>
+	<small>Updated: January/2020</small>
 </footer>
 
 </body>
