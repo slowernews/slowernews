@@ -23,4 +23,4 @@ Shop through my <a href="https://amzn.to/2xAL8zb">Amazon</a>, <a href="https://a
 
 ### Colophon
 
-Hand coded SPA - with no JS - and statically hosted at Github. Tufte CSS (adapted). No images, no tracking (GDPR friendly analytics with xxx) and no bloat. Ok, I use non-standard fonts but web design is mostly typography.
+Hand coded SPA - with no JS - and statically hosted at Github and Netlify. Tufte CSS (adapted). No images, no tracking (GDPR friendly analytics with Goatcounter) and no bloat. Ok, I use non-standard fonts but web design is mostly typography.
