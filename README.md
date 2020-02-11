@@ -1,3 +1,5 @@
+# Slower News
+
 ## WTF is this?
 
 This is, somehow, a slowly updated news-aggregator with relevant trends, micro-trends and edge cases for borderline nerds, that don't want to miss out, neither spend a shit-ton of time distilling trivia.
@@ -13,7 +15,7 @@ Only when relevant. Visit every month and «you're good to go». New articles ar
 
 ## Can I contribute?
 
-Open an issue or pull request <a target="_blank" href="https://github.com/slownews/slownews.github.io">the repository</a> with relevant links, corrections or suggestions. Nevertheless, I'm the BDFL of the main page.
+Open an issue or pull request this repository with relevant links, corrections or suggestions. Nevertheless, I'm the BDFL of the main page.
 
 ## Feeling grateful?
 

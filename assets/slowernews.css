@@ -109,21 +109,21 @@ hr {
 /* SCREENS */
 @media (max-width: 900px) {
   body {
-    width: 86%;
-    padding-left: 7%;
-    padding-right: 7%;
+	width: 86%;
+	padding-left: 7%;
+	padding-right: 7%;
   }
   hr, section > p {
-    width: 100%;
+	width: 100%;
   }
   ul {
-    width: 96%;
-    -webkit-padding-start: 4%;
-    -moz-padding-start: 4%;
+	width: 96%;
+	-webkit-padding-start: 4%;
+	-moz-padding-start: 4%;
   }
   li {
-    margin-bottom: 1.2rem;
-    margin-top: 1.2rem;
+	margin-bottom: 1.2rem;
+	margin-top: 1.2rem;
   }
 }
 
@@ -148,6 +148,6 @@ a:link {
 }
 @media screen and (-webkit-min-device-pixel-ratio: 0) {
   a:link {
-    background-position-y: 87%, 87%, 87%;
+	background-position-y: 87%, 87%, 87%;
   }
 }
