@@ -2,182 +2,12 @@
 
 <html lang="en">
 <head>
-	<title>Slower News | trends, micro-trends & edge cases</title>
+	<title>Slower News | Trends, micro-trends & edge cases</title>
 	<meta charset="UTF-8">
 	<meta name="description" content="Keep up with relevant trends, micro-trends and edge cases. Don't miss out neither spend a shit-ton of time distilling trivia.">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<meta name="google-site-verification" content="SBJy8oor-IjdV_P3Yx0jUdgza6e4VVuICgwhXAIsqYg" />
-	<style>
-
-		@font-face {
-			font-family: "et-book";
-			src: url("assets/et-book-roman-line-figures.woff");
-			font-weight: normal;
-			font-style: normal;
-			font-display: swap;
-		}
-		@font-face {
-			font-family: "et-book";
-			src: url("assets/et-book-display-italic-old-style-figures.woff");
-			font-weight: normal;
-			font-style: italic;
-			font-display: swap;
-		}
-		html {
-			font-size: 15px;
-		}
-
-
-		/* LAYOUT */
-		body {
-			background-color: #fffff8;
-			color: #111;
-			font-family: et-book, serif;
-			margin: 0 auto;
-			max-width: 1280px;
-			padding-left: 12.5%;
-			width: 87.5%;
-		}
-		header {
-			padding-top: 6rem;
-		}
-		main {
-			padding-bottom: 2rem;
-		}
-		section {
-			padding-bottom: 1rem;
-			padding-top: 1rem;
-		}
-		footer {
-			font-style: italic;
-			padding-bottom: 5rem;
-			padding-top: 1rem;
-		}
-
-
-		/* TEXT */
-		h1 {
-			font-size: 4.2rem;
-			font-weight: 400;
-			line-height: 1;
-			margin-bottom: 1.5rem;
-			margin-top: 4rem;
-		}
-		h2 {
-			font-size: 2.2rem;
-			font-style: italic;
-			font-weight: 400;
-			line-height: 1;
-			margin-bottom: 2rem;
-			margin-top: 2.1rem;
-		}
-		h3 {
-			font-size: 1.7rem;
-			font-style: normal;
-			font-weight: 400;
-			line-height: 1;
-			margin-bottom: 1.4rem;
-			margin-top: 4rem;
-		}
-		p.subtitle {
-			display: block;
-			font-size: 1.8rem;
-			font-style: italic;
-			line-height: 1;
-			margin-bottom: 3rem;
-			margin-top: 1rem;
-		}
-		p, ul {
-			font-size: 1.4rem;
-			line-height: 2rem;
-			margin-bottom: 1.4rem;
-			margin-top: 1.4rem;
-			padding-right: 0;
-			vertical-align: baseline;
-		}
-		ul {
-			width: 53%;
-			-webkit-padding-start: 2%;
-			-moz-padding-start: 2%;
-		}
-		li {
-			margin-bottom: 0.8rem;
-			margin-top: 0.8rem;
-		}
-		li:not(:first-child) {
-			margin-top: 0.25rem;
-		}
-
-
-		/* EXTRAS */
-		hr {
-			height: 1px;
-			width: 99%;
-			border: 0;
-			border-top: 1px solid #ccc;
-			margin: 1em 0;
-			padding: 0;
-		}
-		.recent {
-			color: red;
-		}
-		.greatLink {
-			color: brown;
-			font-size: 1.25rem;
-		}
-		.fullwidth {
-			max-width: 90%;
-			clear: both;
-		}
-
-
-		/* SCREENS */
-		@media (max-width: 900px) {
-			body {
-				width: 86%;
-				padding-left: 7%;
-				padding-right: 7%;
-			}
-			hr, section > p {
-				width: 100%;
-			}
-			ul {
-				width: 96%;
-				-webkit-padding-start: 4%;
-				-moz-padding-start: 4%;
-			}
-			li {
-				margin-bottom: 1.2rem;
-				margin-top: 1.2rem;
-			}
-		}
-
-
-		/* LINKS (replicate underline that clears descenders) */
-		a:link {
-			color: inherit;
-		}
-		a:visited {
-			color: grey;
-		} 
-		a:link {
-			text-decoration: none;
-			background: -webkit-linear-gradient(#fffff8, #fffff8), -webkit-linear-gradient(#fffff8, #fffff8), -webkit-linear-gradient(currentColor, currentColor);
-			background: linear-gradient(#fffff8, #fffff8), linear-gradient(#fffff8, #fffff8), linear-gradient(currentColor, currentColor);
-			-webkit-background-size: 0.05em 1px, 0.05em 1px, 1px 1px;
-			-moz-background-size: 0.05em 1px, 0.05em 1px, 1px 1px;
-			background-size: 0.05em 1px, 0.05em 1px, 1px 1px;
-			background-repeat: no-repeat, no-repeat, repeat-x;
-			text-shadow: 0.03em 0 #fffff8, -0.03em 0 #fffff8, 0 0.03em #fffff8, 0 -0.03em #fffff8, 0.06em 0 #fffff8, -0.06em 0 #fffff8, 0.09em 0 #fffff8, -0.09em 0 #fffff8, 0.12em 0 #fffff8, -0.12em 0 #fffff8, 0.15em 0 #fffff8, -0.15em 0 #fffff8;
-			background-position: 0% 93%, 100% 93%, 0% 93%;
-		}
-		@media screen and (-webkit-min-device-pixel-ratio: 0) {
-			a:link {
-				background-position-y: 87%, 87%, 87%;
-			}
-		}
-
-	</style>
+	<link rel="stylesheet" type="text/css" href="assets/slowernews.css">
 	<link rel="icon" type="image/png" href="assets/favicon.png">
 </head>
 
@@ -245,7 +75,6 @@
 		<h2>Inequality:</h2>
 		<ul>
 			<li><a target="_blank" href="https://www.bloomberg.com/opinion/articles/2018-02-08/how-the-places-that-don-t-matter-fueled-populism">How «places that don't matter» fueled populism: a geographer's new theory puts regional inequality ahead of personal inequity as a cause of revolt.</a></li>
-			<li><a target="_blank" href="https://www.brookings.edu/blog/the-avenue/2019/09/10/america-has-two-economies-and-theyre-diverging-fast/">America has two economies—and they’re diverging fast.</a></li>
 			<li><a target="_blank" href="https://www.nytimes.com/2019/06/22/us/wilks-brothers-fracking-business.html">In the last decade, private land in the US has become increasingly concentrated in the hands of a few.</a></li>
 			<li><a target="_blank" href="https://www.imf.org/external/pubs/ft/fandd/2015/03/jaumotte.htm">Decline in unionization has fed the rise in incomes at the top.</a></li>
 			<li><a target="_blank" href="https://fivethirtyeight.com/features/poor-kids-need-summer-jobs-rich-kids-get-them/">Poor kids need summer jobs. Rich kids get them.</a></li>
@@ -367,13 +196,13 @@
 	<section id="culture">
 		<h2>Culture:</h2>
 		<ul>
-			<li><a target="_blank" href="https://www.bbc.com/news/business-49884827">EU brings in «right to repair» rules for appliances.</a></li>
 			<li><a target="_blank" href="https://www.nytimes.com/2017/08/18/your-money/aging-parents-with-lots-of-stuff-and-children-who-dont-want-it.html">Aging parents with lots of stuff and children who don’t want it.</a></li>
 			<li><a target="_blank" href="https://www.theguardian.com/culture/2019/may/25/weimar-republic-hedonism-sex-fear-art-culture-celebration">Hedonism, sex and fear – why the Weimar republic is in vogue.</a></li>
 			<li><a target="_blank" href="https://www.economist.com/asia/2017/05/18/as-crime-dries-up-japans-police-hunt-for-things-to-do">As crime dries up, Japan’s police hunt for things to do.</a></li>
 			<li><a target="_blank" href="https://www.economist.com/gulliver/2019/01/11/the-escape-room-games-industry-is-booming">The escape room games industry is booming.</a></li>
 			<li><a target="_blank" href="http://www.newyorker.com/business/currency/in-the-future-we-will-photograph-everything-and-look-at-nothing">In the future we will photograph everything and look at nothing.</a></li>
 			<li><a target="_blank" href="https://arstechnica.com/gaming/2018/05/op-ed-game-companies-need-to-cut-the-crap-loot-boxes-are-obviously-gambling/">Loot boxes are gambling.</a></li>
+			<li><a target="_blank" href="https://www.bbc.com/news/business-49884827">EU brings in «right to repair» rules for appliances.</a></li>
 		</ul>
 	</section>
 
@@ -437,7 +266,6 @@
 		<ul>
 			<li><a target="_blank" href="https://www.hcn.org/issues/50.21/nuclear-energy-a-new-generation-of-environmentalists-is-learning-to-stop-worrying-and-love-nuclear-power">New generation of environmentalists is learning to love atomic power.</a></li>
 			<li><a target="_blank" href="https://robertscribbler.com/2016/12/19/solar-now-produces-a-better-energy-return-on-investment-than-oil/">Solar now produces a better return on investment than oil.</a></li>
-			<li><a target="_blank" href="https://techcrunch.com/2019/09/19/amazon-orders-100k-electric-delivery-trucks-from-rivian-as-part-of-going-carbon-neutral-by-2040/">Amazon orders 100K electric delivery trucks.</a></li>
 		</ul>
 	</section>	
 
@@ -502,6 +330,7 @@
 			<li><a target="_blank" href="https://www.bbc.com/news/business-48630656">Why the age of electric flight is finally upon us.</a></li>
 			<li><a target="_blank" href="https://www.abc.net.au/news/2018-06-07/would-you-travel-on-a-windowless-plane/9843722">Emirates planes could be going windowless.</a></li>
 			<li><a target="_blank" href="https://electrek.co/2019/09/19/daimler-stops-developing-internal-combustion-engines-to-focus-on-electric-cars/">Daimler stops developing internal combustion engines to focus on electric cars.</a></li>
+			<li><a target="_blank" href="https://techcrunch.com/2019/09/19/amazon-orders-100k-electric-delivery-trucks-from-rivian-as-part-of-going-carbon-neutral-by-2040/">Amazon orders 100K electric delivery trucks.</a></li>
 			<li>Electric pickup trucks: <a target="_blank" href="https://www.tesla.com/cybertruck">Tesla cibertruck.</a> | <a target="_blank" href="https://bollingermotors.com/bollinger-b2/">Bollinger b2.</a></li>
 			<li><a target="_blank" href="https://www.theverge.com/2019/8/11/20800111/us-navy-uss-john-s-mccain-crash-ntsb-report-touchscreen-mechanical-controls"> US Navy will replace touchscreen controls with mechanical ones on its destroyers.</a> Mazda <a target="_blank" href="https://www.motorauthority.com/news/1121372_why-mazda-is-purging-touchscreens-from-its-vehicles">is also purging touchscreens from its vehicles.</a> </li>
 			<li><a target="_blank" href="https://www.businessinsider.com/swedish-rail-company-scans-microchip-tickets-17-6?r=nordic">Swedish rail line now scans microchip implants in addition to tickets.</a></li>
@@ -544,9 +373,9 @@
 	<section id="blockchain">
 		<h2>Blockchain:</h2>
 		<ul>
+			<li><a target="_blank" href="https://www.paymentsjournal.com/thesis-card-rewards-a-realistic-use-case-for-blockchain/">Reward points are actually a good use case for blockchains.</a></li>
 			<li><a target="_blank" href="https://powercompare.co.uk/bitcoin-mining-electricity-map/">In 2018 Bitcoin mining is consuming more electricity than 175 countries.</a></li>
 			<li><a target="_blank" href="https://media.dev.by/decree_media_kit_en.pdf">Belarus: the first government in the world to offer full blockchain regulation.</a></li>
-			<li><a target="_blank" href="https://www.paymentsjournal.com/thesis-card-rewards-a-realistic-use-case-for-blockchain/">Reward points are actually a good use case for blockchains.</a></li>
 			<li><a target="_blank" href="https://www.forbes.com/sites/bishopjordan/2017/07/07/bitcoin-millionaire/">Traveling the world on $25m of bitcoin profits.</a></li>
 		</ul>
 	</section>
@@ -573,7 +402,7 @@
 	<h3>Colophon</h3>
 	<p>Hand coded SPA - with no JS - and statically hosted at Github. Tufte CSS (adapted). No images, no tracking (GDPR friendly analytics with xxx) and no bloat. Ok, I use non-standard fonts but web design is mostly typography.</p>
 	<hr>
-	<small>Updated: January/2020</small>
+	<small>Updated: February/2020</small>
 </footer>
 
 </body>
