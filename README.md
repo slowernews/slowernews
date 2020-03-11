@@ -15,7 +15,7 @@ Only when relevant. Visit every month and «you're good to go». New articles ar
 
 ### Can I contribute?
 
-Open an issue or pull request this repository with relevant links, corrections or suggestions.  Nevertheless, I'm the BDFL of the main and [Portugal](https://www.slowernews.com/portugal) page.
+Open an issue or pull request this repository with relevant links, corrections or suggestions.  Nevertheless, I'm the BDFL of the [main](https://www.slowernews.com/) and [Portugal](https://www.slowernews.com/portugal) page.
 
 ### Colophon
 
