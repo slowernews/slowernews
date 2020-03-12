@@ -2,7 +2,7 @@
 
 ### WTF is this?
 
-This is, somehow, a slowly updated news-aggregator with relevant trends, micro-trends and edge cases for borderline nerds, that don't want to miss out, neither spend a shit-ton of time distilling trivia.
+This is, somehow, a slowly updated news-aggregator with relevant trends, micro-trends and edge cases for borderline nerds, that don't want to miss out, nor spend a shit-ton of time distilling trivia.
 This project appeared while «scratching my own itch» - an information flood is drowning our times - and before becoming a website, it lived as a markdown file.
 
 ### How do you curate articles?
@@ -15,7 +15,7 @@ Only when relevant. Visit every month and «you're good to go». New articles ar
 
 ### Can I contribute?
 
-Open an issue or pull request this repository with relevant links, corrections or suggestions.  Nevertheless, I'm the BDFL of the [main](https://www.slowernews.com/) and [Portugal](https://www.slowernews.com/portugal) page.
+Open an issue or pull request this repository with relevant links, corrections or suggestions.  Nevertheless, I'm the BDFL of the [main](https://www.slowernews.com/) and [Portugal](https://www.slowernews.com/portugal) pages.
 
 ### Colophon
 
