@@ -146,6 +146,14 @@ a:link {
   text-shadow: 0.03em 0 #fffff8, -0.03em 0 #fffff8, 0 0.03em #fffff8, 0 -0.03em #fffff8, 0.06em 0 #fffff8, -0.06em 0 #fffff8, 0.09em 0 #fffff8, -0.09em 0 #fffff8, 0.12em 0 #fffff8, -0.12em 0 #fffff8, 0.15em 0 #fffff8, -0.15em 0 #fffff8;
   background-position: 0% 93%, 100% 93%, 0% 93%;
 }
+
+/* Resolves the blurry text-shadow issue by setting text-shadow to none when something is selected */
+::selection {
+  color: white;
+  background: black;
+  text-shadow: none;
+}
+
 @media screen and (-webkit-min-device-pixel-ratio: 0) {
   a:link {
 	background-position-y: 87%, 87%, 87%;
