@@ -2,7 +2,6 @@ html {
   font-size: 15px;
 }
 
-
 /* LAYOUT */
 body {
   background-color: #fffff8;
@@ -28,7 +27,6 @@ footer {
   padding-bottom: 5rem;
   padding-top: 1rem;
 }
-
 
 /* TEXT */
 h1 {
@@ -62,7 +60,8 @@ p.subtitle {
   margin-bottom: 3rem;
   margin-top: 1rem;
 }
-p, ul {
+p,
+ul {
   font-size: 1.4rem;
   line-height: 2rem;
   margin-bottom: 1.4rem;
@@ -82,7 +81,6 @@ li {
 li:not(:first-child) {
   margin-top: 0.25rem;
 }
-
 
 /* EXTRAS */
 hr {
@@ -105,28 +103,27 @@ hr {
   clear: both;
 }
 
-
 /* SCREENS */
 @media (max-width: 900px) {
   body {
-	width: 86%;
-	padding-left: 7%;
-	padding-right: 7%;
+    width: 86%;
+    padding-left: 7%;
+    padding-right: 7%;
   }
-  hr, section > p {
-	width: 100%;
+  hr,
+  section > p {
+    width: 100%;
   }
   ul {
-	width: 96%;
-	-webkit-padding-start: 4%;
-	-moz-padding-start: 4%;
+    width: 96%;
+    -webkit-padding-start: 4%;
+    -moz-padding-start: 4%;
   }
   li {
-	margin-bottom: 1.2rem;
-	margin-top: 1.2rem;
+    margin-bottom: 1.2rem;
+    margin-top: 1.2rem;
   }
 }
-
 
 /* LINKS (replicate underline that clears descenders) */
 a:link {
@@ -134,16 +131,23 @@ a:link {
 }
 a:visited {
   color: grey;
-} 
+}
 a:link {
   text-decoration: none;
-  background: -webkit-linear-gradient(#fffff8, #fffff8), -webkit-linear-gradient(#fffff8, #fffff8), -webkit-linear-gradient(currentColor, currentColor);
-  background: linear-gradient(#fffff8, #fffff8), linear-gradient(#fffff8, #fffff8), linear-gradient(currentColor, currentColor);
+  background: -webkit-linear-gradient(#fffff8, #fffff8),
+    -webkit-linear-gradient(#fffff8, #fffff8),
+    -webkit-linear-gradient(currentColor, currentColor);
+  background: linear-gradient(#fffff8, #fffff8),
+    linear-gradient(#fffff8, #fffff8),
+    linear-gradient(currentColor, currentColor);
   -webkit-background-size: 0.05em 1px, 0.05em 1px, 1px 1px;
   -moz-background-size: 0.05em 1px, 0.05em 1px, 1px 1px;
   background-size: 0.05em 1px, 0.05em 1px, 1px 1px;
   background-repeat: no-repeat, no-repeat, repeat-x;
-  text-shadow: 0.03em 0 #fffff8, -0.03em 0 #fffff8, 0 0.03em #fffff8, 0 -0.03em #fffff8, 0.06em 0 #fffff8, -0.06em 0 #fffff8, 0.09em 0 #fffff8, -0.09em 0 #fffff8, 0.12em 0 #fffff8, -0.12em 0 #fffff8, 0.15em 0 #fffff8, -0.15em 0 #fffff8;
+  text-shadow: 0.03em 0 #fffff8, -0.03em 0 #fffff8, 0 0.03em #fffff8,
+    0 -0.03em #fffff8, 0.06em 0 #fffff8, -0.06em 0 #fffff8, 0.09em 0 #fffff8,
+    -0.09em 0 #fffff8, 0.12em 0 #fffff8, -0.12em 0 #fffff8, 0.15em 0 #fffff8,
+    -0.15em 0 #fffff8;
   background-position: 0% 93%, 100% 93%, 0% 93%;
 }
 
@@ -156,6 +160,16 @@ a:link {
 
 @media screen and (-webkit-min-device-pixel-ratio: 0) {
   a:link {
-	background-position-y: 87%, 87%, 87%;
+    background-position-y: 87%, 87%, 87%;
+  }
+}
+
+/* Changes the text-shadow for links to be dark when dark mode is detected */
+@media (prefers-color-scheme: dark) {
+  a:link {
+    text-shadow: 0.03em 0 #121212, -0.03em 0 #121212, 0 0.03em #121212,
+      0 -0.03em #121212, 0.06em 0 #121212, -0.06em 0 #121212, 0.09em 0 #121212,
+      -0.09em 0 #121212, 0.12em 0 #121212, -0.12em 0 #121212, 0.15em 0 #121212,
+      -0.15em 0 #121212;
   }
 }
