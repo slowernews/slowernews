@@ -19,7 +19,7 @@ Only when relevant. Visit every month and «you're good to go». New articles ar
 
 Open an issue or pull request this repository with relevant links, corrections or suggestions. I plan to curate only two pages ([Main](https://www.slowernews.com/) and one about [Portugal](https://www.slowernews.com/portugal)) but I accept pull requests creating/updating more - if you can curate them and will handle the burden of using HTML. For now this is my filter to accept them.
 
-#### So What pages can I create?
+### So what pages can I create?
 
 Ultimately, it's up to you.
 
