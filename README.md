@@ -7,7 +7,7 @@ This project appeared while «scratching my own itch» - an information flood is
 
 ### How do you curate articles?
 
-Articles are hand selected. Everything that calls my attention and passes the «trivia filter» will be added to Slower News. It's certainly affected by my biases [(I'm aware of these)](https://github.com/slownews/wisdom-tldr-guide/blob/master/FAQ%20%26%20CHANGELOG.md#what-are-your-main-biases) and most articles were on Hacker News.
+Articles are hand selected. Everything that calls my attention and passes the «trivia filter» will be added to Slower News. It's certainly affected by my biases [(I'm aware of these)](https://github.com/slowernews/slowernews/blob/master/FAQ.md#what-are-your-main-biases) and most articles were on Hacker News.
 
 ### How often is Slower News updated?
 
