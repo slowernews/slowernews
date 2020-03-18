@@ -6,13 +6,15 @@ This is, somehow, a slowly updated news-aggregator with relevant trends, micro-t
 
 ### Why?
 
-I wanted to read something like this - an information flood is drowning our times - but I couldn't find it elsewhere. So, as most projects, this started while «scratching my own itch» and before becoming a website it lived as a markdown file. Later I started to see it as a way of using my research/procrastination positively.
+I wanted to read something like this - an information flood is drowning our times - but I couldn't find it elsewhere. So, as most projects, this started while «scratching my own itch» and before becoming a website it lived as a markdown file.
+
+Later I started to see it as a way of using my research/procrastination positively.
 
 ### How do you curate articles?
 
 Articles are hand selected. Everything that calls my attention and passes the «trivia filter» will be added to Slower News. It's certainly affected by my biases (I'm aware of these<sup id="refnote1"> [1](#footnote1)</sup>) and most articles on main page were on Hacker News.
 
-My strategy is to pick articles that are relevant at least for some months: articles that dissect trends, unveil lesser known trends and some interesting edge cases and counter-examples. The articles listing order is also not random.
+My strategy is to pick articles that will be relevant, at least, for some months: articles that dissect trends, unveil lesser known trends and some interesting edge cases and counter-examples. The articles listing order is also not random.
 
 ### How often is Slower News updated?
 
