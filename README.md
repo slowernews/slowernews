@@ -12,7 +12,7 @@ I wanted to read something like this - an information flood is drowning our time
 
 Articles are hand selected. Everything that calls my attention and passes the «trivia filter» will be added to Slower News. It's certainly affected by my biases (I'm aware of these<sup id="refnote1"> [1](#footnote1)</sup>) and most articles on main page were on Hacker News.
 
-My strategy is to pick articles that are relevant at least for some months and not for a week or two: articles that dissect trends or unveil lesser known trends and some interesting edge cases and counter-examples. The articles listing order is not random.
+My strategy is to pick articles that are relevant at least for some months: articles that dissect trends, unveil lesser known trends and some interesting edge cases and counter-examples. The articles listing order is also not random.
 
 ### How often is Slower News updated?
 
