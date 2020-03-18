@@ -6,7 +6,7 @@ This is, somehow, a slowly updated news-aggregator with relevant trends, micro-t
 
 ### Why?
 
-I wanted to read something like this - an information flood is drowning our times - but I couldn't find it elsewhere. As most projects, this started while «scratching my own itch» and before becoming a website it lived as a markdown file. Later I started to see it as a way of using my research/procrastination positively.
+I wanted to read something like this - an information flood is drowning our times - but I couldn't find it elsewhere. So, as most projects, this started while «scratching my own itch» and before becoming a website it lived as a markdown file. Later I started to see it as a way of using my research/procrastination positively.
 
 ### How do you curate articles?
 
