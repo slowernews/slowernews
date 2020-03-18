@@ -6,13 +6,13 @@ This is, somehow, a slowly updated news-aggregator with relevant trends, micro-t
 
 ### Why?
 
-This project started while «scratching my own itch». I wanted to read something like this but I couldn't find it elsewhere - an information flood is drowning our times - and before becoming a website, it lived as a markdown file. Later I started to see it as a way of using my research/procrastination positively.
+I wanted to read something like this - an information flood is drowning our times - but I couldn't find it elsewhere. As most projects, this started while «scratching my own itch» and before becoming a website it lived as a markdown file. Later I started to see it as a way of using my research/procrastination positively.
 
 ### How do you curate articles?
 
 Articles are hand selected. Everything that calls my attention and passes the «trivia filter» will be added to Slower News. It's certainly affected by my biases (I'm aware of these<sup id="refnote1"> [1](#footnote1)</sup>) and most articles on main page were on Hacker News.
 
-My strategy is to pick articles that are relevant at least for some months and not for a week or two: articles that dissect trends or unveil less known trends and some interesting edge cases and counter-examples.
+My strategy is to pick articles that are relevant at least for some months and not for a week or two: articles that dissect trends or unveil lesser known trends and some interesting edge cases and counter-examples. The articles listing order is not random.
 
 ### How often is Slower News updated?
 
@@ -35,4 +35,4 @@ Hand coded SPA - with no JS - and statically hosted at Netlify from a Github rep
 ---
 <sup>Notes:</sup><br>
 <sup><a name="footnote1">1</a> - Western culture (European flavour), essencialism, centrism, agnosticism and I'm male. [↩](#refnote1)</sup><br>
-<sup><a name="footnote2">2</a> - Links with a different color. [↩](#refnote2)</sup><br>
+<sup><a name="footnote2">2</a> - New links have a different color. [↩](#refnote2)</sup><br>
