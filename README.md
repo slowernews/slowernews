@@ -6,15 +6,17 @@ This is, somehow, a slowly updated news-aggregator with relevant trends, micro-t
 
 ### Why?
 
-This project started while «scratching my own itch». It was something I wanted to read and couldn't find elsewhere - an information flood is drowning our times - and before becoming a website, it lived as a markdown file. Later I started to see it as a way of using my research/procrastination positively.
+This project started while «scratching my own itch». I wanted to read something like this but I couldn't find it elsewhere - an information flood is drowning our times - and before becoming a website, it lived as a markdown file. Later I started to see it as a way of using my research/procrastination positively.
 
 ### How do you curate articles?
 
 Articles are hand selected. Everything that calls my attention and passes the «trivia filter» will be added to Slower News. It's certainly affected by my biases (I'm aware of these<sup id="refnote1"> [1](#footnote1)</sup>) and most articles on main page were on Hacker News.
 
+My strategy is to pick articles that are relevant at least for some months and not for a week or two: articles that dissect trends or unveil less known trends and some interesting edge cases and counter-examples.
+
 ### How often is Slower News updated?
 
-Only when relevant. Visit every month and «you're good to go». New articles are easy to spot.
+Only when relevant. Visit every month and «you're good to go». New articles are easy to spot<sup id="refnote2"> [2](#footnote2)</sup>.
 
 ### Can I contribute?
 
@@ -24,7 +26,7 @@ Open an issue or pull request this repository with relevant links, corrections o
 
 Ultimately, it's up to you.
 
-Specific Slower News that I would like to read but I don't have the time (probably nor the knowledge) to curate: on Javascript, on Clojure, on Front-end, on python, on Architecture, on Space exploration, on European Union, on Poland, on Russia ...
+Specific Slower News that I would like to read but I don't have the time (probably nor the knowledge) to curate: on Javascript, on Clojure, on Front-end, on Python, on Architecture, on Space exploration, on European Union, on Poland, on Russia, on US, on Middle East ...
 
 ### Colophon
 
@@ -32,4 +34,5 @@ Hand coded SPA - with no JS - and statically hosted at Netlify from a Github rep
 
 ---
 <sup>Notes:</sup><br>
-<sup><a name="footnote1">1</a> - Western culture (European flavour), essencialism, centrism, agnosticism and I'm male. [↩](#refnote1)</sup>
+<sup><a name="footnote1">1</a> - Western culture (European flavour), essencialism, centrism, agnosticism and I'm male. [↩](#refnote1)</sup><br>
+<sup><a name="footnote2">2</a> - Links with a different color. [↩](#refnote2)</sup><br>
