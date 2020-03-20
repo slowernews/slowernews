@@ -28,7 +28,7 @@ Open an issue or pull request this repository with relevant links, corrections o
 
 Ultimately, it's up to you.
 
-Specific Slower News that I would like to read but I don't have the time (probably nor the knowledge) to curate: on Javascript, on Clojure, on Front-end, on Python, on Architecture, on Space exploration, on European Union, on Poland, on Russia, on US, on Middle East ...
+Specific Slower News that I would like to read but I don't have the time (probably nor the knowledge) to curate: on Javascript, on Clojure, on Front-end, on Python, on Architecture, on Space exploration, on Robotics, on European Union, on Poland, on Russia, on US, on Music...
 
 ### Colophon
 
