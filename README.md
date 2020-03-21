@@ -26,9 +26,7 @@ Open an issue or pull request this repository with relevant links, corrections o
 
 ### So what pages can I create?
 
-Ultimately, it's up to you.
-
-Specific Slower News that I would like to read but I don't have the time (probably nor the knowledge) to curate: on Javascript, on Clojure, on Front-end, on Python, on Architecture, on Space exploration, on Robotics, on European Union, on Poland, on Russia, on US, on Music...
+Ultimately, it's up to you.<sup id="refnote3"> [3](#footnote3)</sup>
 
 ### Colophon
 
@@ -38,3 +36,4 @@ Hand coded SPA - with no JS - and statically hosted at Netlify from a Github rep
 <sup>Notes:</sup><br>
 <sup><a name="footnote1">1</a> - Western culture (European flavour), essencialism, centrism, agnosticism and I'm male. [↩](#refnote1)</sup><br>
 <sup><a name="footnote2">2</a> - New links have a different color. [↩](#refnote2)</sup><br>
+<sup><a name="footnote3">3</a> - Specific Slower News that I would like to read but I don't have the time (nor the knowledge) to curate: on Javascript, on Clojure, on Front-end, on Python, on Architecture, on Space exploration, on Robotics, on European Union, on Poland, on Russia, on Music, on Maths, on Arts, on Photography, on Investment ... [↩](#refnote3)</sup>
