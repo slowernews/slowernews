@@ -18,7 +18,7 @@ My strategy is to pick articles that will be relevant, at least, for some months
 
 ### How often is Slower News updated?
 
-Only when relevant. Visit every month and «you're good to go». New articles are easy to spot<sup id="refnote2"> [2](#footnote2)</sup>.
+Only when relevant. Visit every month and «you're good to go». New articles are easy to spot<sup id="refnote2"> [2](#footnote2)</sup> and there is [RSS](https://www.slowernews.com/rss.xml) also.
 
 ### Can I contribute?
 
