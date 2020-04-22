@@ -14,7 +14,7 @@ Later I started to see it as a way of using my research/procrastination positive
 
 Articles are hand selected. Everything that calls my attention and passes the «trivia filter» will be added to Slower News. It's certainly affected by my biases (I'm aware of these<sup id="refnote1"> [1](#footnote1)</sup>) and most articles on main page were on Hacker News.
 
-My strategy is to pick articles that will be relevant, at least, for some months: articles that dissect trends, unveil lesser known trends and some interesting edge cases and counter-examples. The articles listing order is also not random.
+My strategy is to pick articles that will be relevant, at least, for some months: articles that dissect trends, unveil lesser known trends or some interesting edge cases and counter-examples. The articles listing order is also not random.
 
 ### How often is Slower News updated?
 
@@ -30,10 +30,10 @@ Ultimately, it's up to you.<sup id="refnote3"> [3](#footnote3)</sup>
 
 ### Colophon
 
-Hand coded SPA - with no JS - and statically hosted at Netlify from a Github repository. Tufte CSS (adapted). No images, no tracking (GDPR friendly analytics with Goatcounter) and no bloat. Ok, I use non-standard fonts but web design is mostly typography.
+Hand coded - with no JS - and statically hosted at Netlify from a Github repository. Tufte CSS (adapted). No images, no tracking (GDPR friendly analytics with Goatcounter) and no bloat. Ok, it uses non-standard fonts but web design is mostly typography.
 
 ---
 <sup>Notes:</sup><br>
-<sup><a name="footnote1">1</a> - Western culture (European flavour), essencialism, centrism, agnosticism and I'm male. [↩](#refnote1)</sup><br>
+<sup><a name="footnote1">1</a> - Western culture (European flavour), loose minimalism, centrism, agnosticism and I'm male. [↩](#refnote1)</sup><br>
 <sup><a name="footnote2">2</a> - New links have a different color. [↩](#refnote2)</sup><br>
 <sup><a name="footnote3">3</a> - Specific Slower News that I would like to read but I don't have the time (nor the knowledge) to curate: on Javascript, on Clojure, on Front-end, on Python, on Architecture, on Space exploration, on Robotics, on European Union, on Poland, on Russia, on Music, on Maths, on Arts, on Photography, on Investment ... [↩](#refnote3)</sup>
