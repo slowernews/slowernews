@@ -2,7 +2,7 @@
 
 ### WTF is this?
 
-This is, somehow, a slowly updated news-aggregator with relevant trends, micro-trends and edge cases for borderline nerds, that don't want to miss out, nor spend a shit-ton of time distilling trivia.
+This is, somehow, a slowly updated news-aggregator only with relevant trends, micro-trends and edge cases for borderline nerds, that don't want to miss out, nor spend a shit-ton of time distilling trivia.
 
 ### Why?
 
