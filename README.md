@@ -2,7 +2,7 @@
 
 ### WTF is this?
 
-These are, somehow, curated news extracting relevant trends, micro-trends and some edge cases for borderline nerds, that don't want to miss out, nor spend a shit-ton of time distilling trivia.
+These are, somehow, curated news extracting relevant trends and some edge cases for borderline nerds, that don't want to miss out, nor spend a shit-ton of time distilling trivia.
 
 ### Why?
 
