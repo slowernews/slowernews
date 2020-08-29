@@ -34,6 +34,6 @@ Hand coded - with no JS - and statically hosted at Netlify from a Github reposit
 
 ---
 <sup>Notes:</sup><br>
-<sup><a name="footnote1">1</a> - Western culture (European flavour), loose minimalism, centrism, agnosticism and I'm male. [↩](#refnote1)</sup><br>
+<sup><a name="footnote1">1</a> - Western culture (European flavour), loose minimalism, loose intelectualism, centrism, agnosticism and I'm male. [↩](#refnote1)</sup><br>
 <sup><a name="footnote2">2</a> - New links have a different color. [↩](#refnote2)</sup><br>
 <sup><a name="footnote3">3</a> - Specific Slower News that I would like to read but I don't have the time (or the knowledge) to curate: on Javascript, on Front-end, on Jamstack, on Clojure, on [Janet](https://janet-lang.org/), on Haskell, on Python, on Architecture, on Space exploration, on Robotics, on European Union, on Poland, on Russia, on Germany, on Music, on Maths, on Arts, on Photography, on Investment, on Maps ... [↩](#refnote3)</sup>
