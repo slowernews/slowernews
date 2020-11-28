@@ -22,7 +22,7 @@ Only when relevant. Visit every month and «you're good to go». New articles ar
 
 ### Can I contribute?
 
-Open an issue or pull request this repository with relevant links, corrections or suggestions. I plan to curate only two pages ([main](https://www.slowernews.com/) and one about [Portugal](https://www.slowernews.com/portugal)) but I accept pull requests creating/updating more - if you can handle the burden of using HTML. For now, this is my filter to accept them.
+Open an issue or pull request this repository with relevant links, corrections or suggestions. I'm curating only two pages ([main](https://www.slowernews.com/) and one about [Portugal](https://www.slowernews.com/portugal)) but I accept pull requests creating/curating more - if you can handle the burden of using HTML. For now, this is my filter to accept them.
 
 ### So what pages can I create?
 
@@ -34,6 +34,6 @@ Hand coded - fully functional with JS disabled - and statically hosted at Netlif
 
 ---
 <sup>Notes:</sup><br>
-<sup><a name="footnote1">1</a> - Western culture (European flavour), loose minimalism, loose intelectualism, centrism, agnosticism and I'm male. Trained as an housing architect.[↩](#refnote1)</sup><br>
+<sup><a name="footnote1">1</a> - Western culture (European flavour), loose minimalism, loose intelectualism, centrism, agnosticism and I'm male. Trained as an housing architect. [↩](#refnote1)</sup><br>
 <sup><a name="footnote2">2</a> - New links have a different color for, at least, six months. [↩](#refnote2)</sup><br>
 <sup><a name="footnote3">3</a> - Specific Slower News that I would like to read but I don't have the time (or the knowledge) to curate: on Javascript, on Front-end, on Jamstack, on Clojure, on [Janet](https://janet-lang.org/), on Haskell, on Python, on Architecture, on Space exploration, on Robotics, on European Union, on Poland, on Russia, on Germany, on Music, on Maths, on Arts, on Photography, on Investment, on Maps ... [↩](#refnote3)</sup>
