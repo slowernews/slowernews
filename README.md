@@ -8,7 +8,7 @@ These are, somehow, curated news extracting relevant trends and some edge cases 
 
 I wanted to read something like this - an information flood is drowning our times - but I couldn't find it elsewhere. So, as most projects, it started while «scratching my own itch» and before becoming a website it lived as a markdown file.
 
-Later I started to see it as a [way of using my research/procrastination positively](http://www.structuredprocrastination.com/).
+It is a sisyphean task - making sense of a nonsense world - but I started to see it as a [way of using my research/procrastination positively](http://www.structuredprocrastination.com/).
 
 ### How do you curate articles?
 
