@@ -8,13 +8,11 @@ These are, somehow, curated news extracting relevant trends and some edge cases 
 
 I wanted to read something like this - an information flood is drowning our times - but I couldn't find it elsewhere. So, as most projects, it started while «scratching my own itch» and before becoming a website it lived as a markdown file.
 
-Making sense of a nonsense world is a sisyphean task but I see it as a [way of using my research/procrastination positively](http://www.structuredprocrastination.com/).
+Making sense of a chaotic world is a sisyphean task but I see it as a [way of using my research/procrastination positively](http://www.structuredprocrastination.com/).
 
 ### How do you curate articles?
 
-Articles are hand selected. Everything that calls my attention and passes the «trivia filter» will be added to Slower News. It's certainly affected by my biases (I'm aware of these<sup id="refnote1"> [1](#footnote1)</sup>) and most articles on main page were on Hacker News.
-
-My strategy is to pick articles that will be relevant, at least, for some months: articles that dissect trends, unveil lesser known trends or some interesting edge cases and counter-examples. The articles' listing order is, often, not random.
+I cherry-pick articles that dissect trends or unveil lesser known trends and interesting edge cases, and are relevant, at least, for some months. It's certainly affected by my biases (I'm aware of these<sup id="refnote1"> [1](#footnote1)</sup>) and most articles on main page were on Hacker News. The articles' listing order is, often, not random.
 
 ### How often is Slower News updated?
 
@@ -22,7 +20,7 @@ Only when relevant. Visit every month and «you're good to go». New articles ar
 
 ### Can I contribute?
 
-Open an issue or pull request this repository with relevant links, corrections or suggestions. I'm curating only two pages ([main](https://www.slowernews.com/) and one about [Portugal](https://www.slowernews.com/portugal)) but I accept pull requests creating/curating more - if you can handle the burden of using HTML. For now, this is my filter to accept them.
+Open an issue or pull request this repository with relevant links, corrections or suggestions. I'm curating only two pages ([main](https://www.slowernews.com/) and one about [Portugal](https://www.slowernews.com/portugal)) but I accept pull requests creating/curating more - if you can handle the burden of using raw HTML. For now, this is my filter to accept them.
 
 ### So what pages can I create?
 
