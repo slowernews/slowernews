@@ -1,3 +1,19 @@
+@font-face {
+  font-family: "et-book";
+  src: url("et-book-roman-line-figures.woff");
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "et-book";
+  src: url("et-book-display-italic-old-style-figures.woff");
+  font-weight: normal;
+  font-style: italic;
+  font-display: swap;
+}
+
 :root {
   font-size: 15px;
   --bg: #fffff8;
