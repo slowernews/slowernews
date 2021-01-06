@@ -20,7 +20,7 @@ Only when relevant. Visit every month and «you're good to go». New articles ar
 
 ### Can I contribute?
 
-Open an issue or pull request this repository with relevant links, corrections or suggestions. I'm curating only two pages ([main](https://www.slowernews.com/) and one about [Portugal](https://www.slowernews.com/portugal)) but I accept pull requests creating/curating more - if you can handle the burden of using raw HTML. For now, this is my filter to accept them.
+Open an issue or pull request this repository with relevant links, corrections or suggestions. I'm curating only two pages ([main](https://www.slowernews.com/) and [one about Portugal](https://www.slowernews.com/portugal)) but I accept pull requests creating/curating more - if you can handle the burden of using raw HTML. For now, this is my filter to accept them.
 
 ### So what pages can I create?
 
