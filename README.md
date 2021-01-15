@@ -12,7 +12,7 @@ Making sense of a chaotic world is a sisyphean task but I see it as a [way of us
 
 ### How do you curate articles?
 
-I cherry-pick articles that dissect trends or unveil lesser known trends and interesting edge cases, and are relevant, at least, for some months. It's certainly affected by my biases (I'm aware of these<sup id="refnote1"> [1](#footnote1)</sup>) and most articles on main page were on Hacker News. The articles' listing order is, often, not random.
+I cherry-pick articles that dissect trends or unveil lesser known trends and interesting edge cases, and are relevant, at least, for some months. It's certainly affected by my biases (I'm aware of these<sup id="refnote1"> [1](#footnote1)</sup>) and most articles on main page were on Hacker News. The articles' listing order is not random.
 
 ### How often is Slower News updated?
 
@@ -34,4 +34,4 @@ Hand coded - fully functional with JS disabled - and statically hosted at Netlif
 <sup>Notes:</sup><br>
 <sup><a name="footnote1">1</a> - Western culture (European flavour), loose minimalism, loose intelectualism, centrism, agnosticism and I'm male. Trained as an housing architect. [↩](#refnote1)</sup><br>
 <sup><a name="footnote2">2</a> - New links have a different color for, at least, six months. [↩](#refnote2)</sup><br>
-<sup><a name="footnote3">3</a> - Specific Slower News that I would like to read but I don't have the time (or the knowledge) to curate: on Javascript, on Front-end, on Jamstack, on Clojure, on [Janet](https://janet-lang.org/), on Haskell, on Python, on Architecture, on Space exploration, on Robotics, on European Union, on Poland, on Russia, on Germany, on Music, on Maths, on Arts, on Photography, on Investment, on Maps ... [↩](#refnote3)</sup>
+<sup><a name="footnote3">3</a> - Examples of specific pages that I would like to read but I don't have the time (or the knowledge) to curate: on Javascript, on Front-end, on Jamstack, on Clojure, on [Janet](https://janet-lang.org/), on Haskell, on Python, on Architecture, on Space exploration, on Robotics, on European Union, on Poland, on Russia, on Germany, on Music, on Maths, on Arts, on Photography, on Investment, on Maps ... [↩](#refnote3)</sup>
