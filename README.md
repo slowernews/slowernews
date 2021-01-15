@@ -28,7 +28,7 @@ Ultimately, it's up to you.<sup id="refnote3"> [3](#footnote3)</sup>
 
 ### Colophon
 
-Hand coded - fully functional with JS disabled - and statically hosted at Netlify from a Github repository. Tufte CSS (adapted) with native dark mode. No images, no tracking (GDPR friendly analytics with [Goatcounter](https://slowernews.goatcounter.com/)) and [no bloat](https://gtmetrix.com/reports/www.slowernews.com/LWJR6AaG/). Ok, it uses non-standard fonts but web design is mostly typography.
+Hand coded - fully functional with JS disabled - and statically hosted at Netlify from a Github repository. Tufte CSS (adapted) with native dark mode. No images, no tracking (GDPR friendly analytics with [Goatcounter](https://slowernews.goatcounter.com/)) and [no bloat](https://gtmetrix.com/reports/www.slowernews.com/iRNCHojs/). Ok, it uses non-standard fonts but web design is mostly typography.
 
 ---
 <sup>Notes:</sup><br>
