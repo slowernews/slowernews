@@ -1,4 +1,4 @@
-# RATIONALE: Slower News
+# Rationale - Slower News
 
 Why articles were included, substituded or deprecated. Newer changes on top.
 
