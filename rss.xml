@@ -6,8 +6,16 @@
 		<link>https://www.slowernews.com/</link>
 
 		<item>
+			<title>|SLOWERNEWS update| Future curation will be explained with a basic rationale.</title>
+			<description><p>Future curation will be explained/dated with a basic rationale. New articles will get a specific hyperlink pointing there.</p></description>
+			<link>https://github.com/slowernews/slowernews/blob/master/rationales/rationale-index.md</link>
+			<guid>https://github.com/slowernews/slowernews/blob/master/rationales/rationale-index.md</guid>
+			<pubDate>Sun, 17 Jan 2021 11:18:30 +0000</pubDate>
+		</item>
+
+		<item>
 			<title>|Democracy - Updated link| America’s new corporate tyranny.</title>
-			<description><p>Updated link on <a href="https://www.slowernews.com/#democracy">Slower News - Democracy</a> category. <a href="https://github.com/slowernews/slowernews/blob/master/rationales/rationale-index.md#americas-new-corporate-tyranny">Rationale</a>.</p></description>
+			<description><p>Updated link on <a href="https://www.slowernews.com/#democracy">Slower News - Democracy</a> category. <a href="https://github.com/slowernews/slowernews/blob/master/rationales/rationale-index.md#americas-new-corporate-tyranny">[Rationale]</a></p></description>
 			<link>https://www.tabletmag.com/sections/news/articles/americas-new-corporate-tyranny</link>
 			<guid>https://www.tabletmag.com/sections/news/articles/americas-new-corporate-tyranny</guid>
 			<pubDate>Sun, 17 Jan 2021 10:18:30 +0000</pubDate>
