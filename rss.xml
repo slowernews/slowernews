@@ -6,8 +6,8 @@
 		<link>https://www.slowernews.com/</link>
 
 		<item>
-			<title>|SLOWERNEWS update| Future curation will be explained with a basic rationale.</title>
-			<description><p>Future curation will be explained/dated with a basic rationale. New articles will get a specific hyperlink pointing there.</p></description>
+			<title>|INFO| Future curation will be explained with a basic rationale.</title>
+			<description><p>New articles will get a specific hyperlink pointing there.</p></description>
 			<link>https://github.com/slowernews/slowernews/blob/master/rationales/rationale-index.md</link>
 			<guid>https://github.com/slowernews/slowernews/blob/master/rationales/rationale-index.md</guid>
 			<pubDate>Sun, 17 Jan 2021 11:18:30 +0000</pubDate>
