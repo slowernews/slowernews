@@ -1,8 +1,7 @@
-<rss xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
+<rss version="2.0">
 	<channel>
 		<title>Slower News - Portugal</title>
 		<description>Keep up with relevant trends, micro-trends and edge cases. Don't miss out nor spend a shit-ton of time distilling trivia.</description>
-		<generator>Hand made :)</generator>
 		<link>https://www.slowernews.com/portugal</link>
 
 		<item>

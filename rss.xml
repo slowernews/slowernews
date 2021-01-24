@@ -1,9 +1,32 @@
-<rss xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
+<rss version="2.0">
 	<channel>
 		<title>Slower News</title>
 		<description>Keep up with relevant trends, micro-trends and edge cases. Don’t miss out nor spend a shit-ton of time distilling trivia.</description>
-		<generator>Hand made :)</generator>
 		<link>https://www.slowernews.com/</link>
+
+		<item>
+			<title>|Demography| Machine learning: The great stagnation.</title>
+			<description><p>Updated link on <a href="https://www.slowernews.com/#drones-robotics-and-ai">Slower News - Drones, robotics & AI</a> category. <a href="https://github.com/slowernews/slowernews/blob/master/rationales/rationale-index.md#machine-learning-the-great-stagnation">[Rationale]</a></p></description>
+			<link>https://marksaroufim.substack.com/p/machine-learning-the-great-stagnation</link>
+			<guid>https://marksaroufim.substack.com/p/machine-learning-the-great-stagnation</guid>
+			<pubDate>Sun, 24 Jan 2021 08:18:30 +0000</pubDate>
+		</item>
+
+		<item>
+			<title>|Demography| New visa allows 70% of Hong Kong residents to migrate to UK.</title>
+			<description><p>New link on <a href="https://www.slowernews.com/#demography">Slower News - Demography</a> category. <a href="https://github.com/slowernews/slowernews/blob/master/rationales/rationale-index.md#new-visa-allows-70-of-hong-kong-residents-to-migrate-to-uk">[Rationale]</a></p></description>
+			<link>https://www.bbc.com/news/world-asia-china-55357495</link>
+			<guid>https://www.bbc.com/news/world-asia-china-55357495</guid>
+			<pubDate>Sun, 24 Jan 2021 08:18:30 +0000</pubDate>
+		</item>
+
+		<item>
+			<title>|Business - Updated link| All companies are technology companies now.</title>
+			<description><p>Updated link on <a href="https://www.slowernews.com/#business">Slower News - Business</a> category. <a href="https://github.com/slowernews/slowernews/blob/master/rationales/rationale-index.md#all-companies-are-technology-companies-now">[Rationale]</a></p></description>
+			<link>https://blogs.thomsonreuters.com/answerson/all-companies-are-technology-companies-now/</link>
+			<guid>https://blogs.thomsonreuters.com/answerson/all-companies-are-technology-companies-now/</guid>
+			<pubDate>Sun, 24 Jan 2021 07:18:30 +0000</pubDate>
+		</item>
 
 		<item>
 			<title>|INFO| Future curation will be explained with a basic rationale.</title>
@@ -395,30 +418,6 @@
 			<link>https://www.nature.com/articles/s41467-020-17794-1</link>
 			<guid>https://www.nature.com/articles/s41467-020-17794-1</guid>
 			<pubDate>Fri, 16 Aug 2020 10:04:30 +0000</pubDate>
-		</item>
-
-		<item>
-			<title>|Economy| Universal Basic Income is Capitalism 2.0.</title>
-			<description><p>New link on <a href="https://www.slowernews.com/#economy">Slower News - Economy</a> category.</p></description>
-			<link>https://timjrobinson.com/universal-basic-income-is-capitalism-2-0/</link>
-			<guid>https://timjrobinson.com/universal-basic-income-is-capitalism-2-0/</guid>
-			<pubDate>Thu, 30 Jul 2020 10:03:30 +0000</pubDate>
-		</item>
-
-		<item>
-			<title>|Geopolitics| Three spacecraft heading to Mars last summer.</title>
-			<description><p>New link on <a href="https://www.slowernews.com/#geopolitics">Slower News - Geopolitics</a> category.</p></description>
-			<link>https://www.nytimes.com/interactive/2020/science/mars-perseverance-tianwen-hope.html</link>
-			<guid>https://www.nytimes.com/interactive/2020/science/mars-perseverance-tianwen-hope.html</guid>
-			<pubDate>Thu, 30 Jul 2020 09:03:30 +0000</pubDate>
-		</item>
-
-		<item>
-			<title>|Energy| World’s largest nuclear fusion project begins assembly.</title>
-			<description><p>New link on <a href="https://www.slowernews.com/#energy">Slower News - Energy</a> category.</p></description>
-			<link>https://www.bbc.co.uk/news/science-environment-53573294</link>
-			<guid>https://www.bbc.co.uk/news/science-environment-53573294</guid>
-			<pubDate>Thu, 30 Jul 2020 08:03:30 +0000</pubDate>
 		</item>
 	</channel>
 </rss>
