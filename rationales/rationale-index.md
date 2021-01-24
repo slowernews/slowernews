@@ -12,7 +12,7 @@ Why articles were included, replaced or deprecated. Often it implies reordering 
 
 2021-01-24
 
-- Relevant demographic and geopolitical movement. Open question: Did Brexit precipitated it?
+- Relevant demographic and geopolitical movement. Open question: did Brexit precipitate it?
 
 ### All companies are technology companies now
 
@@ -26,7 +26,7 @@ Why articles were included, replaced or deprecated. Often it implies reordering 
 
 - Deprecating [Intel Vaunt smart glasses](https://www.theverge.com/2018/2/5/16966530/intel-vaunt-smart-glasses-announced-ar-video). Vaunt was discontinued as [Intel confirmed that it plans to shut down the New Devices Group (NDG) and cease development of its smart glasses](https://www.theverge.com/2018/4/18/17255354/intel-vaunt-shut-down).
 
-### Americas new corporate tyranny
+### America's new corporate tyranny
 
 2021-01-17
 
