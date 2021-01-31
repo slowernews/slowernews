@@ -2,6 +2,24 @@
 
 Why articles were included, replaced or deprecated. Often, it implies reordering the article section to balance/relate viewpoints.
 
+### Bringing back old features
+
+2021-01-31
+
+- Interesting edge case. Profiting from bringing back old features instead of creating new ones.
+
+### We are sending more foster kids to prison than college
+
+2021-01-31
+
+- Self-explanatory.
+
+### Improvements on eyesight treatments
+
+2021-01-31
+
+- Self-explanatory.
+
 ### Machine learning: the great stagnation
 
 2021-01-24
