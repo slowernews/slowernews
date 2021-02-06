@@ -2,6 +2,18 @@
 
 Why articles were included, replaced or deprecated. Often, it implies reordering the article section to balance/relate viewpoints.
 
+### Flattery-driven open-source
+
+2021-02-06
+
+- Social media is a role-playing game. Odd example.
+
+### Two worlds
+
+2021-02-06
+
+- Updates [Stock market and economy have parted ways.](https://www.washingtonpost.com/opinions/the-stock-market-and-economy-have-parted-ways-its-a-fomo-market-now/2020/07/12/c14246d8-c2bf-11ea-b4f6-cb39cd8940fb_story.html). Same viewpoint but better articulated.
+
 ### Bringing back old features
 
 2021-01-31

@@ -3,6 +3,22 @@
 		<title>Slower News</title>
 		<description>Keep up with relevant trends, micro-trends and edge cases. Don’t miss out nor spend a shit-ton of time distilling trivia.</description>
 		<link>https://www.slowernews.com/</link>
+			
+		<item>
+			<title>|Social| Flattery-driven open-source.</title>
+			<description><p>New link (with rationale) on <a href="https://www.slowernews.com/#social">Slower News - Social</a> category.</p></description>
+			<link>https://ppinera.es/2021/01/03/flattery-driven-open-source/</link>
+			<guid>https://ppinera.es/2021/01/03/flattery-driven-open-source/</guid>
+			<pubDate>Sat, 6 Feb 2021 08:18:30 +0000</pubDate>
+		</item>
+
+		<item>
+			<title>|Economy| Two worlds.</title>
+			<description><p>Updated link (with rationale) on <a href="https://www.slowernews.com/#economy">Slower News - Economy</a> category.</p></description>
+			<link>https://www.collaborativefund.com/blog/two-worlds/</link>
+			<guid>https://www.collaborativefund.com/blog/two-worlds/</guid>
+			<pubDate>Sat, 6 Feb 2021 07:18:30 +0000</pubDate>
+		</item>
 
 		<item>
 			<title>|Business| Bringing back old features.</title>
