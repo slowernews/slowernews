@@ -3,7 +3,31 @@
 		<title>Slower News</title>
 		<description>Keep up with relevant trends, micro-trends and edge cases. Don’t miss out nor spend a shit-ton of time distilling trivia.</description>
 		<link>https://www.slowernews.com/</link>
-			
+
+		<item>
+			<title>|Beliefs and Ethics| Personal experiences bridge moral and political divides better than facts.</title>
+			<description><p>New link (with rationale) on <a href="https://www.slowernews.com/#beliefs-and-ethics">Slower News - Beliefs and ethics</a> category.</p></description>
+			<link>https://www.pnas.org/content/118/6/e2008389118</link>
+			<guid>https://www.pnas.org/content/118/6/e2008389118</guid>
+			<pubDate>Fri, 12 Feb 2021 08:18:30 +0000</pubDate>
+		</item>
+
+		<item>
+			<title>|Farming| How to lower the price of plant-based meat?</title>
+			<description><p>New link (with rationale) on <a href="https://www.slowernews.com/#farming">Slower News - Farming</a> category.</p></description>
+			<link>https://mailchi.mp/c2768b122d5b/how-to-lower-the-price-of-plant-based-meat</link>
+			<guid>https://mailchi.mp/c2768b122d5b/how-to-lower-the-price-of-plant-based-meat</guid>
+			<pubDate>Fri, 12 Feb 2021 07:18:30 +0000</pubDate>
+		</item>
+
+		<item>
+			<title>|Democracy| The war on disinformation is a war on dissent.</title>
+			<description><p>New link (with rationale) on <a href="https://www.slowernews.com/#democracy">Slower News - Democracy</a> category.</p></description>
+			<link>https://humanevents.com/2021/02/04/the-war-on-disinformation-is-a-war-on-dissent/</link>
+			<guid>https://humanevents.com/2021/02/04/the-war-on-disinformation-is-a-war-on-dissent/</guid>
+			<pubDate>Fri, 12 Feb 2021 06:18:30 +0000</pubDate>
+		</item>
+
 		<item>
 			<title>|Social| Flattery-driven open-source.</title>
 			<description><p>New link (with rationale) on <a href="https://www.slowernews.com/#social">Slower News - Social</a> category.</p></description>
@@ -442,30 +466,6 @@
 			<link>https://www.nationalgeographic.com/news/2017/07/plastic-produced-recycling-waste-ocean-trash-debris-environment/</link>
 			<guid>https://www.nationalgeographic.com/news/2017/07/plastic-produced-recycling-waste-ocean-trash-debris-environment/</guid>
 			<pubDate>Wed, 16 Sep 2020 08:02:30 +0000</pubDate>
-		</item>
-
-		<item>
-			<title>|Construction| 3D-printer prints an entire two-story house.</title>
-			<description><p>New link on <a href="https://www.slowernews.com/#construction">Slower News - Construction</a> category.</p></description>
-			<link>https://www.designboom.com/architecture/kamp-c-3d-prints-two-story-house-08-17-2020/</link>
-			<guid>https://www.designboom.com/architecture/kamp-c-3d-prints-two-story-house-08-17-2020/</guid>
-			<pubDate>Thu, 20 Aug 2020 08:04:30 +0000</pubDate>
-		</item>
-
-		<item>
-			<title>|Ecology| Though forests burn, trees retake farmland globally as agroforestry advances.</title>
-			<description><p>New link on <a href="https://www.slowernews.com/#ecology-and-climate">Slower News - Ecology</a> category.</p></description>
-			<link>https://news.mongabay.com/2020/08/though-forests-burn-agroforestry-advances-as-trees-retake-farmland-globally/</link>
-			<guid>https://news.mongabay.com/2020/08/though-forests-burn-agroforestry-advances-as-trees-retake-farmland-globally/</guid>
-			<pubDate>Thu, 20 Aug 2020 08:04:30 +0000</pubDate>
-		</item>
-
-		<item>
-			<title>|Health| Elevated rates of autism in transgender and gender-diverse individuals.</title>
-			<description><p>New link on <a href="https://www.slowernews.com/#health">Slower News - Health</a> category.</p></description>
-			<link>https://www.nature.com/articles/s41467-020-17794-1</link>
-			<guid>https://www.nature.com/articles/s41467-020-17794-1</guid>
-			<pubDate>Fri, 16 Aug 2020 10:04:30 +0000</pubDate>
 		</item>
 	</channel>
 </rss>

@@ -2,6 +2,24 @@
 
 Why articles were included, replaced or deprecated. Often, it implies reordering the article section to balance/relate viewpoints.
 
+### Personal experiences bridge moral and political divides better than facts
+
+2021-02-12
+
+- Self explanatory.
+
+### How to lower the price of plant-based meat?
+
+2021-02-12
+
+- Self explanatory.
+
+### The war on disinformation is a war on dissent
+
+2021-02-12
+
+- Self explanatory.
+
 ### Flattery-driven open-source
 
 2021-02-06
@@ -12,7 +30,7 @@ Why articles were included, replaced or deprecated. Often, it implies reordering
 
 2021-02-06
 
-- Updates [Stock market and economy have parted ways.](https://www.washingtonpost.com/opinions/the-stock-market-and-economy-have-parted-ways-its-a-fomo-market-now/2020/07/12/c14246d8-c2bf-11ea-b4f6-cb39cd8940fb_story.html). Same viewpoint but better articulated.
+- Updates [Stock market and economy have parted ways](https://www.washingtonpost.com/opinions/the-stock-market-and-economy-have-parted-ways-its-a-fomo-market-now/2020/07/12/c14246d8-c2bf-11ea-b4f6-cb39cd8940fb_story.html). Same viewpoint but better articulated.
 
 ### Bringing back old features
 
