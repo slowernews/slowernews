@@ -2,6 +2,24 @@
 
 Why articles were included, replaced or deprecated. Often, it implies reordering the article section to balance/relate viewpoints.
 
+### Kenya is recycling waste plastic into strong cheap bricks
+
+2021-02-18
+
+- Self explanatory.
+
+### Your phone vs Supercomputers
+
+2021-02-18
+
+- Self explanatory.
+
+### Parents of daughters are more likely to divorce than those with sons
+
+2021-02-18
+
+- Self explanatory.
+
 ### Personal experiences bridge moral and political divides better than facts
 
 2021-02-12
