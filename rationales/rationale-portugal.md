@@ -2,6 +2,13 @@
 
 Why articles were included, replaced or deprecated. Often, it implies reordering the article section to balance/relate viewpoints.
 
+
+### Freezing in paradise - Portugal’s energy poverty problem.
+
+2021-02-25
+
+- Self explanatory.
+
 ### Portugal has the second lowest median gross hourly PPS earnings in EU
 
 2021-01-25

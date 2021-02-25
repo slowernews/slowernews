@@ -2,6 +2,24 @@
 
 Why articles were included, replaced or deprecated. Often, it implies reordering the article section to balance/relate viewpoints.
 
+### Crowdfunded wandering
+
+2021-02-25
+
+- Interesting edge case of sustainable wandering lifestyle. This is not a sponsored link of any kind.
+
+### The Crypto-Chernobyl
+
+2021-02-25
+
+- Cryptocurrency is a hot topic nowadays. Article about the downsides.
+
+### Cancel culture
+
+2021-02-25
+
+- Concept that grew in relevance in recent years.
+
 ### Kenya is recycling waste plastic into strong cheap bricks
 
 2021-02-18
