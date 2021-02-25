@@ -12,7 +12,7 @@ Why articles were included, replaced or deprecated. Often, it implies reordering
 
 2021-02-25
 
-- Cryptocurrency is a hot topic nowadays. Article about the downsides.
+- Updates [In 2018 Bitcoin mining is consuming more electricity than 175 countries](https://powercompare.co.uk/bitcoin-mining-electricity-map/).
 
 ### Cancel culture
 
