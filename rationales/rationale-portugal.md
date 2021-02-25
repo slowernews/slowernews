@@ -3,7 +3,7 @@
 Why articles were included, replaced or deprecated. Often, it implies reordering the article section to balance/relate viewpoints.
 
 
-### Freezing in paradise - Portugal’s energy poverty problem.
+### Freezing in paradise.
 
 2021-02-25
 
