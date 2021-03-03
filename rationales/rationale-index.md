@@ -2,6 +2,12 @@
 
 Why articles were included, replaced or deprecated. Often, it implies reordering the article section to balance/relate viewpoints.
 
+### How I heat my home by mining crypto currencies
+
+2021-03-03
+
+- Self explanatory.
+
 ### Crowdfunded wandering
 
 2021-02-25
