@@ -16,7 +16,7 @@ I cherry-pick articles that dissect trends or unveil lesser known trends and int
 
 ### How often is Slower News updated?
 
-Only when relevant. New articles are easy to spot<sup id="refnote2"> [2](#footnote2)</sup>, visit every month and «you're good to go». There is a [newsletter](https://slowernews.substack.com/welcome) and [RSS](https://www.slowernews.com/rss.xml) also.
+Only when relevant. New articles are easy to spot<sup id="refnote2"> [2](#footnote2)</sup>, visit every month and «you're good to go». There is a [newsletter](https://slowernews.substack.com) and [RSS](https://www.slowernews.com/rss.xml) also.
 
 ### Can I contribute?
 
