@@ -37,7 +37,7 @@ body {
   color: var(--fg);
   font-family: et-book, serif;
   margin: 0 auto;
-  max-width: 1280px;
+  max-width: 1600px;
   padding-left: 12.5%;
   width: 87.5%;
 }
@@ -135,7 +135,7 @@ hr {
 
 
 /* SCREENS */
-@media (max-width: 900px) {
+@media (max-width: 1024px) {
   body {
 	width: 86%;
 	padding-left: 7%;
