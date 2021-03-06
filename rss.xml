@@ -5,6 +5,14 @@
 		<link>https://www.slowernews.com/</link>
 
 		<item>
+			<title>|INFO| Slower News Quarterly.</title>
+			<description><p>Some people asked for a place where they could leave their email and receive all updates on Slower News. Here it is!</description>
+			<link>https://slowernews.substack.com/</link>
+			<guid>https://slowernews.substack.com/</guid>
+			<pubDate>Sat, 6 Mar 2021 08:18:30 +0000</pubDate>
+		</item>
+
+		<item>
 			<title>|Blockchain| How I heat my home by mining crypto currencies.</title>
 			<description><p>New link (with rationale) on <a href="https://www.slowernews.com/#blockchain">Slower News - Blockchain</a> category.</p></description>
 			<link>https://blog.haschek.at/2021/how-i-heat-my-home-by-mining.html</link>
@@ -506,22 +514,6 @@
 			<link>https://www.npr.org/sections/health-shots/2020/09/26/917019912/in-the-era-of-hygiene-clean-author-makes-the-case-for-showering-less</link>
 			<guid>https://www.npr.org/sections/health-shots/2020/09/26/917019912/in-the-era-of-hygiene-clean-author-makes-the-case-for-showering-less</guid>
 			<pubDate>Tue, 29 Sep 2020 16:18:30 +0000</pubDate>
-		</item>
-
-		<item>
-			<title>|Health| Citymapper Mobility Index.</title>
-			<description><p>New link on <a href="https://www.slowernews.com/#health">Slower News - Health</a> category.</p></description>
-			<link>https://citymapper.com/cmi</link>
-			<guid>https://citymapper.com/cmi</guid>
-			<pubDate>Fri, 18 Sep 2020 09:18:30 +0000</pubDate>
-		</item>
-
-		<item>
-			<title>|Reduce, reuse, recycle| 91% of plastic isn’t recycled.</title>
-			<description><p>New link on <a href="https://www.slowernews.com/#rrr">Slower News - Reduce, reuse, recycle</a> category.</p></description>
-			<link>https://www.nationalgeographic.com/news/2017/07/plastic-produced-recycling-waste-ocean-trash-debris-environment/</link>
-			<guid>https://www.nationalgeographic.com/news/2017/07/plastic-produced-recycling-waste-ocean-trash-debris-environment/</guid>
-			<pubDate>Wed, 16 Sep 2020 08:02:30 +0000</pubDate>
 		</item>
 	</channel>
 </rss>
