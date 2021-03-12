@@ -2,6 +2,18 @@
 
 Why articles were included, replaced or deprecated. Often, it implies reordering the article section to balance/relate viewpoints.
 
+### Shops return to rural Sweden but are now staff-free
+
+2021-03-12
+
+- Relevant solution. Will this become a trend?
+
+### Eurosclerosis
+
+2021-03-12
+
+- Suboptimal article of a relevant concept (with a suggestive naming). Article may be updated in the future.
+
 ### How I heat my home by mining crypto currencies
 
 2021-03-03
