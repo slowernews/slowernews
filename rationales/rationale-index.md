@@ -2,7 +2,7 @@
 
 Why articles were included, replaced or deprecated. Often, it implies reordering the article section to balance/relate viewpoints.
 
-### Amazon use crowdfunding to minimize risk
+### Amazon uses crowdfunding to minimize risk
 
 2021-03-30
 
