@@ -2,6 +2,18 @@
 
 Why articles were included, replaced or deprecated. Often, it implies reordering the article section to balance/relate viewpoints.
 
+### Amazon use crowdfunding to minimize risk
+
+2021-03-30
+
+- "Crowdfunding platforms were originally intended to let broke creators attract funding. As they've grown, the model has been hijacked by already-established businesses and even rich corporations simply seeking to minimize their risk through pre-orders." -- Rain Noe
+
+### The most used languages on the internet
+
+2021-03-30
+
+- Geopolitics, free speech and cultural marker.
+
 ### Shops return to rural Sweden but are now staff-free
 
 2021-03-12
