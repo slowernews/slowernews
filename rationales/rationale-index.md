@@ -2,6 +2,12 @@
 
 Why articles were included, replaced or deprecated. Often, it implies reordering the article section to balance/relate viewpoints.
 
+### Media as food
+
+2021-04-07
+
+- An old problem - still - without solution.
+
 ### Amazon uses crowdfunding to minimize risk
 
 2021-03-30
