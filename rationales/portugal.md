@@ -2,6 +2,11 @@
 
 Why articles were included, replaced or deprecated. Often, it implies reordering the article section to balance/relate viewpoints.
 
+### Lisboa gasta 400000 euros por casa para renda acessível
+
+2021-04-09
+
+- Self explanatory.
 
 ### Freezing in paradise.
 
