@@ -14,7 +14,7 @@ Why articles were included, replaced or deprecated. Often, it implies reordering
 
 - Self explanatory.
 
-### Portugal has the second lowest median gross hourly PPS earnings in EU
+### Second lowest median gross hourly PPS earnings in EU
 
 2021-01-25
 
