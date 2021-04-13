@@ -2,6 +2,12 @@
 
 Why articles were included, replaced or deprecated. Often, it implies reordering the article section to balance/relate viewpoints.
 
+### Addiction to outrage
+
+2021-04-13
+
+- Outrage became trendy.
+
 ### Media as food
 
 2021-04-07
