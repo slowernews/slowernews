@@ -5,6 +5,14 @@
 		<link>https://www.slowernews.com/</link>
 
 		<item>
+			<title>|Tools| Excel never dies.</title>
+			<description><p>New link (with rationale) on <a href="https://www.slowernews.com/#tools">Slower News - Tools</a> category.</p></description>
+			<link>https://www.notboring.co/p/excel-never-dies</link>
+			<guid>https://www.notboring.co/p/excel-never-dies</guid>
+			<pubDate>Sun, 18 Apr 2021 09:18:30 +0000</pubDate>
+		</item>
+
+		<item>
 			<title>|Culture| Addiction to outrage.</title>
 			<description><p>New link (with rationale) on <a href="https://www.slowernews.com/#culture">Slower News - Culture</a> category.</p></description>
 			<link>https://medium.com/the-bad-influence/your-addiction-to-outrage-is-ruining-your-life-9effebdfeaca</link>
@@ -530,14 +538,6 @@
 			<link>https://www.scientificamerican.com/article/governments-worldwide-consider-ditching-daylight-saving-time/</link>
 			<guid>https://www.scientificamerican.com/article/governments-worldwide-consider-ditching-daylight-saving-time/</guid>
 			<pubDate>Sun, 01 Nov 2020 08:18:30 +0000</pubDate>
-		</item>
-
-		<item>
-			<title>|Ecology| Egypt is planting trees in the desert using wastewater.</title>
-			<description><p>New link on <a href="https://www.slowernews.com/#ecology-and-climate">Slower News - Ecology</a> category.</p></description>
-			<link>https://www.al-monitor.com/pulse/originals/2020/10/egypt-africa-desert-forests-plant-trees-wastewater.html</link>
-			<guid>https://www.al-monitor.com/pulse/originals/2020/10/egypt-africa-desert-forests-plant-trees-wastewater.html</guid>
-			<pubDate>Sun, 25 Oct 2020 09:02:30 +0000</pubDate>
 		</item>
 	</channel>
 </rss>

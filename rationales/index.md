@@ -2,6 +2,12 @@
 
 Why articles were included, replaced or deprecated. Often, it implies reordering the article section to balance/relate viewpoints.
 
+### Excel never dies
+
+2021-04-18
+
+- Like cats, Excel has nine lives - or seven in some countries.
+
 ### Addiction to outrage
 
 2021-04-13
