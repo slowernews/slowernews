@@ -2,6 +2,12 @@
 
 Why articles were included, replaced or deprecated. Often, it implies reordering the article section to balance/relate viewpoints.
 
+### NFTs are the new conceptual art
+
+2021-04-23
+
+- The quest for an usecase for Blockchain continues.
+
 ### Excel never dies
 
 2021-04-18
