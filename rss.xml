@@ -5,6 +5,22 @@
 		<link>https://www.slowernews.com/</link>
 
 		<item>
+			<title>|Health| Novel HIV vaccine in human trial.</title>
+			<description><p>New link (with rationale) on <a href="https://www.slowernews.com/#health">Slower News - Health</a> category.</p></description>
+			<link>https://www.europeanpharmaceuticalreview.com/news/141892/novel-hiv-vaccine-approach-shows-promise-in-landmark-first-in-human-trial/</link>
+			<guid>https://www.europeanpharmaceuticalreview.com/news/141892/novel-hiv-vaccine-approach-shows-promise-in-landmark-first-in-human-trial/</guid>
+			<pubDate>Thu, 29 Apr 2021 09:18:30 +0000</pubDate>
+		</item>
+
+		<item>
+			<title>|Health| Effective malaria vaccine discovered.</title>
+			<description><p>New link (with rationale) on <a href="https://www.slowernews.com/#health">Slower News - Health</a> category.</p></description>
+			<link>https://blogs.sciencemag.org/pipeline/archives/2021/04/23/great-malaria-vaccine-news</link>
+			<guid>https://blogs.sciencemag.org/pipeline/archives/2021/04/23/great-malaria-vaccine-news</guid>
+			<pubDate>Thu, 29 Apr 2021 08:18:30 +0000</pubDate>
+		</item>
+
+		<item>
 			<title>|Blockchain| NFTs are the new conceptual art.</title>
 			<description><p>New link (with rationale) on <a href="https://www.slowernews.com/#blockchain">Slower News - Blockchain</a> category.</p></description>
 			<link>https://andrew-s-klug.medium.com/nfts-are-the-new-conceptual-art-20d28599a75b</link>
@@ -522,30 +538,6 @@
 			<link>https://9to5mac.com/2020/11/10/apple-unveils-m1-its-first-system-on-a-chip-for-portable-mac-computers/</link>
 			<guid>https://9to5mac.com/2020/11/10/apple-unveils-m1-its-first-system-on-a-chip-for-portable-mac-computers/</guid>
 			<pubDate>Sat, 14 Nov 2020 08:08:30 +0000</pubDate>
-		</item>
-
-		<item>
-			<title>|Tools| Using a raspberry Pi 400 as your main computer.</title>
-			<description><p>Updated link on <a href="https://www.slowernews.com/#tools">Slower News - Tools</a> category.</p></description>
-			<link>https://www.raspberrypi.org/blog/raspberry-pi-400-the-70-desktop-pc/</link>
-			<guid>https://www.raspberrypi.org/blog/raspberry-pi-400-the-70-desktop-pc/</guid>
-			<pubDate>Mon, 02 Nov 2020 08:18:30 +0000</pubDate>
-		</item>
-
-		<item>
-			<title>|Social| The corporatization of nursing homes.</title>
-			<description><p>New link on <a href="https://www.slowernews.com/#social">Slower News - Social</a> category.</p></description>
-			<link>https://prospect.org/familycare/the-corporatization-of-nursing-homes/</link>
-			<guid>https://prospect.org/familycare/the-corporatization-of-nursing-homes/</guid>
-			<pubDate>Sun, 01 Nov 2020 08:18:30 +0000</pubDate>
-		</item>
-
-		<item>
-			<title>|Health| Governments worldwide consider ditching daylight saving time.</title>
-			<description><p>New link on <a href="https://www.slowernews.com/#health">Slower News - Health</a> category.</p></description>
-			<link>https://www.scientificamerican.com/article/governments-worldwide-consider-ditching-daylight-saving-time/</link>
-			<guid>https://www.scientificamerican.com/article/governments-worldwide-consider-ditching-daylight-saving-time/</guid>
-			<pubDate>Sun, 01 Nov 2020 08:18:30 +0000</pubDate>
 		</item>
 	</channel>
 </rss>

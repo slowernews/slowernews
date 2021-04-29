@@ -2,6 +2,18 @@
 
 Why articles were included, replaced or deprecated. Often, it implies reordering the article section to balance/relate viewpoints.
 
+### Novel HIV vaccine in human trial
+
+2021-04-29
+
+- Self explanatory.
+
+### Effective malaria vaccine discovered
+
+2021-04-29
+
+- Self explanatory.
+
 ### NFTs are the new conceptual art
 
 2021-04-23
