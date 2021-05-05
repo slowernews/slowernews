@@ -2,6 +2,12 @@
 
 Why articles were included, replaced or deprecated. Often, it implies reordering the article section to balance/relate viewpoints.
 
+### SpaceX won contract to develop spacecraft to land astronauts on the moon
+
+2021-05-05
+
+- Self explanatory.
+
 ### Novel HIV vaccine in human trial
 
 2021-04-29
