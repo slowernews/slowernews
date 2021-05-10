@@ -2,6 +2,12 @@
 
 Why articles were included, replaced or deprecated. Often, it implies reordering the article section to balance/relate viewpoints.
 
+### The rise of hacking armies
+
+2021-05-10
+
+- Armies are slowly morphing.
+
 ### SpaceX won contract to develop spacecraft to land astronauts on the moon
 
 2021-05-05
