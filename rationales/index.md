@@ -2,7 +2,7 @@
 
 Why articles were included, replaced or deprecated. Often, it implies reordering the article section to balance/relate viewpoints.
 
-### The promise and perils of insect farming
+### The promise and perils of insect farming
 
 2021-05-16
 
