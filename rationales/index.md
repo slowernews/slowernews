@@ -2,6 +2,18 @@
 
 Why articles were included, replaced or deprecated. Often, it implies reordering the article section to balance/relate viewpoints.
 
+### The promise and perils of insect farming
+
+2021-05-16
+
+- Self explanatory.
+
+### Facebook will make the money now
+
+2021-05-16
+
+- Deprecated. Facebook's cryptocurrency was a fiasco.
+
 ### The rise of hacking armies
 
 2021-05-10
