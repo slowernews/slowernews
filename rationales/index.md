@@ -2,6 +2,18 @@
 
 Why articles were included, replaced or deprecated. Often, it implies reordering the article section to balance/relate viewpoints.
 
+### China lands a rover on Mars
+
+2021-05-21
+
+- Self explanatory.
+
+### Tesla makes more money trading bitcoin than selling cars
+
+2021-05-21
+
+- Self explanatory.
+
 ### The promise and perils of insect farming
 
 2021-05-16
