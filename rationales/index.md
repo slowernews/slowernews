@@ -2,6 +2,12 @@
 
 Why articles were included, replaced or deprecated. Often, it implies reordering the article section to balance/relate viewpoints.
 
+### Crypto compared with fiat currencies
+
+2021-05-26
+
+- Self explanatory.
+
 ### China lands a rover on Mars
 
 2021-05-21
