@@ -2,6 +2,12 @@
 
 Why articles were included, replaced or deprecated. Often, it implies reordering the article section to balance/relate viewpoints.
 
+### Is Sharing Economy a faith?
+
+2021-06-07
+
+- Is «sharing economy» a modern faith? It seems to be based on a dogma.
+
 ### Crypto compared with fiat currencies
 
 2021-05-26
