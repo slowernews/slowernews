@@ -2,6 +2,12 @@
 
 Why articles were included, replaced or deprecated. Often, it implies reordering the article section to balance/relate viewpoints.
 
+### Tech companies are becoming «independent nations».
+
+2021-06-12
+
+- Expended view on "Facebook is becoming na «independent nation».
+
 ### Is Sharing Economy a faith?
 
 2021-06-07
