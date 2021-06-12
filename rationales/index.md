@@ -6,7 +6,7 @@ Why articles were included, replaced or deprecated. Often, it implies reordering
 
 2021-06-12
 
-- Broader view on "Facebook is becoming na «independent nation».
+- Broader view on "Facebook is becoming an «independent nation»".
 
 ### Is Sharing Economy a faith?
 
