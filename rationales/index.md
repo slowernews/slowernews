@@ -2,6 +2,12 @@
 
 Why articles were included, replaced or deprecated. Often, it implies reordering the article section to balance/relate viewpoints.
 
+### Democracy under siege
+
+2021-06-16
+
+- Strong trend: 15 years of decline in a row.
+
 ### Tech companies are becoming «independent nations».
 
 2021-06-12
