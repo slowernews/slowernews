@@ -2,6 +2,12 @@
 
 Why articles were included, replaced or deprecated. Often, it implies reordering the article section to balance/relate viewpoints.
 
+### Democratising the right to lazyness
+
+2021-06-23
+
+- On demand deliveries are already a strong trend on retail and work.
+
 ### Democracy under siege
 
 2021-06-16
