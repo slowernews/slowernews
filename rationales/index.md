@@ -2,6 +2,18 @@
 
 Why articles were included, replaced or deprecated. Often, it implies reordering the article section to balance/relate viewpoints.
 
+### Human and car tracking autonomous drones are now on the market
+
+2021-06-30
+
+- Drones: the dark side.
+
+### Cartels adopt drones armed with explosives
+
+2021-06-30
+
+- Drones: the dark side.
+
 ### Democratising the right to lazyness
 
 2021-06-23
