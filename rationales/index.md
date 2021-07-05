@@ -138,7 +138,7 @@ Why articles were included, replaced or deprecated. Often, it implies reordering
 
 2021-03-12
 
-- Suboptimal article of a relevant concept (with a suggestive naming). Article may be updated in the future.
+- Suboptimal article on a relevant concept (with a suggestive naming). Article may be updated in the future.
 
 ### How I heat my home by mining crypto currencies
 
