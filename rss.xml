@@ -5,6 +5,14 @@
 		<link>https://www.slowernews.com/</link>
 
 		<item>
+			<title>|INFO| New (beta) page on Slower News: Timeless.</title>
+			<description><p>Still on beta stage. Lots of timeless stuff will be slowly added. Open to suggestions.</p></description>
+			<link>https://www.slowernews.com/s/timeless</link>
+			<guid>https://www.slowernews.com/s/timeless</guid>
+			<pubDate>Wed, 07 Jul 2021 09:18:30 +0000</pubDate>
+		</item>
+
+		<item>
 			<title>|Drones, Robotics And AI| Human and car tracking autonomous drones are now on the market.</title>
 			<description><p>New link (with rationale) on <a href="https://www.slowernews.com/#drones-robotics-and-ai">Slower News - Drones, Robotics And AI</a> category.</p></description>
 			<link>https://www.core77.com/posts/108393/Human-and-Car-Tracking-Autonomous-Drones-are-Now-On-the-Market</link>
@@ -354,14 +362,6 @@
 			<link>https://blogs.thomsonreuters.com/answerson/all-companies-are-technology-companies-now/</link>
 			<guid>https://blogs.thomsonreuters.com/answerson/all-companies-are-technology-companies-now/</guid>
 			<pubDate>Sun, 24 Jan 2021 07:18:30 +0000</pubDate>
-		</item>
-
-		<item>
-			<title>|INFO| Future curation will be explained with a basic rationale.</title>
-			<description><p>New articles will get a specific hyperlink pointing there.</p></description>
-			<link>https://github.com/slowernews/slowernews/blob/master/rationales/rationale-index.md</link>
-			<guid>https://github.com/slowernews/slowernews/blob/master/rationales/rationale-index.md</guid>
-			<pubDate>Sun, 17 Jan 2021 11:18:30 +0000</pubDate>
 		</item>
 
 		<item>
