@@ -2,6 +2,12 @@
 
 Why articles were included, replaced or deprecated. Often, it implies reordering the article section to balance/relate viewpoints.
 
+### Human-monkey chimera embryos created in lab for first time
+
+2021-07-09
+
+- Self explanatory.
+
 ### Human and car tracking autonomous drones are now on the market
 
 2021-06-30
