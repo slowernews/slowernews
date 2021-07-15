@@ -2,6 +2,12 @@
 
 Why articles were included, replaced or deprecated. Often, it implies reordering the article section to balance/relate viewpoints.
 
+### Bitcoin as a hyperobject
+
+2021-07-15
+
+- The quest for use cases continues.
+
 ### Human-monkey chimera embryos created in lab for first time
 
 2021-07-09
