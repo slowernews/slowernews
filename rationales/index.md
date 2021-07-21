@@ -2,6 +2,12 @@
 
 Why articles were included, replaced or deprecated. Often, it implies reordering the article section to balance/relate viewpoints.
 
+### Parasocial relationships
+
+2021-07-21
+
+- The disappearing divide between followers and friends.
+
 ### Bitcoin as a hyperobject
 
 2021-07-15
