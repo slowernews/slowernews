@@ -1,0 +1,4 @@
+This is a Brave Rewards publisher verification file.
+
+Domain: slowernews.com
+Token: b438059e04c4ea1cbfe21a24cce73ecdc4abc1fde9abfaa623fb5f562f4e4f97
