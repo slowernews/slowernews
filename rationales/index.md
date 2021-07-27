@@ -2,6 +2,12 @@
 
 Why articles were included, replaced or deprecated. Often, it implies reordering the article section to balance/relate viewpoints.
 
+### Chernobyl's «stalker» subculture
+
+2021-07-27
+
+- Self explanatory.
+
 ### Parasocial relationships
 
 2021-07-21
