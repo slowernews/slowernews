@@ -31,6 +31,8 @@
   }
 }
 
+
+
 /* LAYOUT */
 body {
   background-color: var(--bg);
@@ -56,6 +58,7 @@ footer {
   padding-bottom: 5rem;
   padding-top: 1rem;
 }
+
 
 
 /* TEXT */
@@ -112,6 +115,26 @@ li:not(:first-child) {
 }
 
 
+
+/* NAVIGATION */
+details>summary {
+  list-style-type: none;
+  outline: none;
+}
+details>summary::-webkit-details-marker {
+  display: none;
+}
+details>summary::before {
+  content: '+';
+  font-size: 3rem;
+}
+details[open]>summary::before {
+  content: '-';
+  font-size: 3rem;
+}
+
+
+
 /* EXTRAS */
 hr {
   height: 1px;
@@ -132,6 +155,7 @@ hr {
   max-width: 90%;
   clear: both;
 }
+
 
 
 /* SCREENS */
@@ -156,6 +180,7 @@ hr {
 }
 
 
+
 /* LINKS (replicate underline that clears descenders) */
 a:link {
   color: inherit;
@@ -175,7 +200,7 @@ a:link {
   background-position: 0% 93%, 100% 93%, 0% 93%;
 }
 
-/* Resolves the blurry text-shadow issue by setting text-shadow to none when something is selected */
+/* Solves the blurry text-shadow issue by setting text-shadow to none when something is selected */
 ::selection {
   color: white;
   background: black;
