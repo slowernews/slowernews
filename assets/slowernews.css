@@ -3,7 +3,6 @@
   src: url("et-book-roman-line-figures.woff");
   font-weight: normal;
   font-style: normal;
-  font-display: swap;
 }
 
 @font-face {
@@ -11,7 +10,6 @@
   src: url("et-book-display-italic-old-style-figures.woff");
   font-weight: normal;
   font-style: italic;
-  font-display: swap;
 }
 
 :root {
@@ -44,7 +42,7 @@ body {
   width: 87.5%;
 }
 header {
-  padding-top: 6rem;
+  padding-top: 4rem;
 }
 main {
   padding-bottom: 2rem;
