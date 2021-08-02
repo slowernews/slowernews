@@ -2,6 +2,12 @@
 
 Why articles were included, replaced or deprecated. Often, it implies reordering the article section to balance/relate viewpoints.
 
+### The most precious resource is agency
+
+2021-08-02
+
+- Do children today have useful childhoods?
+
 ### Chernobyl's «stalker» subculture
 
 2021-07-27
