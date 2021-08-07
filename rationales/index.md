@@ -2,6 +2,12 @@
 
 Why articles were included, replaced or deprecated. Often, it implies reordering the article section to balance/relate viewpoints.
 
+### Shrinkflation
+
+2021-08-07
+
+- Self explanatory.
+
 ### The most precious resource is agency
 
 2021-08-02
