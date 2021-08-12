@@ -2,6 +2,12 @@
 
 Why articles were included, replaced or deprecated. Often, it implies reordering the article section to balance/relate viewpoints.
 
+### The smart home still sucks
+
+2021-08-12
+
+- Self explanatory.
+
 ### Shrinkflation
 
 2021-08-07
