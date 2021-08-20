@@ -2,6 +2,12 @@
 
 Why articles were included, replaced or deprecated. Often, it implies reordering the article section to balance/relate viewpoints.
 
+### Crypto leaders are obsessed with life extension
+
+2021-08-20
+
+- Self explanatory.
+
 ### The smart home still sucks
 
 2021-08-12

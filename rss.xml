@@ -3,7 +3,15 @@
 		<title>Slower News</title>
 		<description>Keep up with relevant trends, micro-trends and edge cases. Don’t miss out nor spend a shit-ton of time distilling trivia.</description>
 		<link>https://www.slowernews.com/</link>
-	
+
+		<item>
+			<title>|Blockchain| Crypto leaders are obsessed with life extension.</title>
+			<description><p>New link (with rationale) on <a href="https://www.slowernews.com/#blockchain">Slower News - Blockchain</a> category.</p></description>
+			<link>https://cointelegraph.com/magazine/2021/08/11/crypto-folk-are-obsessed-with-life-extension-heres-why</link>
+			<guid>https://cointelegraph.com/magazine/2021/08/11/crypto-folk-are-obsessed-with-life-extension-heres-why</guid>
+			<pubDate>Fri, 20 Aug 2021 08:18:30 +0000</pubDate>
+		</item>
+
 		<item>
 			<title>|Construction| The smart home still sucks.</title>
 			<description><p>New link (with rationale) on <a href="https://www.slowernews.com/#construction">Slower News - Construction</a> category.</p></description>
@@ -282,30 +290,6 @@
 			<link>https://blog.haschek.at/2021/how-i-heat-my-home-by-mining.html</link>
 			<guid>https://blog.haschek.at/2021/how-i-heat-my-home-by-mining.html</guid>
 			<pubDate>Wed, 3 Mar 2021 09:18:30 +0000</pubDate>
-		</item>
-
-		<item>
-			<title>|Tourism| Crowdfunded wandering.</title>
-			<description><p>New link (with rationale) on <a href="https://www.slowernews.com/#tourism">Slower News - Tourism</a> category.</p></description>
-			<link>https://craigmod.com/essays/successful_memberships/</link>
-			<guid>https://craigmod.com/essays/successful_memberships/</guid>
-			<pubDate>Thu, 25 Feb 2021 08:18:30 +0000</pubDate>
-		</item>
-
-		<item>
-			<title>|Blockchain| The Crypto-Chernobyl.</title>
-			<description><p>Updated link (with rationale) on <a href="https://www.slowernews.com/#blockchain">Slower News - Blockchain</a> category.</p></description>
-			<link>https://www.stephendiehl.com/blog/chernobyl.html</link>
-			<guid>https://www.stephendiehl.com/blog/chernobyl.html</guid>
-			<pubDate>Thu, 25 Feb 2021 07:18:30 +0000</pubDate>
-		</item>
-
-		<item>
-			<title>|Free Speech| Cancel culture.</title>
-			<description><p>New link (with rationale) on <a href="https://www.slowernews.com/#free-speech">Slower News - Free Speech</a> category.</p></description>
-			<link>https://en.wikipedia.org/wiki/Cancel_culture</link>
-			<guid>https://en.wikipedia.org/wiki/Cancel_culture</guid>
-			<pubDate>Thu, 25 Feb 2021 06:18:30 +0000</pubDate>
 		</item>
 	</channel>
 </rss>
