@@ -5,6 +5,14 @@
 		<link>https://www.slowernews.com/</link>
 
 		<item>
+			<title>|Health| Corona virus is here forever.</title>
+			<description><p>New link (with rationale) on <a href="https://www.slowernews.com/#health">Slower News - Health</a> category.</p></description>
+			<link>https://www.theatlantic.com/science/archive/2021/08/how-we-live-coronavirus-forever/619783/</link>
+			<guid>https://www.theatlantic.com/science/archive/2021/08/how-we-live-coronavirus-forever/619783/</guid>
+			<pubDate>Thu, 26 Aug 2021 09:18:30 +0000</pubDate>
+		</item>
+
+		<item>
 			<title>|Blockchain| Crypto leaders are obsessed with life extension.</title>
 			<description><p>New link (with rationale) on <a href="https://www.slowernews.com/#blockchain">Slower News - Blockchain</a> category.</p></description>
 			<link>https://cointelegraph.com/magazine/2021/08/11/crypto-folk-are-obsessed-with-life-extension-heres-why</link>
@@ -274,22 +282,6 @@
 			<link>https://johnhcochrane.blogspot.com/2021/03/the-puzzle-of-europe.html</link>
 			<guid>https://johnhcochrane.blogspot.com/2021/03/the-puzzle-of-europe.html</guid>
 			<pubDate>Fri, 12 Mar 2021 07:18:30 +0000</pubDate>
-		</item>
-
-		<item>
-			<title>|INFO| Slower News Quarterly.</title>
-			<description><p>Some people asked for a place where they could leave their email and receive all updates on Slower News. Here it is!</p></description>
-			<link>https://slowernews.substack.com/</link>
-			<guid>https://slowernews.substack.com/</guid>
-			<pubDate>Sat, 6 Mar 2021 08:18:30 +0000</pubDate>
-		</item>
-
-		<item>
-			<title>|Blockchain| How I heat my home by mining crypto currencies.</title>
-			<description><p>New link (with rationale) on <a href="https://www.slowernews.com/#blockchain">Slower News - Blockchain</a> category.</p></description>
-			<link>https://blog.haschek.at/2021/how-i-heat-my-home-by-mining.html</link>
-			<guid>https://blog.haschek.at/2021/how-i-heat-my-home-by-mining.html</guid>
-			<pubDate>Wed, 3 Mar 2021 09:18:30 +0000</pubDate>
 		</item>
 	</channel>
 </rss>
