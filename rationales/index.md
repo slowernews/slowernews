@@ -2,6 +2,12 @@
 
 Why articles were included, replaced or deprecated. Often, it implies reordering the article section to balance/relate viewpoints.
 
+### Elite over-production
+
+2021-09-02
+
+- Relevant concept affecting society, education, work, skills and even democracy.
+
 ### Corona virus is here forever
 
 2021-08-26
