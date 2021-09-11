@@ -2,6 +2,12 @@
 
 Why articles were included, replaced or deprecated. Often, it implies reordering the article section to balance/relate viewpoints.
 
+### Voluntourism
+
+2021-09-11
+
+- Self explanatory.
+
 ### Elite over-production
 
 2021-09-02
