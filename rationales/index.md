@@ -2,6 +2,12 @@
 
 Why articles were included, replaced or deprecated. Often, it implies reordering the article section to balance/relate viewpoints.
 
+### It's not funny anymore
+
+2021-09-16
+
+- Self explanatory.
+
 ### Voluntourism: do western do-gooders actually do harm?
 
 2021-09-11

@@ -5,6 +5,14 @@
 		<link>https://www.slowernews.com/</link>
 
 		<item>
+			<title>|Free Speech| It's not funny anymore.</title>
+			<description><p>New link (with rationale) on <a href="https://www.slowernews.com/#free-speech">Slower News - Free Speech</a> category.</p></description>
+			<link>https://ec.europa.eu/home-affairs/system/files/2021-03/ran_ad-hoc_pap_fre_humor_20210215_en.pdf</link>
+			<guid>https://ec.europa.eu/home-affairs/system/files/2021-03/ran_ad-hoc_pap_fre_humor_20210215_en.pdf</guid>
+			<pubDate>Thu, 16 Sep 2021 08:18:30 +0000</pubDate>
+		</item>
+
+		<item>
 			<title>|Tourism| Voluntourism: do western do-gooders actually do harm?</title>
 			<description><p>New link (with rationale) on <a href="https://www.slowernews.com/#tourism">Slower News - Tourism</a> category.</p></description>
 			<link>https://www.theguardian.com/news/2018/sep/13/the-business-of-voluntourism-do-western-do-gooders-actually-do-harm</link>
@@ -258,30 +266,6 @@
 			<link>https://pratik.is/writing/essays/media-as-food</link>
 			<guid>https://pratik.is/writing/essays/media-as-food</guid>
 			<pubDate>Wed, 7 Apr 2021 08:18:30 +0000</pubDate>
-		</item>
-
-		<item>
-			<title>|Business| Amazon uses crowdfunding to minimize risk.</title>
-			<description><p>New link (with rationale) on <a href="https://www.slowernews.com/#business">Slower News - Business</a> category.</p></description>
-			<link>https://www.core77.com/posts/105719/Amazon-Co-Opts-Crowdfunding-Model-to-Launch-Smart-Sticky-Note-Printer</link>
-			<guid>https://www.core77.com/posts/105719/Amazon-Co-Opts-Crowdfunding-Model-to-Launch-Smart-Sticky-Note-Printer</guid>
-			<pubDate>Tue, 30 Mar 2021 11:18:30 +0000</pubDate>
-		</item>
-
-		<item>
-			<title>|Culture| The most used languages on the internet.</title>
-			<description><p>New link (with rationale) on <a href="https://www.slowernews.com/#culture">Slower News - Culture</a> category.</p></description>
-			<link>https://www.visualcapitalist.com/the-most-used-languages-on-the-internet/</link>
-			<guid>https://www.visualcapitalist.com/the-most-used-languages-on-the-internet/</guid>
-			<pubDate>Tue, 30 Mar 2021 10:18:30 +0000</pubDate>
-		</item>
-
-		<item>
-			<title>|INFO| Slower News Quarterly - Spring Issue.</title>
-			<description><p>First Issue of Slower News Quarterly was published.</p></description>
-			<link>https://slowernews.substack.com/p/2021-spring</link>
-			<guid>https://slowernews.substack.com/p/2021-spring</guid>
-			<pubDate>Sat, 27 Mar 2021 09:18:30 +0000</pubDate>
 		</item>
 	</channel>
 </rss>
