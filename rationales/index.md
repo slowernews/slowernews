@@ -2,6 +2,12 @@
 
 Why articles were included, replaced or deprecated. Often, it implies reordering the article section to balance/relate viewpoints.
 
+### Movable housing for scalable cities
+
+2021-09-21
+
+- A bit of futurology. Interesting concept anyway.
+
 ### It's not funny anymore
 
 2021-09-16
