@@ -186,9 +186,8 @@ a:link {
   text-underline-position: under;
 }
 
-}
 a:visited {
-  color: grey;
+  color: gray;
 }
 
 ::selection {
