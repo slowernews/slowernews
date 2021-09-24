@@ -179,23 +179,51 @@ hr {
 
 
 
-/* LINKS (replicate underline that clears descenders) */
+/* LINKS (replicate underline that clears descenders. Disabled in Chrome for lack of a fix for the blurred text when using system dark mode..)
+*/
 a:link {
   color: inherit;
+}
+
 }
 a:visited {
   color: grey;
 }
-a:link {
-  text-decoration: none;
-  background: -webkit-linear-gradient(var(--bg), var(--bg)), -webkit-linear-gradient(var(--bg), var(--bg)), -webkit-linear-gradient(currentColor, currentColor);
-  background: linear-gradient(var(--bg), var(--bg)), linear-gradient(var(--bg), var(--bg)), linear-gradient(currentColor, currentColor);
-  -webkit-background-size: 0.05em 1px, 0.05em 1px, 1px 1px;
-  -moz-background-size: 0.05em 1px, 0.05em 1px, 1px 1px;
-  background-size: 0.05em 1px, 0.05em 1px, 1px 1px;
-  background-repeat: no-repeat, no-repeat, repeat-x;
-  text-shadow: 0.03em 0 var(--bg), -0.03em 0 var(--bg), 0 0.03em var(--bg), 0 -0.03em var(--bg), 0.06em 0 var(--bg), -0.06em 0 var(--bg), 0.09em 0 var(--bg), -0.09em 0 var(--bg), 0.12em 0 var(--bg), -0.12em 0 var(--bg), 0.15em 0 var(--bg), -0.15em 0 var(--bg);
-  background-position: 0% 93%, 100% 93%, 0% 93%;
+
+/* Polished underline on Safari */
+@media not all and (min-resolution:.001dpcm) { 
+  @supports (-webkit-appearance:none) and (stroke-color:transparent) {
+    selector { 
+      a:link {
+        text-decoration: none;
+        background: -webkit-linear-gradient(var(--bg), var(--bg)), -webkit-linear-gradient(var(--bg), var(--bg)), -webkit-linear-gradient(currentColor, currentColor);
+        background: linear-gradient(var(--bg), var(--bg)), linear-gradient(var(--bg), var(--bg)), linear-gradient(currentColor, currentColor);
+        -webkit-background-size: 0.05em 1px, 0.05em 1px, 1px 1px;
+        -moz-background-size: 0.05em 1px, 0.05em 1px, 1px 1px;
+        background-size: 0.05em 1px, 0.05em 1px, 1px 1px;
+        background-repeat: no-repeat, no-repeat, repeat-x;
+        text-shadow: 0.03em 0 var(--bg), -0.03em 0 var(--bg), 0 0.03em var(--bg), 0 -0.03em var(--bg), 0.06em 0 var(--bg), -0.06em 0 var(--bg), 0.09em 0 var(--bg), -0.09em 0 var(--bg), 0.12em 0 var(--bg), -0.12em 0 var(--bg), 0.15em 0 var(--bg), -0.15em 0 var(--bg);
+        background-position: 0% 93%, 100% 93%, 0% 93%;
+      }
+    }
+  }
+}
+
+/* Polished underline on Firefox */
+@-moz-document url-prefix() {
+  selector {
+    a:link {
+      text-decoration: none;
+      background: -webkit-linear-gradient(var(--bg), var(--bg)), -webkit-linear-gradient(var(--bg), var(--bg)), -webkit-linear-gradient(currentColor, currentColor);
+      background: linear-gradient(var(--bg), var(--bg)), linear-gradient(var(--bg), var(--bg)), linear-gradient(currentColor, currentColor);
+      -webkit-background-size: 0.05em 1px, 0.05em 1px, 1px 1px;
+      -moz-background-size: 0.05em 1px, 0.05em 1px, 1px 1px;
+      background-size: 0.05em 1px, 0.05em 1px, 1px 1px;
+      background-repeat: no-repeat, no-repeat, repeat-x;
+      text-shadow: 0.03em 0 var(--bg), -0.03em 0 var(--bg), 0 0.03em var(--bg), 0 -0.03em var(--bg), 0.06em 0 var(--bg), -0.06em 0 var(--bg), 0.09em 0 var(--bg), -0.09em 0 var(--bg), 0.12em 0 var(--bg), -0.12em 0 var(--bg), 0.15em 0 var(--bg), -0.15em 0 var(--bg);
+      background-position: 0% 93%, 100% 93%, 0% 93%;
+    }
+  }
 }
 
 /* Solves the blurry text-shadow issue by setting text-shadow to none when something is selected */
