@@ -1,12 +1,13 @@
-<rss version="2.0">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
 		<title>Slower News</title>
 		<description>Keep up with relevant trends, micro-trends and edge cases. Don’t miss out nor spend a shit-ton of time distilling trivia.</description>
 		<link>https://www.slowernews.com/</link>
+		<atom:link href="https://slowernews.com/rss.xml" rel="self" type="application/rss+xml" />
 
 		<item>
 			<title>|INFO| Slower News Quarterly - Autumn Issue.</title>
-			<description><p>Third Issue of Slower News Quarterly was published.</p></description>
+			<description><![CDATA[<p>Third Issue of Slower News Quarterly was published.</p>]]></description>
 			<link>https://slowernews.substack.com/p/2021-autumn</link>
 			<guid>https://slowernews.substack.com/p/2021-autumn</guid>
 			<pubDate>Fri, 24 Sep 2021 08:18:30 +0000</pubDate>
@@ -14,7 +15,7 @@
 
 		<item>
 			<title>|Urbanism| Movable housing for scalable cities.</title>
-			<description><p>New link (with rationale) on <a href="https://www.slowernews.com/#urbanism">Slower News - Urbanism</a> category.</p></description>
+			<description><![CDATA[<p>New link (with rationale) on <a href="https://www.slowernews.com/#urbanism">Slower News - Urbanism</a> category.</p>]]></description>
 			<link>https://www.lesswrong.com/posts/cmiRk9XtT9Psnd3Yr/movable-housing-for-scalable-cities</link>
 			<guid>https://www.lesswrong.com/posts/cmiRk9XtT9Psnd3Yr/movable-housing-for-scalable-cities</guid>
 			<pubDate>Tue, 21 Sep 2021 09:18:30 +0000</pubDate>
@@ -22,7 +23,7 @@
 
 		<item>
 			<title>|Free Speech| It's not funny anymore.</title>
-			<description><p>New link (with rationale) on <a href="https://www.slowernews.com/#free-speech">Slower News - Free Speech</a> category.</p></description>
+			<description><![CDATA[<p>New link (with rationale) on <a href="https://www.slowernews.com/#free-speech">Slower News - Free Speech</a> category.</p>]]></description>
 			<link>https://ec.europa.eu/home-affairs/system/files/2021-03/ran_ad-hoc_pap_fre_humor_20210215_en.pdf</link>
 			<guid>https://ec.europa.eu/home-affairs/system/files/2021-03/ran_ad-hoc_pap_fre_humor_20210215_en.pdf</guid>
 			<pubDate>Thu, 16 Sep 2021 08:18:30 +0000</pubDate>
@@ -30,7 +31,7 @@
 
 		<item>
 			<title>|Tourism| Voluntourism: do western do-gooders actually do harm?</title>
-			<description><p>New link (with rationale) on <a href="https://www.slowernews.com/#tourism">Slower News - Tourism</a> category.</p></description>
+			<description><![CDATA[<p>New link (with rationale) on <a href="https://www.slowernews.com/#tourism">Slower News - Tourism</a> category.</p>]]></description>
 			<link>https://www.theguardian.com/news/2018/sep/13/the-business-of-voluntourism-do-western-do-gooders-actually-do-harm</link>
 			<guid>https://www.theguardian.com/news/2018/sep/13/the-business-of-voluntourism-do-western-do-gooders-actually-do-harm</guid>
 			<pubDate>Sat, 11 Sep 2021 08:19:30 +0000</pubDate>
@@ -38,7 +39,7 @@
 
 		<item>
 			<title>|Work| Elite over-production.</title>
-			<description><p>New link (with rationale) on <a href="https://www.slowernews.com/#work">Slower News - Work</a> category.</p></description>
+			<description><![CDATA[<p>New link (with rationale) on <a href="https://www.slowernews.com/#work">Slower News - Work</a> category.</p>]]></description>
 			<link>https://www.overcomingbias.com/2021/08/what-is-elite-overproduction.html</link>
 			<guid>https://www.overcomingbias.com/2021/08/what-is-elite-overproduction.html</guid>
 			<pubDate>Thu, 2 Sep 2021 08:18:30 +0000</pubDate>
@@ -46,7 +47,7 @@
 
 		<item>
 			<title>|Health| Corona virus is here forever.</title>
-			<description><p>New link (with rationale) on <a href="https://www.slowernews.com/#health">Slower News - Health</a> category.</p></description>
+			<description><![CDATA[<p>New link (with rationale) on <a href="https://www.slowernews.com/#health">Slower News - Health</a> category.</p>]]></description>
 			<link>https://www.theatlantic.com/science/archive/2021/08/how-we-live-coronavirus-forever/619783/</link>
 			<guid>https://www.theatlantic.com/science/archive/2021/08/how-we-live-coronavirus-forever/619783/</guid>
 			<pubDate>Thu, 26 Aug 2021 09:18:30 +0000</pubDate>
@@ -54,7 +55,7 @@
 
 		<item>
 			<title>|Blockchain| Crypto leaders are obsessed with life extension.</title>
-			<description><p>New link (with rationale) on <a href="https://www.slowernews.com/#blockchain">Slower News - Blockchain</a> category.</p></description>
+			<description><![CDATA[<p>New link (with rationale) on <a href="https://www.slowernews.com/#blockchain">Slower News - Blockchain</a> category.</p>]]></description>
 			<link>https://cointelegraph.com/magazine/2021/08/11/crypto-folk-are-obsessed-with-life-extension-heres-why</link>
 			<guid>https://cointelegraph.com/magazine/2021/08/11/crypto-folk-are-obsessed-with-life-extension-heres-why</guid>
 			<pubDate>Fri, 20 Aug 2021 08:18:30 +0000</pubDate>
@@ -62,7 +63,7 @@
 
 		<item>
 			<title>|Construction| The smart home still sucks.</title>
-			<description><p>New link (with rationale) on <a href="https://www.slowernews.com/#construction">Slower News - Construction</a> category.</p></description>
+			<description><![CDATA[<p>New link (with rationale) on <a href="https://www.slowernews.com/#construction">Slower News - Construction</a> category.</p>]]></description>
 			<link>https://www.fastcompany.com/90660570/the-smart-home-is-flailing-as-a-concept-because-it-sucks</link>
 			<guid>https://www.fastcompany.com/90660570/the-smart-home-is-flailing-as-a-concept-because-it-sucks</guid>
 			<pubDate>Thu, 12 Aug 2021 07:18:30 +0000</pubDate>
@@ -70,15 +71,15 @@
 
 		<item>
 			<title>|Economy| Shrinkflation.</title>
-			<description><p>New link (with rationale) on <a href="https://www.slowernews.com/#economy">Slower News - Economy</a> category.</p></description>
+			<description><![CDATA[<p>New link (with rationale) on <a href="https://www.slowernews.com/#economy">Slower News - Economy</a> category.</p>]]></description>
 			<link>https://www.core77.com/posts/109385/Shrinkflation-When-Companies-Sneakily-Shrink-Products-But-Keep-the-Price-the-Same</link>
 			<guid>https://www.core77.com/posts/109385/Shrinkflation-When-Companies-Sneakily-Shrink-Products-But-Keep-the-Price-the-Same</guid>
-			<pubDate>sat, 7 Aug 2021 07:18:30 +0000</pubDate>
+			<pubDate>Sat, 7 Aug 2021 07:18:30 +0000</pubDate>
 		</item>
 
 		<item>
 			<title>|Parenting| The most precious resource is agency.</title>
-			<description><p>New link (with rationale) on <a href="https://www.slowernews.com/#parenting">Slower News - Parenting</a> category.</p></description>
+			<description><![CDATA[<p>New link (with rationale) on <a href="https://www.slowernews.com/#parenting">Slower News - Parenting</a> category.</p>]]></description>
 			<link>https://simonsarris.substack.com/p/the-most-precious-resource-is-agency</link>
 			<guid>https://simonsarris.substack.com/p/the-most-precious-resource-is-agency</guid>
 			<pubDate>Mon, 2 Aug 2021 07:18:30 +0000</pubDate>
@@ -86,7 +87,7 @@
 
 		<item>
 			<title>|Tourism| Chernobyl's «stalker» subculture.</title>
-			<description><p>New link (with rationale) on <a href="https://www.slowernews.com/#tourism">Slower News - Tourism</a> category.</p></description>
+			<description><![CDATA[<p>New link (with rationale) on <a href="https://www.slowernews.com/#tourism">Slower News - Tourism</a> category.</p>]]></description>
 			<link>https://www.calvertjournal.com/features/show/10946/into-the-zone-4-days-inside-chernobyls-secretive-stalker-subculture</link>
 			<guid>https://www.calvertjournal.com/features/show/10946/into-the-zone-4-days-inside-chernobyls-secretive-stalker-subculture</guid>
 			<pubDate>Tue, 27 Jul 2021 12:18:30 +0000</pubDate>
@@ -94,7 +95,7 @@
 
 		<item>
 			<title>|Social| Parasocial relationships.</title>
-			<description><p>New link (with rationale) on <a href="https://www.slowernews.com/#social">Slower News - Social</a> category.</p></description>
+			<description><![CDATA[<p>New link (with rationale) on <a href="https://www.slowernews.com/#social">Slower News - Social</a> category.</p>]]></description>
 			<link>https://every.to/cybernaut/the-blurred-lines-of-parasocial-relationships</link>
 			<guid>https://every.to/cybernaut/the-blurred-lines-of-parasocial-relationships</guid>
 			<pubDate>Wed, 21 Jul 2021 09:18:30 +0000</pubDate>
@@ -102,7 +103,7 @@
 
 		<item>
 			<title>|INFO| Quixotic call for sponsors.</title>
-			<description><p>Slower News matured a bit and is now open for sponsors.</p></description>
+			<description><![CDATA[<p>Slower News matured a bit and is now open for sponsors.</p>]]></description>
 			<link>https://www.slowernews.com/sponsor</link>
 			<guid>https://www.slowernews.com/sponsor</guid>
 			<pubDate>Sun, 18 Jul 2021 07:28:30 +0000</pubDate>
@@ -110,7 +111,7 @@
 
 		<item>
 			<title>|Blockchain| Bitcoin as a hyperobject.</title>
-			<description><p>New link (with rationale) on <a href="https://www.slowernews.com/#blockchain">Slower News - Blockchain</a> category.</p></description>
+			<description><![CDATA[<p>New link (with rationale) on <a href="https://www.slowernews.com/#blockchain">Slower News - Blockchain</a> category.</p>]]></description>
 			<link>https://erikhoel.substack.com/p/bitcoin-as-a-hyperobject</link>
 			<guid>https://erikhoel.substack.com/p/bitcoin-as-a-hyperobject</guid>
 			<pubDate>Thu, 15 Jul 2021 07:18:30 +0000</pubDate>
@@ -118,7 +119,7 @@
 
 		<item>
 			<title>|Beliefs and Ethics| Human-monkey chimera embryos created in lab for first time.</title>
-			<description><p>New link (with rationale) on <a href="https://www.slowernews.com/#beliefs-and-ethics">Slower News - Beliefs and Ethics</a> category.</p></description>
+			<description><![CDATA[<p>New link (with rationale) on <a href="https://www.slowernews.com/#beliefs-and-ethics">Slower News - Beliefs and Ethics</a> category.</p>]]></description>
 			<link>https://newatlas.com/science/human-monkey-chimera-embryos/</link>
 			<guid>https://newatlas.com/science/human-monkey-chimera-embryos/</guid>
 			<pubDate>Fri, 09 Jul 2021 08:18:30 +0000</pubDate>
@@ -126,7 +127,7 @@
 
 		<item>
 			<title>|INFO| New (beta) page on Slower News: Timeless.</title>
-			<description><p>Still on beta stage. Lots of timeless stuff will be slowly added. Open to suggestions.</p></description>
+			<description><![CDATA[<p>Still on beta stage. Lots of timeless stuff will be slowly added. Open to suggestions.</p>]]></description>
 			<link>https://www.slowernews.com/s/timeless</link>
 			<guid>https://www.slowernews.com/s/timeless</guid>
 			<pubDate>Wed, 07 Jul 2021 09:18:30 +0000</pubDate>
@@ -134,7 +135,7 @@
 
 		<item>
 			<title>|Drones, Robotics And AI| Human and car tracking autonomous drones are now on the market.</title>
-			<description><p>New link (with rationale) on <a href="https://www.slowernews.com/#drones-robotics-and-ai">Slower News - Drones, Robotics And AI</a> category.</p></description>
+			<description><![CDATA[<p>New link (with rationale) on <a href="https://www.slowernews.com/#drones-robotics-and-ai">Slower News - Drones, Robotics And AI</a> category.</p>]]></description>
 			<link>https://www.core77.com/posts/108393/Human-and-Car-Tracking-Autonomous-Drones-are-Now-On-the-Market</link>
 			<guid>https://www.core77.com/posts/108393/Human-and-Car-Tracking-Autonomous-Drones-are-Now-On-the-Market</guid>
 			<pubDate>Wed, 30 Jun 2021 09:18:30 +0000</pubDate>
@@ -142,7 +143,7 @@
 
 		<item>
 			<title>|Drones, Robotics And AI| Cartels adopt drones armed with explosives.</title>
-			<description><p>New link (with rationale) on <a href="https://www.slowernews.com/#drones-robotics-and-ai">Slower News - Drones, Robotics And AI</a> category.</p></description>
+			<description><![CDATA[<p>New link (with rationale) on <a href="https://www.slowernews.com/#drones-robotics-and-ai">Slower News - Drones, Robotics And AI</a> category.</p>]]></description>
 			<link>https://mexiconewsdaily.com/news/jalisco-cartel-adopts-new-tactic-drones-armed-with-c-4-explosive/</link>
 			<guid>https://mexiconewsdaily.com/news/jalisco-cartel-adopts-new-tactic-drones-armed-with-c-4-explosive/</guid>
 			<pubDate>Wed, 30 Jun 2021 08:18:30 +0000</pubDate>
@@ -150,7 +151,7 @@
 
 		<item>
 			<title>|Retail| Democratising the right to lazyness.</title>
-			<description><p>New link (with rationale) on <a href="https://www.slowernews.com/#retail">Slower News - Retail</a> category.</p></description>
+			<description><![CDATA[<p>New link (with rationale) on <a href="https://www.slowernews.com/#retail">Slower News - Retail</a> category.</p>]]></description>
 			<link>https://www.theguardian.com/lifeandstyle/2021/jun/12/the-rise-of-on-demand-grocery-deliveries</link>
 			<guid>https://www.theguardian.com/lifeandstyle/2021/jun/12/the-rise-of-on-demand-grocery-deliveries</guid>
 			<pubDate>Wed, 23 Jun 2021 09:18:30 +0000</pubDate>
@@ -158,7 +159,7 @@
 
 		<item>
 			<title>|INFO| Slower News Quarterly - Summer Issue.</title>
-			<description><p>Second Issue of Slower News Quarterly was published.</p></description>
+			<description><![CDATA[<p>Second Issue of Slower News Quarterly was published.</p>]]></description>
 			<link>https://slowernews.substack.com/p/2021-summer</link>
 			<guid>https://slowernews.substack.com/p/2021-summer</guid>
 			<pubDate>Mon, 21 Jun 2021 08:18:30 +0000</pubDate>
@@ -166,7 +167,7 @@
 
 		<item>
 			<title>|Democracy| Democracy under siege - 15 years of decline.</title>
-			<description><p>New link (with rationale) on <a href="https://www.slowernews.com/#democracy">Slower News - Democracy</a> category.</p></description>
+			<description><![CDATA[<p>New link (with rationale) on <a href="https://www.slowernews.com/#democracy">Slower News - Democracy</a> category.</p>]]></description>
 			<link>https://freedomhouse.org/report/freedom-world/2021/democracy-under-siege</link>
 			<guid>https://freedomhouse.org/report/freedom-world/2021/democracy-under-siege</guid>
 			<pubDate>Wed, 16 Jun 2021 07:18:30 +0000</pubDate>
@@ -174,7 +175,7 @@
 
 		<item>
 			<title>|Geopolitics| Tech companies are becoming «independent nations».</title>
-			<description><p>Updated link (with rationale) on <a href="https://www.slowernews.com/#geopolitics">Slower News - Geopolitics</a> category.</p></description>
+			<description><![CDATA[<p>Updated link (with rationale) on <a href="https://www.slowernews.com/#geopolitics">Slower News - Geopolitics</a> category.</p>]]></description>
 			<link>https://www.techregister.co.uk/nevada-bill-would-allow-tech-companies-to-create-governments/</link>
 			<guid>https://www.techregister.co.uk/nevada-bill-would-allow-tech-companies-to-create-governments/</guid>
 			<pubDate>Sat, 12 Jun 2021 09:18:30 +0000</pubDate>
@@ -182,7 +183,7 @@
 
 		<item>
 			<title>|Beliefs and Ethics| Is sharing economy a faith?</title>
-			<description><p>New link (with rationale) on <a href="https://www.slowernews.com/#beliefs-and-ethics">Slower News - Beliefs and Ethics</a> category.</p></description>
+			<description><![CDATA[<p>New link (with rationale) on <a href="https://www.slowernews.com/#beliefs-and-ethics">Slower News - Beliefs and Ethics</a> category.</p>]]></description>
 			<link>https://www.straitstimes.com/asia/east-asia/graveyard-of-the-bikes-chinas-failed-share-cycle-scheme-from-above</link>
 			<guid>https://www.straitstimes.com/asia/east-asia/graveyard-of-the-bikes-chinas-failed-share-cycle-scheme-from-above</guid>
 			<pubDate>Mon, 7 Jun 2021 09:18:30 +0000</pubDate>
@@ -190,7 +191,7 @@
 
 		<item>
 			<title>|Blockchain| Crypto compared with fiat currencies.</title>
-			<description><p>New link (with rationale) on <a href="https://www.slowernews.com/#blockchain">Slower News - Blockchain</a> category.</p></description>
+			<description><![CDATA[<p>New link (with rationale) on <a href="https://www.slowernews.com/#blockchain">Slower News - Blockchain</a> category.</p>]]></description>
 			<link>https://coinmarketcap.com/fiat-currencies/</link>
 			<guid>https://coinmarketcap.com/fiat-currencies/</guid>
 			<pubDate>Wed, 26 May 2021 09:18:30 +0000</pubDate>
@@ -198,7 +199,7 @@
 
 		<item>
 			<title>|Geopolitics| China lands a rover on Mars.</title>
-			<description><p>New link (with rationale) on <a href="https://www.slowernews.com/#geopolitics">Slower News - Geopolitics</a> category.</p></description>
+			<description><![CDATA[<p>New link (with rationale) on <a href="https://www.slowernews.com/#geopolitics">Slower News - Geopolitics</a> category.</p>]]></description>
 			<link>https://www.bbc.com/news/science-environment-57122914</link>
 			<guid>https://www.bbc.com/news/science-environment-57122914</guid>
 			<pubDate>Fri, 21 May 2021 08:18:30 +0000</pubDate>
@@ -206,7 +207,7 @@
 
 		<item>
 			<title>|Business| Tesla makes more money trading bitcoin than selling cars.</title>
-			<description><p>New link (with rationale) on <a href="https://www.slowernews.com/#business">Slower News - Business</a> category.</p></description>
+			<description><![CDATA[<p>New link (with rationale) on <a href="https://www.slowernews.com/#business">Slower News - Business</a> category.</p>]]></description>
 			<link>https://www.wsj.com/articles/tesla-makes-more-money-trading-bitcoin-than-selling-cars-11619517615</link>
 			<guid>https://www.wsj.com/articles/tesla-makes-more-money-trading-bitcoin-than-selling-cars-11619517615</guid>
 			<pubDate>Fri, 21 May 2021 07:18:30 +0000</pubDate>
@@ -214,7 +215,7 @@
 
 		<item>
 			<title>|Farming| The promise and perils of insect farming.</title>
-			<description><p>New link (with rationale) on <a href="https://www.slowernews.com/#farming">Slower News - Farming</a> category.</p></description>
+			<description><![CDATA[<p>New link (with rationale) on <a href="https://www.slowernews.com/#farming">Slower News - Farming</a> category.</p>]]></description>
 			<link>http://eepurl.com/hx07db</link>
 			<guid>http://eepurl.com/hx07db</guid>
 			<pubDate>Sun, 16 May 2021 09:18:30 +0000</pubDate>
@@ -222,7 +223,7 @@
 
 		<item>
 			<title>|Geopolitics| The rise of hacking armies.</title>
-			<description><p>New link (with rationale) on <a href="https://www.slowernews.com/#geopolitics">Slower News - Geopolitics</a> category.</p></description>
+			<description><![CDATA[<p>New link (with rationale) on <a href="https://www.slowernews.com/#geopolitics">Slower News - Geopolitics</a> category.</p>]]></description>
 			<link>https://www.newyorker.com/magazine/2021/04/26/the-incredible-rise-of-north-koreas-hacking-army</link>
 			<guid>https://www.newyorker.com/magazine/2021/04/26/the-incredible-rise-of-north-koreas-hacking-army</guid>
 			<pubDate>Mon, 10 May 2021 08:18:30 +0000</pubDate>
@@ -230,7 +231,7 @@
 
 		<item>
 			<title>|Transports| SpaceX won contract to develop spacecraft to land astronauts on the moon.</title>
-			<description><p>New link (with rationale) on <a href="https://www.slowernews.com/#transports">Slower News - Transports</a> category.</p></description>
+			<description><![CDATA[<p>New link (with rationale) on <a href="https://www.slowernews.com/#transports">Slower News - Transports</a> category.</p>]]></description>
 			<link>https://www.msn.com/en-us/news/technology/elon-musk-e2-80-99s-spacex-wins-contract-to-develop-spacecraft-to-land-astronauts-on-the-moon/ar-BB1fJccC</link>
 			<guid>https://www.msn.com/en-us/news/technology/elon-musk-e2-80-99s-spacex-wins-contract-to-develop-spacecraft-to-land-astronauts-on-the-moon/ar-BB1fJccC</guid>
 			<pubDate>Wed, 5 May 2021 09:18:30 +0000</pubDate>
@@ -238,7 +239,7 @@
 
 		<item>
 			<title>|Health| Novel HIV vaccine in human trial.</title>
-			<description><p>New link (with rationale) on <a href="https://www.slowernews.com/#health">Slower News - Health</a> category.</p></description>
+			<description><![CDATA[<p>New link (with rationale) on <a href="https://www.slowernews.com/#health">Slower News - Health</a> category.</p>]]></description>
 			<link>https://www.europeanpharmaceuticalreview.com/news/141892/novel-hiv-vaccine-approach-shows-promise-in-landmark-first-in-human-trial/</link>
 			<guid>https://www.europeanpharmaceuticalreview.com/news/141892/novel-hiv-vaccine-approach-shows-promise-in-landmark-first-in-human-trial/</guid>
 			<pubDate>Thu, 29 Apr 2021 09:18:30 +0000</pubDate>
@@ -246,7 +247,7 @@
 
 		<item>
 			<title>|Health| Effective malaria vaccine discovered.</title>
-			<description><p>New link (with rationale) on <a href="https://www.slowernews.com/#health">Slower News - Health</a> category.</p></description>
+			<description><![CDATA[<p>New link (with rationale) on <a href="https://www.slowernews.com/#health">Slower News - Health</a> category.</p>]]></description>
 			<link>https://blogs.sciencemag.org/pipeline/archives/2021/04/23/great-malaria-vaccine-news</link>
 			<guid>https://blogs.sciencemag.org/pipeline/archives/2021/04/23/great-malaria-vaccine-news</guid>
 			<pubDate>Thu, 29 Apr 2021 08:18:30 +0000</pubDate>
@@ -254,7 +255,7 @@
 
 		<item>
 			<title>|Blockchain| NFTs are the new conceptual art.</title>
-			<description><p>New link (with rationale) on <a href="https://www.slowernews.com/#blockchain">Slower News - Blockchain</a> category.</p></description>
+			<description><![CDATA[<p>New link (with rationale) on <a href="https://www.slowernews.com/#blockchain">Slower News - Blockchain</a> category.</p>]]></description>
 			<link>https://andrew-s-klug.medium.com/nfts-are-the-new-conceptual-art-20d28599a75b</link>
 			<guid>https://andrew-s-klug.medium.com/nfts-are-the-new-conceptual-art-20d28599a75b</guid>
 			<pubDate>Fri, 23 Apr 2021 09:18:30 +0000</pubDate>
@@ -262,7 +263,7 @@
 
 		<item>
 			<title>|Tools| Excel never dies.</title>
-			<description><p>New link (with rationale) on <a href="https://www.slowernews.com/#tools">Slower News - Tools</a> category.</p></description>
+			<description><![CDATA[<p>New link (with rationale) on <a href="https://www.slowernews.com/#tools">Slower News - Tools</a> category.</p>]]></description>
 			<link>https://www.notboring.co/p/excel-never-dies</link>
 			<guid>https://www.notboring.co/p/excel-never-dies</guid>
 			<pubDate>Sun, 18 Apr 2021 09:18:30 +0000</pubDate>
@@ -270,7 +271,7 @@
 
 		<item>
 			<title>|Culture| Addiction to outrage.</title>
-			<description><p>New link (with rationale) on <a href="https://www.slowernews.com/#culture">Slower News - Culture</a> category.</p></description>
+			<description><![CDATA[<p>New link (with rationale) on <a href="https://www.slowernews.com/#culture">Slower News - Culture</a> category.</p>]]></description>
 			<link>https://medium.com/the-bad-influence/your-addiction-to-outrage-is-ruining-your-life-9effebdfeaca</link>
 			<guid>https://medium.com/the-bad-influence/your-addiction-to-outrage-is-ruining-your-life-9effebdfeaca</guid>
 			<pubDate>Tue, 13 Apr 2021 09:18:30 +0000</pubDate>
