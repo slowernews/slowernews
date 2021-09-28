@@ -2,6 +2,12 @@
 
 Why articles were included, replaced or deprecated. Often, it implies reordering the article section to balance/relate viewpoints.
 
+### A farsa do socialismo em quatro letras
+
+2021-09-28
+
+- Self explanatory.
+
 ### Lisbon has shared dissident info with repressive regimes for years
 
 2021-06-15
