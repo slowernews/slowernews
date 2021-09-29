@@ -2,6 +2,12 @@
 
 Why articles were included, replaced or deprecated. Often, it implies reordering the article section to balance/relate viewpoints.
 
+### The dream of carbon air capture edges toward reality
+
+2021-09-29
+
+- Deprecates existing articles on this subject.
+
 ### Movable housing for scalable cities
 
 2021-09-21
