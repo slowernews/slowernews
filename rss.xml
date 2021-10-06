@@ -6,6 +6,14 @@
 		<atom:link href="https://www.slowernews.com/rss.xml" rel="self" type="application/rss+xml" />
 
 		<item>
+			<title>|Beliefs and Ethics| First statue in honor of bitcoin creator.</title>
+			<description><![CDATA[<p>New link (with rationale) on <a href="https://www.slowernews.com/#beliefs-and-ethics">Slower News - Beliefs And Ethics</a> category.</p>]]></description>
+			<link>https://www.nasdaq.com/articles/hungary-debuts-statue-in-honor-of-bitcoin-creator-satoshi-nakamoto-2021-09-16</link>
+			<guid>https://www.nasdaq.com/articles/hungary-debuts-statue-in-honor-of-bitcoin-creator-satoshi-nakamoto-2021-09-16</guid>
+			<pubDate>Wed, 6 Oct 2021 09:18:30 +0000</pubDate>
+		</item>
+
+		<item>
 			<title>|Ecology and Climate| The dream of carbon air capture edges toward reality.</title>
 			<description><![CDATA[<p>New link (with rationale) on <a href="https://www.slowernews.com/#ecology-and-climate">Slower News - Ecology And Climate</a> category.</p>]]></description>
 			<link>https://e360.yale.edu/features/the-dream-of-co2-air-capture-edges-toward-reality</link>
@@ -275,14 +283,6 @@
 			<link>https://www.notboring.co/p/excel-never-dies</link>
 			<guid>https://www.notboring.co/p/excel-never-dies</guid>
 			<pubDate>Sun, 18 Apr 2021 09:18:30 +0000</pubDate>
-		</item>
-
-		<item>
-			<title>|Culture| Addiction to outrage.</title>
-			<description><![CDATA[<p>New link (with rationale) on <a href="https://www.slowernews.com/#culture">Slower News - Culture</a> category.</p>]]></description>
-			<link>https://medium.com/the-bad-influence/your-addiction-to-outrage-is-ruining-your-life-9effebdfeaca</link>
-			<guid>https://medium.com/the-bad-influence/your-addiction-to-outrage-is-ruining-your-life-9effebdfeaca</guid>
-			<pubDate>Tue, 13 Apr 2021 09:18:30 +0000</pubDate>
 		</item>
 	</channel>
 </rss>

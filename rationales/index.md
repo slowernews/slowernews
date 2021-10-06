@@ -2,6 +2,12 @@
 
 Why articles were included, replaced or deprecated. Often, it implies reordering the article section to balance/relate viewpoints.
 
+### First statue in honor of bitcoin creator
+
+2021-10-06
+
+- A new god.
+
 ### The dream of carbon air capture edges toward reality
 
 2021-09-29
