@@ -2,6 +2,12 @@
 
 Why articles were included, replaced or deprecated. Often, it implies reordering the article section to balance/relate viewpoints.
 
+### Raspberry Visa
+
+2021-10-06
+
+- Self explanatory.
+
 ### A farsa do socialismo em quatro letras
 
 2021-09-28
