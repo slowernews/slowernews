@@ -2,6 +2,12 @@
 
 Why articles were included, replaced or deprecated. Often, it implies reordering the article section to balance/relate viewpoints.
 
+### Soccer is not a sport anymore
+
+2021-10-12
+
+- It is a money and reputation washing industry.
+
 ### First statue in honor of bitcoin creator
 
 2021-10-06
