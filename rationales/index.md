@@ -2,6 +2,12 @@
 
 Why articles were included, replaced or deprecated. Often, it implies reordering the article section to balance/relate viewpoints.
 
+### Klimaticket
+
+2021-10-18
+
+- A bit of wishful thinking.
+
 ### Soccer is not a sport anymore
 
 2021-10-12
