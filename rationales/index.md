@@ -2,6 +2,12 @@
 
 Why articles were included, replaced or deprecated. Often, it implies reordering the article section to balance/relate viewpoints.
 
+### EU message and chat control
+
+2021-10-25
+
+- Self explanatory.
+
 ### Klimaticket
 
 2021-10-18

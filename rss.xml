@@ -6,6 +6,14 @@
 		<atom:link href="https://www.slowernews.com/rss.xml" rel="self" type="application/rss+xml" />
 
 		<item>
+			<title>|Democracy| EU message and chat control.</title>
+			<description><![CDATA[<p>New link (with rationale) on <a href="https://www.slowernews.com/#democracy">Slower News - Democracy</a> category.</p>]]></description>
+			<link>https://www.patrick-breyer.de/en/posts/message-screening/</link>
+			<guid>https://www.patrick-breyer.de/en/posts/message-screening/</guid>
+			<pubDate>Mon, 25 Oct 2021 09:18:30 +0000</pubDate>
+		</item>
+
+		<item>
 			<title>|Transports| Klimaticket.</title>
 			<description><![CDATA[<p>New link (with rationale) on <a href="https://www.slowernews.com/#transports">Slower News - Transports</a> category.</p>]]></description>
 			<link>https://www.klimaticket.at/en/</link>
@@ -259,14 +267,6 @@
 			<link>https://www.newyorker.com/magazine/2021/04/26/the-incredible-rise-of-north-koreas-hacking-army</link>
 			<guid>https://www.newyorker.com/magazine/2021/04/26/the-incredible-rise-of-north-koreas-hacking-army</guid>
 			<pubDate>Mon, 10 May 2021 08:18:30 +0000</pubDate>
-		</item>
-
-		<item>
-			<title>|Transports| SpaceX won contract to develop spacecraft to land astronauts on the moon.</title>
-			<description><![CDATA[<p>New link (with rationale) on <a href="https://www.slowernews.com/#transports">Slower News - Transports</a> category.</p>]]></description>
-			<link>https://www.msn.com/en-us/news/technology/elon-musk-e2-80-99s-spacex-wins-contract-to-develop-spacecraft-to-land-astronauts-on-the-moon/ar-BB1fJccC</link>
-			<guid>https://www.msn.com/en-us/news/technology/elon-musk-e2-80-99s-spacex-wins-contract-to-develop-spacecraft-to-land-astronauts-on-the-moon/ar-BB1fJccC</guid>
-			<pubDate>Wed, 5 May 2021 09:18:30 +0000</pubDate>
 		</item>
 	</channel>
 </rss>
