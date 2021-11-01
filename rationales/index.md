@@ -2,6 +2,18 @@
 
 Why articles were included, replaced or deprecated. Often, it implies reordering the article section to balance/relate viewpoints.
 
+### Bioartificial kidney
+
+2021-11-01
+
+- Self explanatory.
+
+### Pig kidney has been successfully transplanted into a human
+
+2021-11-01
+
+- Self explanatory.
+
 ### EU message and chat control
 
 2021-10-25

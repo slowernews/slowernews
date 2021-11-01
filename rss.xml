@@ -6,6 +6,22 @@
 		<atom:link href="https://www.slowernews.com/rss.xml" rel="self" type="application/rss+xml" />
 
 		<item>
+			<title>|Health| Bioartificial kidney.</title>
+			<description><![CDATA[<p>New link (with rationale) on <a href="https://www.slowernews.com/#health">Slower News - Health</a> category.</p>]]></description>
+			<link>https://pharmacy.ucsf.edu/news/2021/09/kidney-project-successfully-tests-prototype-bioartificial-kidney</link>
+			<guid>https://pharmacy.ucsf.edu/news/2021/09/kidney-project-successfully-tests-prototype-bioartificial-kidney</guid>
+			<pubDate>Mon, 1 Nov 2021 08:18:30 +0000</pubDate>
+		</item>
+
+		<item>
+			<title>|Health| Pig kidney has been successfully transplanted into a human.</title>
+			<description><![CDATA[<p>New link (with rationale) on <a href="https://www.slowernews.com/#health">Slower News - Health</a> category.</p>]]></description>
+			<link>https://www.sciencealert.com/a-pig-kidney-has-been-successfully-transplanted-into-a-human-for-the-first-time</link>
+			<guid>https://www.sciencealert.com/a-pig-kidney-has-been-successfully-transplanted-into-a-human-for-the-first-time</guid>
+			<pubDate>Mon, 1 Nov 2021 07:18:30 +0000</pubDate>
+		</item>
+
+		<item>
 			<title>|Democracy| EU message and chat control.</title>
 			<description><![CDATA[<p>New link (with rationale) on <a href="https://www.slowernews.com/#democracy">Slower News - Democracy</a> category.</p>]]></description>
 			<link>https://www.patrick-breyer.de/en/posts/message-screening/</link>
@@ -251,22 +267,6 @@
 			<link>https://www.wsj.com/articles/tesla-makes-more-money-trading-bitcoin-than-selling-cars-11619517615</link>
 			<guid>https://www.wsj.com/articles/tesla-makes-more-money-trading-bitcoin-than-selling-cars-11619517615</guid>
 			<pubDate>Fri, 21 May 2021 07:18:30 +0000</pubDate>
-		</item>
-
-		<item>
-			<title>|Farming| The promise and perils of insect farming.</title>
-			<description><![CDATA[<p>New link (with rationale) on <a href="https://www.slowernews.com/#farming">Slower News - Farming</a> category.</p>]]></description>
-			<link>http://eepurl.com/hx07db</link>
-			<guid>http://eepurl.com/hx07db</guid>
-			<pubDate>Sun, 16 May 2021 09:18:30 +0000</pubDate>
-		</item>
-
-		<item>
-			<title>|Geopolitics| The rise of hacking armies.</title>
-			<description><![CDATA[<p>New link (with rationale) on <a href="https://www.slowernews.com/#geopolitics">Slower News - Geopolitics</a> category.</p>]]></description>
-			<link>https://www.newyorker.com/magazine/2021/04/26/the-incredible-rise-of-north-koreas-hacking-army</link>
-			<guid>https://www.newyorker.com/magazine/2021/04/26/the-incredible-rise-of-north-koreas-hacking-army</guid>
-			<pubDate>Mon, 10 May 2021 08:18:30 +0000</pubDate>
 		</item>
 	</channel>
 </rss>
