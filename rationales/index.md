@@ -2,6 +2,12 @@
 
 Why articles were included, replaced or deprecated. Often, it implies reordering the article section to balance/relate viewpoints.
 
+### Crypto cities
+
+2021-11-08
+
+- Updates <a href="https://reallifemag.com/the-captured-city/">The «smart city»</a>.
+
 ### Bioartificial kidney
 
 2021-11-01

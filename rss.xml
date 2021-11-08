@@ -6,6 +6,14 @@
 		<atom:link href="https://www.slowernews.com/rss.xml" rel="self" type="application/rss+xml" />
 
 		<item>
+			<title>|Urbanism| Crypto cities.</title>
+			<description><![CDATA[<p>New link (with rationale) on <a href="https://www.slowernews.com/#urbanism">Slower News - Urbanism</a> category.</p>]]></description>
+			<link>https://vitalik.ca/general/2021/10/31/cities.html</link>
+			<guid>https://vitalik.ca/general/2021/10/31/cities.html</guid>
+			<pubDate>Mon, 8 Nov 2021 09:08:30 +0000</pubDate>
+		</item>
+
+		<item>
 			<title>|Health| Bioartificial kidney.</title>
 			<description><![CDATA[<p>New link (with rationale) on <a href="https://www.slowernews.com/#health">Slower News - Health</a> category.</p>]]></description>
 			<link>https://pharmacy.ucsf.edu/news/2021/09/kidney-project-successfully-tests-prototype-bioartificial-kidney</link>
@@ -251,22 +259,6 @@
 			<link>https://coinmarketcap.com/fiat-currencies/</link>
 			<guid>https://coinmarketcap.com/fiat-currencies/</guid>
 			<pubDate>Wed, 26 May 2021 09:18:30 +0000</pubDate>
-		</item>
-
-		<item>
-			<title>|Geopolitics| China lands a rover on Mars.</title>
-			<description><![CDATA[<p>New link (with rationale) on <a href="https://www.slowernews.com/#geopolitics">Slower News - Geopolitics</a> category.</p>]]></description>
-			<link>https://www.bbc.com/news/science-environment-57122914</link>
-			<guid>https://www.bbc.com/news/science-environment-57122914</guid>
-			<pubDate>Fri, 21 May 2021 08:18:30 +0000</pubDate>
-		</item>
-
-		<item>
-			<title>|Business| Tesla makes more money trading bitcoin than selling cars.</title>
-			<description><![CDATA[<p>New link (with rationale) on <a href="https://www.slowernews.com/#business">Slower News - Business</a> category.</p>]]></description>
-			<link>https://www.wsj.com/articles/tesla-makes-more-money-trading-bitcoin-than-selling-cars-11619517615</link>
-			<guid>https://www.wsj.com/articles/tesla-makes-more-money-trading-bitcoin-than-selling-cars-11619517615</guid>
-			<pubDate>Fri, 21 May 2021 07:18:30 +0000</pubDate>
 		</item>
 	</channel>
 </rss>

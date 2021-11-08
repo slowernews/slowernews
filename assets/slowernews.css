@@ -17,7 +17,8 @@
   --bg: #fffff8;
   --fg: #111;
   --recent: red;
-  --greatLink: brown;
+  --greatLink: darkviolet; /* brown */
+  --pageLink: brown;
 }
 
 @media (prefers-color-scheme: dark) {
@@ -26,6 +27,7 @@
     --fg: #d0cac1;
     --recent: #ff6060;
     --greatLink: #b39292;
+    --pageLink: #b39292;
   }
 }
 
@@ -148,6 +150,9 @@ hr {
 .greatLink {
   color: var(--greatLink);
   font-size: 1.25rem;
+}
+.pageLink {
+  color: var(--pageLink);  
 }
 .fullwidth {
   max-width: 90%;
