@@ -2,6 +2,12 @@
 
 Why articles were included, replaced or deprecated. Often, it implies reordering the article section to balance/relate viewpoints.
 
+### Autonomous boats seem more solvable than autonomous cars
+
+2021-11-14
+
+- Self explanatory.
+
 ### Crypto cities
 
 2021-11-08

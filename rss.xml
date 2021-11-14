@@ -6,6 +6,14 @@
 		<atom:link href="https://www.slowernews.com/rss.xml" rel="self" type="application/rss+xml" />
 
 		<item>
+			<title>|Drones, Robotics And Ai| Autonomous boats seem more solvable than autonomous cars.</title>
+			<description><![CDATA[<p>New link (with rationale) on <a href="https://www.slowernews.com/#drones-robotics-and-ai">Slower News - Drones, Robotics And Ai</a> category.</p>]]></description>
+			<link>https://spectrum.ieee.org/mit-robot-boats</link>
+			<guid>https://spectrum.ieee.org/mit-robot-boats</guid>
+			<pubDate>Sun, 14 Nov 2021 08:18:30 +0000</pubDate>
+		</item>
+
+		<item>
 			<title>|Urbanism| Crypto cities.</title>
 			<description><![CDATA[<p>New link (with rationale) on <a href="https://www.slowernews.com/#urbanism">Slower News - Urbanism</a> category.</p>]]></description>
 			<link>https://vitalik.ca/general/2021/10/31/cities.html</link>
@@ -251,14 +259,6 @@
 			<link>https://www.straitstimes.com/asia/east-asia/graveyard-of-the-bikes-chinas-failed-share-cycle-scheme-from-above</link>
 			<guid>https://www.straitstimes.com/asia/east-asia/graveyard-of-the-bikes-chinas-failed-share-cycle-scheme-from-above</guid>
 			<pubDate>Mon, 07 Jun 2021 09:18:30 +0000</pubDate>
-		</item>
-
-		<item>
-			<title>|Blockchain| Crypto compared with fiat currencies.</title>
-			<description><![CDATA[<p>New link (with rationale) on <a href="https://www.slowernews.com/#blockchain">Slower News - Blockchain</a> category.</p>]]></description>
-			<link>https://coinmarketcap.com/fiat-currencies/</link>
-			<guid>https://coinmarketcap.com/fiat-currencies/</guid>
-			<pubDate>Wed, 26 May 2021 09:18:30 +0000</pubDate>
 		</item>
 	</channel>
 </rss>
