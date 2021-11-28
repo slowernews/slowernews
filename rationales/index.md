@@ -2,6 +2,12 @@
 
 Why articles were included, replaced or deprecated. Often, it implies reordering the article section to balance/relate viewpoints.
 
+### Apple announces self service repair
+
+2021-11-28
+
+- «Right to repair» is winning.
+
 ### Autonomous boats seem more solvable than autonomous cars
 
 2021-11-14
