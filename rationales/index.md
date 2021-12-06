@@ -2,6 +2,12 @@
 
 Why articles were included, replaced or deprecated. Often, it implies reordering the article section to balance/relate viewpoints.
 
+### Germany's new government plans «right to encryption».
+
+2021-12-06
+
+- Self explanatory.
+
 ### Apple announces self service repair
 
 2021-11-28

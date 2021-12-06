@@ -6,6 +6,14 @@
 		<atom:link href="https://www.slowernews.com/rss.xml" rel="self" type="application/rss+xml" />
 
 		<item>
+			<title>|Democracy| Germany's new government plans «right to encryption»..</title>
+			<description><![CDATA[<p>New link (with rationale) on <a href="https://www.slowernews.com/#democracy">Slower News - Democracy</a> category.</p>]]></description>
+			<link>https://tutanota.com/blog/posts/germany-right-to-encryption/</link>
+			<guid>https://tutanota.com/blog/posts/germany-right-to-encryption/</guid>
+			<pubDate>Mon, 6 Dec 2021 09:18:30 +0000</pubDate>
+		</item>
+
+		<item>
 			<title>|Reduce, Reuse, Recycle| Apple announces self service repair.</title>
 			<description><![CDATA[<p>New link (with rationale) on <a href="https://www.slowernews.com/#rrr">Slower News - Reduce, Reuse, Recycle</a> category.</p>]]></description>
 			<link>https://www.apple.com/newsroom/2021/11/apple-announces-self-service-repair/</link>
@@ -235,30 +243,6 @@
 			<link>https://www.theguardian.com/lifeandstyle/2021/jun/12/the-rise-of-on-demand-grocery-deliveries</link>
 			<guid>https://www.theguardian.com/lifeandstyle/2021/jun/12/the-rise-of-on-demand-grocery-deliveries</guid>
 			<pubDate>Wed, 23 Jun 2021 09:18:30 +0000</pubDate>
-		</item>
-
-		<item>
-			<title>|INFO| Slower News Quarterly - Summer Issue.</title>
-			<description><![CDATA[<p>Second Issue of Slower News Quarterly was published.</p>]]></description>
-			<link>https://slowernews.substack.com/p/2021-summer</link>
-			<guid>https://slowernews.substack.com/p/2021-summer</guid>
-			<pubDate>Mon, 21 Jun 2021 08:18:30 +0000</pubDate>
-		</item>
-
-		<item>
-			<title>|Democracy| Democracy under siege - 15 years of decline.</title>
-			<description><![CDATA[<p>New link (with rationale) on <a href="https://www.slowernews.com/#democracy">Slower News - Democracy</a> category.</p>]]></description>
-			<link>https://freedomhouse.org/report/freedom-world/2021/democracy-under-siege</link>
-			<guid>https://freedomhouse.org/report/freedom-world/2021/democracy-under-siege</guid>
-			<pubDate>Wed, 16 Jun 2021 07:18:30 +0000</pubDate>
-		</item>
-
-		<item>
-			<title>|Geopolitics| Tech companies are becoming «independent nations».</title>
-			<description><![CDATA[<p>Updated link (with rationale) on <a href="https://www.slowernews.com/#geopolitics">Slower News - Geopolitics</a> category.</p>]]></description>
-			<link>https://www.techregister.co.uk/nevada-bill-would-allow-tech-companies-to-create-governments/</link>
-			<guid>https://www.techregister.co.uk/nevada-bill-would-allow-tech-companies-to-create-governments/</guid>
-			<pubDate>Sat, 12 Jun 2021 09:18:30 +0000</pubDate>
 		</item>
 	</channel>
 </rss>
