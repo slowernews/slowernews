@@ -2,7 +2,7 @@
 
 Why articles were included, replaced or deprecated. Often, it implies reordering the article section to balance/relate viewpoints.
 
-### Germany's new government plans «right to encryption».
+### Germany's new government plans «right to encryption» and ban on biometric mass surveillance
 
 2021-12-06
 
