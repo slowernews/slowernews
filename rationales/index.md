@@ -4,6 +4,12 @@ Why articles were included, replaced or deprecated. Often, it implies reordering
 
 ### Germany's new government plans «right to encryption» and ban on biometric mass surveillance
 
+### Algocracy
+
+2021-12-13
+
+- DAOs (Decentralized Autonomous Organization), most likely, will be the future of Democracy.
+
 2021-12-06
 
 - Self explanatory.
