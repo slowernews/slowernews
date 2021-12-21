@@ -6,6 +6,14 @@
 		<atom:link href="https://www.slowernews.com/rss.xml" rel="self" type="application/rss+xml" />
 
 		<item>
+			<title>|Drones, Robotics And Ai| Autonomous drone navigates through the forest at 40 km/h.</title>
+			<description><![CDATA[<p>New link (with rationale) on <a href="https://www.slowernews.com/#drones-robotics-and-ai">Slower News - Drones, Robotics And Ai</a> category.</p>]]></description>
+			<link>https://www.media.uzh.ch/en/Press-Releases/2021/Drone-in-the-wild.html</link>
+			<guid>https://www.media.uzh.ch/en/Press-Releases/2021/Drone-in-the-wild.html</guid>
+			<pubDate>Tue, 21 Dec 2021 08:18:30 +0000</pubDate>
+		</item>
+
+		<item>
 			<title>|Democracy| Algocracy.</title>
 			<description><![CDATA[<p>New link (with rationale) on <a href="https://www.slowernews.com/#democracy">Slower News - Democracy</a> category.</p>]]></description>
 			<link>https://en.wikipedia.org/wiki/Government_by_algorithm</link>
@@ -235,22 +243,6 @@
 			<link>https://www.slowernews.com/s/timeless</link>
 			<guid>https://www.slowernews.com/s/timeless</guid>
 			<pubDate>Wed, 07 Jul 2021 09:18:30 +0000</pubDate>
-		</item>
-
-		<item>
-			<title>|Drones, Robotics And AI| Human and car tracking autonomous drones are now on the market.</title>
-			<description><![CDATA[<p>New link (with rationale) on <a href="https://www.slowernews.com/#drones-robotics-and-ai">Slower News - Drones, Robotics And AI</a> category.</p>]]></description>
-			<link>https://www.core77.com/posts/108393/Human-and-Car-Tracking-Autonomous-Drones-are-Now-On-the-Market</link>
-			<guid>https://www.core77.com/posts/108393/Human-and-Car-Tracking-Autonomous-Drones-are-Now-On-the-Market</guid>
-			<pubDate>Wed, 30 Jun 2021 09:18:30 +0000</pubDate>
-		</item>
-
-		<item>
-			<title>|Drones, Robotics And AI| Cartels adopt drones armed with explosives.</title>
-			<description><![CDATA[<p>New link (with rationale) on <a href="https://www.slowernews.com/#drones-robotics-and-ai">Slower News - Drones, Robotics And AI</a> category.</p>]]></description>
-			<link>https://mexiconewsdaily.com/news/jalisco-cartel-adopts-new-tactic-drones-armed-with-c-4-explosive/</link>
-			<guid>https://mexiconewsdaily.com/news/jalisco-cartel-adopts-new-tactic-drones-armed-with-c-4-explosive/</guid>
-			<pubDate>Wed, 30 Jun 2021 08:18:30 +0000</pubDate>
 		</item>
 	</channel>
 </rss>

@@ -2,6 +2,12 @@
 
 Why articles were included, replaced or deprecated. Often, it implies reordering the article section to balance/relate viewpoints.
 
+### Autonomous drone navigates independently through the forest at 40 km/h
+
+2021-12-21
+
+- Self explanatory.
+
 ### Algocracy
 
 2021-12-13
