@@ -30,6 +30,6 @@ Ultimately, it's up to you.[^3]
 
 Hand coded - fully functional with JS disabled - and statically hosted at Netlify from a Github repository. Tufte CSS (adapted) with native dark mode. No images, no tracking (GDPR friendly analytics with [Goatcounter](https://slowernews.goatcounter.com/)) and [no bloat](https://gtmetrix.com). Ok, it uses non-standard fonts but web design is mostly typography.
 
-[^1]: culture (European flavour), loose minimalism, loose intelectualism, centrism, agnosticism and I'm male. Architect by training.
+[^1]: Western culture (European flavour), loose minimalism, loose intelectualism, centrism, agnosticism and I'm male. Architect by training.
 [^2]: New links have a different color for six months.
 [^3]: Examples of specific pages that I would like to read but I don't have the time (or the knowledge) to curate: on Javascript, on Front-end, on Jamstack, on Ruby, on Python, on Clojure, on Haskell, on Elm, on Golang, on Architecture, on Space exploration, on Robotics, on European Union, on Poland, on Russia, on Germany, on Music, on Maths, on Arts, on Photography, on Investment, on Maps ...
