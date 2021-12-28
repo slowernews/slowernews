@@ -2,6 +2,12 @@
 
 Why articles were included, replaced or deprecated. Often, it implies reordering the article section to balance/relate viewpoints.
 
+### Bugs are evolving to eat plastic
+
+2021-12-28
+
+- Self explanatory.
+
 ### Autonomous drone navigates through the forest at 40 km/h
 
 2021-12-21
