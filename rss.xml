@@ -6,6 +6,14 @@
 		<atom:link href="https://www.slowernews.com/rss.xml" rel="self" type="application/rss+xml" />
 
 		<item>
+			<title>|Democracy| Vaccine passport on a microchip implant.</title>
+			<description><![CDATA[<p>New link (with rationale) on <a href="https://www.slowernews.com/#democracy">Slower News - Democracy</a> category.</p>]]></description>
+			<link>https://www.france24.com/en/video/20211221-covid-19-in-sweden-a-vaccine-passport-on-a-microchip-implant</link>
+			<guid>https://www.france24.com/en/video/20211221-covid-19-in-sweden-a-vaccine-passport-on-a-microchip-implant</guid>
+			<pubDate>Thu, 6 Jan 2021 08:18:30 +0000</pubDate>
+		</item>
+
+		<item>
 			<title>|Ecology And Climate| Bugs are evolving to eat plastic.</title>
 			<description><![CDATA[<p>New link (with rationale) on <a href="https://www.slowernews.com/#ecology-and-climate">Slower News - Ecology And Climate</a> category.</p>]]></description>
 			<link>https://www.nationalobserver.com/2021/12/17/news/bugs-are-evolving-eat-plastic</link>
@@ -227,22 +235,6 @@
 			<link>https://every.to/cybernaut/the-blurred-lines-of-parasocial-relationships</link>
 			<guid>https://every.to/cybernaut/the-blurred-lines-of-parasocial-relationships</guid>
 			<pubDate>Wed, 21 Jul 2021 09:18:30 +0000</pubDate>
-		</item>
-
-		<item>
-			<title>|INFO| Quixotic call for sponsors.</title>
-			<description><![CDATA[<p>Slower News matured a bit and is now open for sponsors.</p>]]></description>
-			<link>https://www.slowernews.com/sponsor</link>
-			<guid>https://www.slowernews.com/sponsor</guid>
-			<pubDate>Sun, 18 Jul 2021 07:28:30 +0000</pubDate>
-		</item>
-
-		<item>
-			<title>|Blockchain| Bitcoin as a hyperobject.</title>
-			<description><![CDATA[<p>New link (with rationale) on <a href="https://www.slowernews.com/#blockchain">Slower News - Blockchain</a> category.</p>]]></description>
-			<link>https://erikhoel.substack.com/p/bitcoin-as-a-hyperobject</link>
-			<guid>https://erikhoel.substack.com/p/bitcoin-as-a-hyperobject</guid>
-			<pubDate>Thu, 15 Jul 2021 07:18:30 +0000</pubDate>
 		</item>
 	</channel>
 </rss>

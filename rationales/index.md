@@ -2,6 +2,12 @@
 
 Why articles were included, replaced or deprecated. Often, it implies reordering the article section to balance/relate viewpoints.
 
+### Vaccine passport on a microchip implant
+
+2022-01-06
+
+- Self explanatory.
+
 ### Bugs are evolving to eat plastic
 
 2021-12-28
