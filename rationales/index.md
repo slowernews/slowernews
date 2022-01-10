@@ -2,6 +2,12 @@
 
 Why articles were included, replaced or deprecated. Often, it implies reordering the article section to balance/relate viewpoints.
 
+### Battery costs have plunged 89% since 2010
+
+2022-01-13
+
+- Self explanatory.
+
 ### Vaccine passport on a microchip implant
 
 2022-01-06
