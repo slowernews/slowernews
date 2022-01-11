@@ -4,7 +4,7 @@ Why articles were included, replaced or deprecated. Often, it implies reordering
 
 ### Battery costs have plunged 89% since 2010
 
-2022-01-13
+2022-01-11
 
 - Self explanatory.
 
