@@ -6,6 +6,14 @@
 		<atom:link href="https://www.slowernews.com/rss.xml" rel="self" type="application/rss+xml" />
 
 		<item>
+			<title>|Energy| The photonic age.</title>
+			<description><![CDATA[<p>New link (with rationale) on <a href="https://www.slowernews.com/#energy">Slower News - Energy</a> category.</p>]]></description>
+			<link>https://kk.org/thetechnium/the-photonic-age/</link>
+			<guid>https://kk.org/thetechnium/the-photonic-age/</guid>
+			<pubDate>Wed, 19 Jan 2022 08:19:30 +0000</pubDate>
+		</item>
+
+		<item>
 			<title>|Energy| Battery costs have plunged 89% since 2010.</title>
 			<description><![CDATA[<p>New link (with rationale) on <a href="https://www.slowernews.com/#energy">Slower News - Energy</a> category.</p>]]></description>
 			<link>https://fullstackeconomics.com/untitled-2/</link>
@@ -227,14 +235,6 @@
 			<link>https://simonsarris.substack.com/p/the-most-precious-resource-is-agency</link>
 			<guid>https://simonsarris.substack.com/p/the-most-precious-resource-is-agency</guid>
 			<pubDate>Mon, 02 Aug 2021 07:18:30 +0000</pubDate>
-		</item>
-
-		<item>
-			<title>|Tourism| Chernobyl's «stalker» subculture.</title>
-			<description><![CDATA[<p>New link (with rationale) on <a href="https://www.slowernews.com/#tourism">Slower News - Tourism</a> category.</p>]]></description>
-			<link>https://www.calvertjournal.com/features/show/10946/into-the-zone-4-days-inside-chernobyls-secretive-stalker-subculture</link>
-			<guid>https://www.calvertjournal.com/features/show/10946/into-the-zone-4-days-inside-chernobyls-secretive-stalker-subculture</guid>
-			<pubDate>Tue, 27 Jul 2021 12:18:30 +0000</pubDate>
 		</item>
 	</channel>
 </rss>

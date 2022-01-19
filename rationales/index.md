@@ -2,6 +2,12 @@
 
 Why articles were included, replaced or deprecated. Often, it implies reordering the article section to balance/relate viewpoints.
 
+### The photonic age
+
+2022-01-19
+
+- Relevant concept affecting - at least - energy, tech, economy and business.
+
 ### Battery costs have plunged 89% since 2010
 
 2022-01-11
