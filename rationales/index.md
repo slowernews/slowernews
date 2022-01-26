@@ -2,6 +2,12 @@
 
 Why articles were included, replaced or deprecated. Often, it implies reordering the article section to balance/relate viewpoints.
 
+### Bitcoin is the singularity
+
+2022-01-26
+
+- Food for thought.
+
 ### The photonic age
 
 2022-01-19

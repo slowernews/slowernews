@@ -6,6 +6,14 @@
 		<atom:link href="https://www.slowernews.com/rss.xml" rel="self" type="application/rss+xml" />
 
 		<item>
+			<title>|Blockchain| Bitcoin is the singularity.</title>
+			<description><![CDATA[<p>New link (with rationale) on <a href="https://www.slowernews.com/#blockchain">Slower News - Blockchain</a> category.</p>]]></description>
+			<link>https://bitcoinmagazine.com/culture/bitcoin-is-the-singularity</link>
+			<guid>https://bitcoinmagazine.com/culture/bitcoin-is-the-singularity</guid>
+			<pubDate>Wed, 26 Jan 2022 09:18:30 +0000</pubDate>
+		</item>
+
+		<item>
 			<title>|Energy| The photonic age.</title>
 			<description><![CDATA[<p>New link (with rationale) on <a href="https://www.slowernews.com/#energy">Slower News - Energy</a> category.</p>]]></description>
 			<link>https://kk.org/thetechnium/the-photonic-age/</link>
@@ -219,22 +227,6 @@
 			<link>https://www.fastcompany.com/90660570/the-smart-home-is-flailing-as-a-concept-because-it-sucks</link>
 			<guid>https://www.fastcompany.com/90660570/the-smart-home-is-flailing-as-a-concept-because-it-sucks</guid>
 			<pubDate>Thu, 12 Aug 2021 07:18:30 +0000</pubDate>
-		</item>
-
-		<item>
-			<title>|Economy| Shrinkflation.</title>
-			<description><![CDATA[<p>New link (with rationale) on <a href="https://www.slowernews.com/#economy">Slower News - Economy</a> category.</p>]]></description>
-			<link>https://www.core77.com/posts/109385/Shrinkflation-When-Companies-Sneakily-Shrink-Products-But-Keep-the-Price-the-Same</link>
-			<guid>https://www.core77.com/posts/109385/Shrinkflation-When-Companies-Sneakily-Shrink-Products-But-Keep-the-Price-the-Same</guid>
-			<pubDate>Sat, 07 Aug 2021 07:18:30 +0000</pubDate>
-		</item>
-
-		<item>
-			<title>|Parenting| The most precious resource is agency.</title>
-			<description><![CDATA[<p>New link (with rationale) on <a href="https://www.slowernews.com/#parenting">Slower News - Parenting</a> category.</p>]]></description>
-			<link>https://simonsarris.substack.com/p/the-most-precious-resource-is-agency</link>
-			<guid>https://simonsarris.substack.com/p/the-most-precious-resource-is-agency</guid>
-			<pubDate>Mon, 02 Aug 2021 07:18:30 +0000</pubDate>
 		</item>
 	</channel>
 </rss>
