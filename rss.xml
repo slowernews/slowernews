@@ -6,6 +6,14 @@
 		<atom:link href="https://www.slowernews.com/rss.xml" rel="self" type="application/rss+xml" />
 
 		<item>
+			<title>|Beliefs And Ethics| A Tesla on autopilot killed two people. Is the driver guilty?</title>
+			<description><![CDATA[<p>New link (with rationale) on <a href="https://www.slowernews.com/#beliefs-and-ethics">Slower News - Beliefs And Ethics</a> category.</p>]]></description>
+			<link>https://www.latimes.com/california/story/2022-01-19/a-tesla-on-autopilot-killed-two-people-in-gardena-is-the-driver-guilty-of-manslaughter</link>
+			<guid>https://www.latimes.com/california/story/2022-01-19/a-tesla-on-autopilot-killed-two-people-in-gardena-is-the-driver-guilty-of-manslaughter</guid>
+			<pubDate>Tue, 8 Feb 2022 12:18:30 +0000</pubDate>
+		</item>
+
+		<item>
 			<title>|Blockchain| Bitcoin is the singularity.</title>
 			<description><![CDATA[<p>New link (with rationale) on <a href="https://www.slowernews.com/#blockchain">Slower News - Blockchain</a> category.</p>]]></description>
 			<link>https://bitcoinmagazine.com/culture/bitcoin-is-the-singularity</link>
@@ -211,22 +219,6 @@
 			<link>https://www.theatlantic.com/science/archive/2021/08/how-we-live-coronavirus-forever/619783/</link>
 			<guid>https://www.theatlantic.com/science/archive/2021/08/how-we-live-coronavirus-forever/619783/</guid>
 			<pubDate>Thu, 26 Aug 2021 09:18:30 +0000</pubDate>
-		</item>
-
-		<item>
-			<title>|Blockchain| Crypto leaders are obsessed with life extension.</title>
-			<description><![CDATA[<p>New link (with rationale) on <a href="https://www.slowernews.com/#blockchain">Slower News - Blockchain</a> category.</p>]]></description>
-			<link>https://cointelegraph.com/magazine/2021/08/11/crypto-folk-are-obsessed-with-life-extension-heres-why</link>
-			<guid>https://cointelegraph.com/magazine/2021/08/11/crypto-folk-are-obsessed-with-life-extension-heres-why</guid>
-			<pubDate>Fri, 20 Aug 2021 08:18:30 +0000</pubDate>
-		</item>
-
-		<item>
-			<title>|Construction| The smart home still sucks.</title>
-			<description><![CDATA[<p>New link (with rationale) on <a href="https://www.slowernews.com/#construction">Slower News - Construction</a> category.</p>]]></description>
-			<link>https://www.fastcompany.com/90660570/the-smart-home-is-flailing-as-a-concept-because-it-sucks</link>
-			<guid>https://www.fastcompany.com/90660570/the-smart-home-is-flailing-as-a-concept-because-it-sucks</guid>
-			<pubDate>Thu, 12 Aug 2021 07:18:30 +0000</pubDate>
 		</item>
 	</channel>
 </rss>

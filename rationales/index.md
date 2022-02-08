@@ -2,6 +2,12 @@
 
 Why articles were included, replaced or deprecated. Often, it implies reordering the article section to balance/relate viewpoints.
 
+### A Tesla on autopilot killed two people. Is the driver guilty?
+
+2022-02-08
+
+- Self explanatory.
+
 ### Bitcoin is the singularity
 
 2022-01-26
