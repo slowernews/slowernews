@@ -2,6 +2,12 @@
 
 Why articles were included, replaced or deprecated. Often, it implies reordering the article section to balance/relate viewpoints.
 
+### «Woke» math
+
+2022-02-17
+
+- Self explanatory.
+
 ### A Tesla on autopilot killed two people. Is the driver guilty?
 
 2022-02-08
