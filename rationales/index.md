@@ -2,6 +2,12 @@
 
 Why articles were included, replaced or deprecated. Often, it implies reordering the article section to balance/relate viewpoints.
 
+### Eco-anxiety
+
+2022-02-25
+
+- Self explanatory.
+
 ### «Woke» math
 
 2022-02-17
