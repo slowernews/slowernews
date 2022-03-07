@@ -17,7 +17,7 @@
   --bg: #fffff8;
   --fg: #111;
   --recent: red;
-  --greatLink: green; /* brown */
+  --greatLink: green; /* ad color */
   --pageLink: brown;
 }
 
@@ -26,7 +26,7 @@
     --bg: #20201e;
     --fg: #d0cac1;
     --recent: #ff6060;
-    --greatLink: #b39292;
+    --greatLink: #b39292; /* don't change */
     --pageLink: #b39292;
   }
 }
@@ -125,11 +125,11 @@ details>summary::-webkit-details-marker {
   display: none;
 }
 details>summary::before {
-  content: '+';
+  content: '=';
   font-size: 3rem;
 }
 details[open]>summary::before {
-  content: '-';
+  content: '–';
   font-size: 3rem;
 }
 

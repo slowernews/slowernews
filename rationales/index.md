@@ -6,7 +6,7 @@ Why articles were included, replaced or deprecated. Often, it implies reordering
 
 2022-03-07
 
-- Hard to categorize (Ethics, Society, Geopolitics, Democracy) article that worths a read. Not exactly "news" but helps to make sense of the world a little bit better.
+- Hard to categorize (Ethics, Society, Geopolitics, Democracy) article that worth reading. Not exactly "news" but helps to make sense of the world a little bit better.
 
 ### Eco-anxiety
 
