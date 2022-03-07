@@ -2,6 +2,12 @@
 
 Why articles were included, replaced or deprecated. Often, it implies reordering the article section to balance/relate viewpoints.
 
+### Are all world leaders psychopathic?
+
+2022-03-07
+
+- Hard to categorize (Ethics, Society, Geopolitics, Democracy) article that worths a read. Not exactly "news" but helps to make sense of the world a little bit better.
+
 ### Eco-anxiety
 
 2022-02-25
