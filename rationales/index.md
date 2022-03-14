@@ -2,6 +2,12 @@
 
 Why articles were included, replaced or deprecated. Often, it implies reordering the article section to balance/relate viewpoints.
 
+### Web3
+
+2022-03-14
+
+- The quest for blockchain use cases continues.
+
 ### Are all world leaders psychopathic?
 
 2022-03-07
