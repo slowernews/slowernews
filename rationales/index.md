@@ -2,6 +2,12 @@
 
 Why articles were included, replaced or deprecated. Often, it implies reordering the article section to balance/relate viewpoints.
 
+### Software is no longer sold, is adopted
+
+2022-03-19
+
+- Self explanatory.
+
 ### Web3
 
 2022-03-14
