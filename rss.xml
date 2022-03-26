@@ -6,6 +6,14 @@
 		<atom:link href="https://www.slowernews.com/rss.xml" rel="self" type="application/rss+xml" />
 
 		<item>
+			<title>|Inequality| Asian-Americans fight back against school discrimination.</title>
+			<description><![CDATA[<p>New link (with rationale) on <a href="https://www.slowernews.com/#inequality">Slower News - Inequality</a> category.</p>]]></description>
+			<link>https://www.wsj.com/articles/asian-american-fight-school-discrimination-affirmative-action-racial-justice-admissions-standards-testing-charter-schools-achievement-gap-harvard-supreme-court-11646172518</link>
+			<guid>https://www.wsj.com/articles/asian-american-fight-school-discrimination-affirmative-action-racial-justice-admissions-standards-testing-charter-schools-achievement-gap-harvard-supreme-court-11646172518</guid>
+			<pubDate>Sat, 26 Mar 2022 09:18:30 +0000</pubDate>
+		</item>
+
+		<item>
 			<title>|INFO| Slower News Quarterly - Spring Issue.</title>
 			<description><![CDATA[<p>Fifth issue of Slower News Quarterly was published.</p>]]></description>
 			<link>https://slowernews.substack.com/p/2022-spring</link>
@@ -203,14 +211,6 @@
 			<link>https://www.theatlantic.com/international/archive/2021/10/newcastle-united-saudi-arabia/620358/</link>
 			<guid>https://www.theatlantic.com/international/archive/2021/10/newcastle-united-saudi-arabia/620358/</guid>
 			<pubDate>Tue, 12 Oct 2021 09:18:30 +0000</pubDate>
-		</item>
-
-		<item>
-			<title>|Beliefs and ethics| First statue in honor of bitcoin creator.</title>
-			<description><![CDATA[<p>New link (with rationale) on <a href="https://www.slowernews.com/#beliefs-and-ethics">Slower News - Beliefs And Ethics</a> category.</p>]]></description>
-			<link>https://www.nasdaq.com/articles/hungary-debuts-statue-in-honor-of-bitcoin-creator-satoshi-nakamoto-2021-09-16</link>
-			<guid>https://www.nasdaq.com/articles/hungary-debuts-statue-in-honor-of-bitcoin-creator-satoshi-nakamoto-2021-09-16</guid>
-			<pubDate>Wed, 06 Oct 2021 09:18:30 +0000</pubDate>
 		</item>
 	</channel>
 </rss>

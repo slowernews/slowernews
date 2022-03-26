@@ -2,6 +2,12 @@
 
 Why articles were included, replaced or deprecated. Often, it implies reordering the article section to balance/relate viewpoints.
 
+### Asian-Americans fight back against school discrimination
+
+2022-03-26
+
+- Self explanatory.
+
 ### Software is no longer sold, is adopted
 
 2022-03-19
