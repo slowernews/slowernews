@@ -1,4 +1,4 @@
-@font-face {
+﻿@font-face {
   font-family: "et-book";
   src: url("et-book-roman-line-figures.woff");
   font-weight: normal;
@@ -17,7 +17,7 @@
   --bg: #fffff8;
   --fg: #111;
   --recent: red;
-  --greatLink: purple; /* ad color */
+  --greatLink: salmon; /* ad color */
   --pageLink: brown;
 }
 
