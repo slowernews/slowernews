@@ -2,6 +2,12 @@
 
 Why articles were included, replaced or deprecated. Often, it implies reordering the article section to balance/relate viewpoints.
 
+### Supercomputer can now run on light
+
+2022-04-02
+
+- Self explanatory.
+
 ### Asian-Americans fight back against school discrimination
 
 2022-03-26
