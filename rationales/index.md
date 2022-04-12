@@ -2,6 +2,20 @@
 
 Why articles were included, replaced or deprecated. Often, it implies reordering the article section to balance/relate viewpoints.
 
+### The human genome is, at long last, complete
+
+2022-04-12
+
+- Self explanatory.
+
+### Is the Ukraine crisis the West's fault?
+
+2022-04-12
+
+- I strongly believe that armed conflicts between nations are anachronic and stepping into one is - always - the wrong choice. Maybe because of that, understanding why Russia invaded Ukraine is not easy. This article from 2014 is the best explanation I've found.
+
+If you really want to get [into the details](https://www.understandingwar.org)
+
 ### Supercomputer can now run on light
 
 2022-04-02
