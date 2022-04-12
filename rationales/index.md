@@ -12,9 +12,7 @@ Why articles were included, replaced or deprecated. Often, it implies reordering
 
 2022-04-12
 
-- I strongly believe that armed conflicts between nations are anachronic and stepping into one is - always - the wrong choice. Maybe because of that, understanding the reason why Russia invaded Ukraine is not easy. This article from 2014 is the best explanation I've found.
-
-If you are really into war minutiae [look here](https://www.understandingwar.org). You can also wait for the videogames..
+- I strongly believe that armed conflicts between nations are anachronic and stepping into one is - always - the wrong choice. Maybe because of that, understanding the reason why Russia invaded Ukraine is not easy. This article from 2014 is the best explanation I've found. If you are really into war minutiae [look also here](https://www.understandingwar.org) or you can wait for the videogames..
 
 ### Supercomputer can now run on light
 
