@@ -6,6 +6,14 @@
 		<atom:link href="https://www.slowernews.com/rss.xml" rel="self" type="application/rss+xml" />
 
 		<item>
+			<title>|Society| Young female influencer is actually a mature man.</title>
+			<description><![CDATA[<p>New link (with rationale) on <a href="https://www.slowernews.com/#society">Slower News - Society</a> category.</p>]]></description>
+			<link>https://mothership.sg/2021/03/japanese-biker-actually-man/</link>
+			<guid>https://mothership.sg/2021/03/japanese-biker-actually-man/</guid>
+			<pubDate>Wed, 20 Apr 2022 12:18:30 +0000</pubDate>
+		</item>
+
+		<item>
 			<title>|Health| The human genome is, at long last, complete.</title>
 			<description><![CDATA[<p>New link (with rationale) on <a href="https://www.slowernews.com/#health">Slower News - Health</a> category.</p>]]></description>
 			<link>https://www.rockefeller.edu/news/32087-the-human-genome-is-at-long-last-complete/</link>
@@ -195,22 +203,6 @@
 			<link>https://vitalik.ca/general/2021/10/31/cities.html</link>
 			<guid>https://vitalik.ca/general/2021/10/31/cities.html</guid>
 			<pubDate>Mon, 08 Nov 2021 09:08:30 +0000</pubDate>
-		</item>
-
-		<item>
-			<title>|Health| Bioartificial kidney.</title>
-			<description><![CDATA[<p>New link (with rationale) on <a href="https://www.slowernews.com/#health">Slower News - Health</a> category.</p>]]></description>
-			<link>https://pharmacy.ucsf.edu/news/2021/09/kidney-project-successfully-tests-prototype-bioartificial-kidney</link>
-			<guid>https://pharmacy.ucsf.edu/news/2021/09/kidney-project-successfully-tests-prototype-bioartificial-kidney</guid>
-			<pubDate>Mon, 01 Nov 2021 08:18:30 +0000</pubDate>
-		</item>
-
-		<item>
-			<title>|Health| Pig kidney has been successfully transplanted into a human.</title>
-			<description><![CDATA[<p>New link (with rationale) on <a href="https://www.slowernews.com/#health">Slower News - Health</a> category.</p>]]></description>
-			<link>https://www.sciencealert.com/a-pig-kidney-has-been-successfully-transplanted-into-a-human-for-the-first-time</link>
-			<guid>https://www.sciencealert.com/a-pig-kidney-has-been-successfully-transplanted-into-a-human-for-the-first-time</guid>
-			<pubDate>Mon, 01 Nov 2021 07:18:30 +0000</pubDate>
 		</item>
 	</channel>
 </rss>
