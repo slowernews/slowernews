@@ -6,6 +6,22 @@
 		<atom:link href="https://www.slowernews.com/rss.xml" rel="self" type="application/rss+xml" />
 
 		<item>
+			<title>|Demography| Neutral gender marker available on US passports.</title>
+			<description><![CDATA[<p>New link (with rationale) on <a href="https://www.slowernews.com/#demography">Slower News - Demography</a> category.</p>]]></description>
+			<link>https://www.state.gov/x-gender-marker-available-on-u-s-passports-starting-april-11/</link>
+			<guid>https://www.state.gov/x-gender-marker-available-on-u-s-passports-starting-april-11/</guid>
+			<pubDate>Sun, 15 May 2022 11:18:30 +0000</pubDate>
+		</item>
+
+		<item>
+			<title>|Tourism| 90-day minimum stay limit in Airbnbs outside resort areas.</title>
+			<description><![CDATA[<p>New link (with rationale) on <a href="https://www.slowernews.com/#tourism">Slower News - Tourism</a> category.</p>]]></description>
+			<link>https://www.lonelyplanet.com/news/oahu-now-requires-90-day-minimum-for-short-term-rental-stays</link>
+			<guid>https://www.lonelyplanet.com/news/oahu-now-requires-90-day-minimum-for-short-term-rental-stays</guid>
+			<pubDate>Sun, 15 May 2022 10:18:30 +0000</pubDate>
+		</item>
+
+		<item>
 			<title>|Society| Young female influencer is actually a mature man.</title>
 			<description><![CDATA[<p>New link (with rationale) on <a href="https://www.slowernews.com/#society">Slower News - Society</a> category.</p>]]></description>
 			<link>https://mothership.sg/2021/03/japanese-biker-actually-man/</link>
@@ -179,30 +195,6 @@
 			<link>https://tutanota.com/blog/posts/germany-right-to-encryption/</link>
 			<guid>https://tutanota.com/blog/posts/germany-right-to-encryption/</guid>
 			<pubDate>Mon, 06 Dec 2021 09:18:30 +0000</pubDate>
-		</item>
-
-		<item>
-			<title>|Reduce, reuse, recycle| Apple announces self service repair.</title>
-			<description><![CDATA[<p>New link (with rationale) on <a href="https://www.slowernews.com/#rrr">Slower News - Reduce, Reuse, Recycle</a> category.</p>]]></description>
-			<link>https://www.apple.com/newsroom/2021/11/apple-announces-self-service-repair/</link>
-			<guid>https://www.apple.com/newsroom/2021/11/apple-announces-self-service-repair/</guid>
-			<pubDate>Sun, 28 Nov 2021 11:18:30 +0000</pubDate>
-		</item>
-
-		<item>
-			<title>|Drones, robotics and ai| Autonomous boats seem more solvable than autonomous cars.</title>
-			<description><![CDATA[<p>New link (with rationale) on <a href="https://www.slowernews.com/#drones-robotics-and-ai">Slower News - Drones, Robotics And Ai</a> category.</p>]]></description>
-			<link>https://spectrum.ieee.org/mit-robot-boats</link>
-			<guid>https://spectrum.ieee.org/mit-robot-boats</guid>
-			<pubDate>Sun, 14 Nov 2021 08:18:30 +0000</pubDate>
-		</item>
-
-		<item>
-			<title>|Urbanism| Crypto cities.</title>
-			<description><![CDATA[<p>New link (with rationale) on <a href="https://www.slowernews.com/#urbanism">Slower News - Urbanism</a> category.</p>]]></description>
-			<link>https://vitalik.ca/general/2021/10/31/cities.html</link>
-			<guid>https://vitalik.ca/general/2021/10/31/cities.html</guid>
-			<pubDate>Mon, 08 Nov 2021 09:08:30 +0000</pubDate>
 		</item>
 	</channel>
 </rss>

@@ -2,6 +2,18 @@
 
 Why articles were included, replaced or deprecated. Often, it implies reordering the article section to balance/relate viewpoints.
 
+### Neutral gender marker available on US passports
+
+2022-05-15
+
+- Self explanatory.
+
+### 90-day minimum stay limit in Airbnbs outside resort areas
+
+2022-05-15
+
+- Airbnb solved a lot of problems but aggravated others. One interesting solution.
+
 ### Young female influencer is actually a mature man
 
 2022-04-20
