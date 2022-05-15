@@ -30,7 +30,7 @@ Why articles were included, replaced or deprecated. Often, it implies reordering
 
 2022-04-12
 
-- I strongly believe that armed conflicts between nations are anachronic and stepping into one is _always_ the wrong choice for their people. Maybe because of this, understanding it is not easy but it seems to boil down to pride and irresponsibility from leaders. This article from 2014 is still the best explanation I've found.
+- Armed conflicts between nations are anachronistic. I strongly believe that stepping into one is always_the wrong choice for their people. So, I find it difficult to understand why nations escalete into one, it seems to boil down to pride and irresponsibility from their leaders. This article from 2014 is still the best explanation I've found.
 - If you are really into military strategy check these [daily summaries](https://www.understandingwar.org) or just wait for the videogames, I'm sure they'll be soon.
 
 ### Supercomputer can now run on light
