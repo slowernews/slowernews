@@ -2,6 +2,18 @@
 
 Why articles were included, replaced or deprecated. Often, it implies reordering the article section to balance/relate viewpoints.
 
+### Financial deplatforming in Canada
+
+2022-05-24
+
+- Self explanatory.
+
+### Britain plans to send asylum-seekers to Rwanda
+
+2022-05-24
+
+- Self explanatory.
+
 ### Neutral gender marker available on US passports
 
 2022-05-15

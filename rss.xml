@@ -6,6 +6,22 @@
 		<atom:link href="https://www.slowernews.com/rss.xml" rel="self" type="application/rss+xml" />
 
 		<item>
+			<title>|Democracy| Financial deplatforming in Canada.</title>
+			<description><![CDATA[<p>New link (with rationale) on <a href="https://www.slowernews.com/#democracy">Slower News - Democracy</a> category.</p>]]></description>
+			<link>https://bariweiss.substack.com/p/a-social-credit-system-arrives-in?s=r</link>
+			<guid>https://bariweiss.substack.com/p/a-social-credit-system-arrives-in?s=r</guid>
+			<pubDate>Tue, 24 May 2022 10:18:30 +0000</pubDate>
+		</item>
+
+		<item>
+			<title>|Demography| Britain plans to send asylum-seekers to Rwanda.</title>
+			<description><![CDATA[<p>New link (with rationale) on <a href="https://www.slowernews.com/#demography">Slower News - Demography</a> category.</p>]]></description>
+			<link>https://foreignpolicy.com/2022/04/20/britain-rwanda-refugees-asylum-kagame-authoritarianism/</link>
+			<guid>https://foreignpolicy.com/2022/04/20/britain-rwanda-refugees-asylum-kagame-authoritarianism/</guid>
+			<pubDate>Tue, 24 May 2022 09:18:30 +0000</pubDate>
+		</item>
+
+		<item>
 			<title>|Demography| Neutral gender marker available on US passports.</title>
 			<description><![CDATA[<p>New link (with rationale) on <a href="https://www.slowernews.com/#demography">Slower News - Demography</a> category.</p>]]></description>
 			<link>https://www.state.gov/x-gender-marker-available-on-u-s-passports-starting-april-11/</link>
@@ -179,22 +195,6 @@
 			<link>https://en.wikipedia.org/wiki/Government_by_algorithm</link>
 			<guid>https://en.wikipedia.org/wiki/Government_by_algorithm</guid>
 			<pubDate>Mon, 13 Dec 2021 12:18:30 +0000</pubDate>
-		</item>
-
-		<item>
-			<title>|Democracy| Germany's new government plans ban on biometric mass surveillance.</title>
-			<description><![CDATA[<p>New link (with rationale) on <a href="https://www.slowernews.com/#democracy">Slower News - Democracy</a> category.</p>]]></description>
-			<link>https://reclaimyourface.eu/new-german-government-calls-for-european-ban-on-biometric-mass-surveillance/</link>
-			<guid>https://reclaimyourface.eu/new-german-government-calls-for-european-ban-on-biometric-mass-surveillance/</guid>
-			<pubDate>Mon, 06 Dec 2021 09:20:30 +0000</pubDate>
-		</item>
-
-		<item>
-			<title>|Democracy| Germany's new government plans «right to encryption».</title>
-			<description><![CDATA[<p>New link (with rationale) on <a href="https://www.slowernews.com/#democracy">Slower News - Democracy</a> category.</p>]]></description>
-			<link>https://tutanota.com/blog/posts/germany-right-to-encryption/</link>
-			<guid>https://tutanota.com/blog/posts/germany-right-to-encryption/</guid>
-			<pubDate>Mon, 06 Dec 2021 09:18:30 +0000</pubDate>
 		</item>
 	</channel>
 </rss>
