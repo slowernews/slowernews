@@ -2,6 +2,12 @@
 
 Why articles were included, replaced or deprecated. Often, it implies reordering the article section to balance/relate viewpoints.
 
+### Web scraping is legal
+
+2022-05-25
+
+- Self explanatory.
+
 ### Financial deplatforming in Canada
 
 2022-05-24
