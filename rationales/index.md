@@ -2,6 +2,12 @@
 
 Why articles were included, replaced or deprecated. Often, it implies reordering the article section to balance/relate viewpoints.
 
+### Young women are out earning young men in several US cities
+
+2022-05-31
+
+- Self explanatory.
+
 ### Web scraping is legal
 
 2022-05-25
