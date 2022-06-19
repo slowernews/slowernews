@@ -2,6 +2,18 @@
 
 Why articles were included, replaced or deprecated. Often, it implies reordering the article section to balance/relate viewpoints.
 
+### Pandemic walks
+
+2022-06-19
+
+- Self explanatory.
+
+### Scientists find microplastics in blood for first time
+
+2022-06-19
+
+- Self explanatory.
+
 ### Young women are out earning young men in several US cities
 
 2022-05-31

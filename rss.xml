@@ -6,6 +6,22 @@
 		<atom:link href="https://www.slowernews.com/rss.xml" rel="self" type="application/rss+xml" />
 
 		<item>
+			<title>|Tourism| Pandemic walks.</title>
+			<description><![CDATA[<p>New link (with rationale) on <a href="https://www.slowernews.com/#tourism">Slower News - Tourism</a> category.</p>]]></description>
+			<link>https://nedbatchelder.com/blog/202102/pandemic_walks.html</link>
+			<guid>https://nedbatchelder.com/blog/202102/pandemic_walks.html</guid>
+			<pubDate>Sun, 19 Jun 2022 09:18:30 +0000</pubDate>
+		</item>
+
+		<item>
+			<title>|Health| Scientists find microplastics in blood for first time.</title>
+			<description><![CDATA[<p>New link (with rationale) on <a href="https://www.slowernews.com/#health">Slower News - Health</a> category.</p>]]></description>
+			<link>https://phys.org/news/2022-03-scientists-microplastics-blood.html</link>
+			<guid>https://phys.org/news/2022-03-scientists-microplastics-blood.html</guid>
+			<pubDate>Sun, 19 Jun 2022 09:13:30 +0000</pubDate>
+		</item>
+
+		<item>
 			<title>|Inequality| Young women are out earning young men in several US cities.</title>
 			<description><![CDATA[<p>New link (with rationale) on <a href="https://www.slowernews.com/#inequality">Slower News - Inequality</a> category.</p>]]></description>
 			<link>https://www.pewresearch.org/fact-tank/2022/03/28/young-women-are-out-earning-young-men-in-several-u-s-cities/</link>
@@ -179,30 +195,6 @@
 			<link>https://www.france24.com/en/video/20211221-covid-19-in-sweden-a-vaccine-passport-on-a-microchip-implant</link>
 			<guid>https://www.france24.com/en/video/20211221-covid-19-in-sweden-a-vaccine-passport-on-a-microchip-implan</guid>
 			<pubDate>Thu, 06 Jan 2022 08:18:30 +0000</pubDate>
-		</item>
-
-		<item>
-			<title>|Ecology and climate| Bugs are evolving to eat plastic.</title>
-			<description><![CDATA[<p>New link (with rationale) on <a href="https://www.slowernews.com/#ecology-and-climate">Slower News - Ecology And Climate</a> category.</p>]]></description>
-			<link>https://www.nationalobserver.com/2021/12/17/news/bugs-are-evolving-eat-plastic</link>
-			<guid>https://www.nationalobserver.com/2021/12/17/news/bugs-are-evolving-eat-plastic</guid>
-			<pubDate>Tue, 28 Dec 2021 08:18:30 +0000</pubDate>
-		</item>
-
-		<item>
-			<title>|INFO| Slower News Quarterly - Winter Issue.</title>
-			<description><![CDATA[<p>Fourth Issue of Slower News Quarterly was published.</p>]]></description>
-			<link>https://slowernews.substack.com/p/2021-winter</link>
-			<guid>https://slowernews.substack.com/p/2021-winter</guid>
-			<pubDate>Tue, 21 Dec 2021 09:18:30 +0000</pubDate>
-		</item>
-
-		<item>
-			<title>|Drones, robotics and ai| Autonomous drone navigates through the forest at 40 km/h.</title>
-			<description><![CDATA[<p>New link (with rationale) on <a href="https://www.slowernews.com/#drones-robotics-and-ai">Slower News - Drones, Robotics And Ai</a> category.</p>]]></description>
-			<link>https://www.media.uzh.ch/en/Press-Releases/2021/Drone-in-the-wild.html</link>
-			<guid>https://www.media.uzh.ch/en/Press-Releases/2021/Drone-in-the-wild.html</guid>
-			<pubDate>Tue, 21 Dec 2021 08:18:30 +0000</pubDate>
 		</item>
 	</channel>
 </rss>
