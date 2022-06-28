@@ -2,6 +2,12 @@
 
 Why articles were included, replaced or deprecated. Often, it implies reordering the article section to balance/relate viewpoints.
 
+### Farming drives toward «precision agriculture»
+
+2022-06-28
+
+- Self explanatory.
+
 ### Pandemic walks
 
 2022-06-19

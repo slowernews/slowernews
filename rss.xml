@@ -6,6 +6,14 @@
 		<atom:link href="https://www.slowernews.com/rss.xml" rel="self" type="application/rss+xml" />
 
 		<item>
+			<title>|Farming| Farming drives toward «precision agriculture».</title>
+			<description><![CDATA[<p>New link (with rationale) on <a href="https://www.slowernews.com/#farming">Slower News - Farming</a> category.</p>]]></description>
+			<link>https://www.wired.com/story/farming-drives-towards-precision-agriculture-technologies/</link>
+			<guid>https://www.wired.com/story/farming-drives-towards-precision-agriculture-technologies/</guid>
+			<pubDate>Tue, 28 Jun 2022 09:18:30 +0000</pubDate>
+		</item>
+
+		<item>
 			<title>|INFO| Slower News Quarterly - Summer Issue.</title>
 			<description><![CDATA[<p>Sixth issue of Slower News Quarterly was published.</p>]]></description>
 			<link>https://slowernews.substack.com/p/2022-summer</link>
@@ -195,14 +203,6 @@
 			<link>https://fullstackeconomics.com/untitled-2/</link>
 			<guid>https://fullstackeconomics.com/untitled-2</guid>
 			<pubDate>Thu, 11 Jan 2022 08:18:30 +0000</pubDate>
-		</item>
-
-		<item>
-			<title>|Democracy| Vaccine passport on a microchip implant.</title>
-			<description><![CDATA[<p>New link (with rationale) on <a href="https://www.slowernews.com/#democracy">Slower News - Democracy</a> category.</p>]]></description>
-			<link>https://www.france24.com/en/video/20211221-covid-19-in-sweden-a-vaccine-passport-on-a-microchip-implant</link>
-			<guid>https://www.france24.com/en/video/20211221-covid-19-in-sweden-a-vaccine-passport-on-a-microchip-implan</guid>
-			<pubDate>Thu, 06 Jan 2022 08:18:30 +0000</pubDate>
 		</item>
 	</channel>
 </rss>
