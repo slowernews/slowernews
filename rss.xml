@@ -6,6 +6,14 @@
 		<atom:link href="https://www.slowernews.com/rss.xml" rel="self" type="application/rss+xml" />
 
 		<item>
+			<title>|Culture, beliefs and ethics| Mercedes autopilot beats Tesla by taking legal responsibility.</title>
+			<description><![CDATA[<p>New link (with rationale) on <a href="https://www.slowernews.com/#culture-beliefs-and-ethics">Slower News - Culture, beliefs and ethics</a> category.</p>]]></description>
+			<link>https://www.roadandtrack.com/news/a39481699/what-happens-if-mercedes-drivepilot-causes-a-crash/</link>
+			<guid>https://www.roadandtrack.com/news/a39481699/what-happens-if-mercedes-drivepilot-causes-a-crash/</guid>
+			<pubDate>Sun, 24 Jul 2022 09:18:30 +0000</pubDate>
+		</item>
+
+		<item>
 			<title>|Transports| $97k personal flying vehicle is in production.</title>
 			<description><![CDATA[<p>New link (with rationale) on <a href="https://www.slowernews.com/#transports">Slower News - Transports</a> category.</p>]]></description>
 			<link>https://www.core77.com/posts/116021/Jetsons-97000-Personal-Flying-Vehicle-is-in-Production</link>
@@ -187,30 +195,6 @@
 			<link>https://www.latimes.com/california/story/2022-01-19/a-tesla-on-autopilot-killed-two-people-in-gardena-is-the-driver-guilty-of-manslaughter</link>
 			<guid>https://www.latimes.com/california/story/2022-01-19/a-tesla-on-autopilot-killed-two-people-in-gardena-is-the-driver-guilty-of-manslaughter</guid>
 			<pubDate>Tue, 08 Feb 2022 12:18:30 +0000</pubDate>
-		</item>
-
-		<item>
-			<title>|Blockchain| Bitcoin is the singularity.</title>
-			<description><![CDATA[<p>New link (with rationale) on <a href="https://www.slowernews.com/#blockchain">Slower News - Blockchain</a> category.</p>]]></description>
-			<link>https://bitcoinmagazine.com/culture/bitcoin-is-the-singularity</link>
-			<guid>https://bitcoinmagazine.com/culture/bitcoin-is-the-singularity</guid>
-			<pubDate>Wed, 26 Jan 2022 09:18:30 +0000</pubDate>
-		</item>
-
-		<item>
-			<title>|Energy| The photonic age.</title>
-			<description><![CDATA[<p>New link (with rationale) on <a href="https://www.slowernews.com/#energy">Slower News - Energy</a> category.</p>]]></description>
-			<link>https://kk.org/thetechnium/the-photonic-age/</link>
-			<guid>https://kk.org/thetechnium/the-photonic-age/</guid>
-			<pubDate>Wed, 19 Jan 2022 08:19:30 +0000</pubDate>
-		</item>
-
-		<item>
-			<title>|Energy| Battery costs have plunged 89% since 2010.</title>
-			<description><![CDATA[<p>New link (with rationale) on <a href="https://www.slowernews.com/#energy">Slower News - Energy</a> category.</p>]]></description>
-			<link>https://fullstackeconomics.com/untitled-2/</link>
-			<guid>https://fullstackeconomics.com/untitled-2</guid>
-			<pubDate>Thu, 11 Jan 2022 08:18:30 +0000</pubDate>
 		</item>
 	</channel>
 </rss>

@@ -2,6 +2,10 @@
 
 Why articles were included, replaced or deprecated. Often, it implies reordering the article section to balance/relate viewpoints.
 
+### Mercedes autopilot beats Tesla by taking legal responsibility
+
+2022-07-24
+
 ### $97k personal flying vehicle is in production
 
 2022-06-30
