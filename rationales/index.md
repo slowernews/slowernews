@@ -14,55 +14,37 @@ Why articles were included, replaced or deprecated. Often, it implies reordering
 
 2022-06-30
 
-- Self explanatory.
-
 ### Farming drives toward «precision agriculture»
 
 2022-06-28
-
-- Self explanatory.
 
 ### Pandemic walks
 
 2022-06-19
 
-- Self explanatory.
-
 ### Scientists find microplastics in blood for first time
 
 2022-06-19
-
-- Self explanatory.
 
 ### Young women are out earning young men in several US cities
 
 2022-05-31
 
-- Self explanatory.
-
 ### Web scraping is legal
 
 2022-05-25
-
-- Self explanatory.
 
 ### Financial deplatforming in Canada
 
 2022-05-24
 
-- Self explanatory.
-
 ### Britain plans to send asylum-seekers to Rwanda
 
 2022-05-24
 
-- Self explanatory.
-
 ### Neutral gender marker available on US passports
 
 2022-05-15
-
-- Self explanatory.
 
 ### 90-day minimum stay limit in Airbnbs outside resort areas
 
@@ -80,8 +62,6 @@ Why articles were included, replaced or deprecated. Often, it implies reordering
 
 2022-04-12
 
-- Self explanatory.
-
 ### Is the Ukraine crisis the West's fault?
 
 2022-04-12
@@ -93,19 +73,13 @@ Why articles were included, replaced or deprecated. Often, it implies reordering
 
 2022-04-02
 
-- Self explanatory.
-
 ### Asian-Americans fight back against school discrimination
 
 2022-03-26
 
-- Self explanatory.
-
 ### Software is no longer sold, is adopted
 
 2022-03-19
-
-- Self explanatory.
 
 ### Web3
 
@@ -123,19 +97,13 @@ Why articles were included, replaced or deprecated. Often, it implies reordering
 
 2022-02-25
 
-- Self explanatory.
-
 ### «Woke» math
 
 2022-02-17
 
-- Self explanatory.
-
 ### A Tesla on autopilot killed two people. Is the driver guilty?
 
 2022-02-08
-
-- Self explanatory.
 
 ### Bitcoin is the singularity
 
@@ -153,25 +121,17 @@ Why articles were included, replaced or deprecated. Often, it implies reordering
 
 2022-01-11
 
-- Self explanatory.
-
 ### Vaccine passport on a microchip implant
 
 2022-01-06
-
-- Self explanatory.
 
 ### Bugs are evolving to eat plastic
 
 2021-12-28
 
-- Self explanatory.
-
 ### Autonomous drone navigates through the forest at 40 km/h
 
 2021-12-21
-
-- Self explanatory.
 
 ### Algocracy
 
@@ -183,8 +143,6 @@ Why articles were included, replaced or deprecated. Often, it implies reordering
 
 2021-12-06
 
-- Self explanatory.
-
 ### Apple announces self service repair
 
 2021-11-28
@@ -194,8 +152,6 @@ Why articles were included, replaced or deprecated. Often, it implies reordering
 ### Autonomous boats seem more solvable than autonomous cars
 
 2021-11-14
-
-- Self explanatory.
 
 ### Crypto cities
 
@@ -207,19 +163,13 @@ Why articles were included, replaced or deprecated. Often, it implies reordering
 
 2021-11-01
 
-- Self explanatory.
-
 ### Pig kidney has been successfully transplanted into a human
 
 2021-11-01
 
-- Self explanatory.
-
 ### EU message and chat control
 
 2021-10-25
-
-- Self explanatory.
 
 ### Klimaticket
 
@@ -255,13 +205,9 @@ Why articles were included, replaced or deprecated. Often, it implies reordering
 
 2021-09-16
 
-- Self explanatory.
-
 ### Voluntourism: do western do-gooders actually do harm?
 
 2021-09-11
-
-- Self explanatory.
 
 ### Elite over-production
 
@@ -273,25 +219,17 @@ Why articles were included, replaced or deprecated. Often, it implies reordering
 
 2021-08-26
 
-- Self explanatory.
-
 ### Crypto leaders are obsessed with life extension
 
 2021-08-20
-
-- Self explanatory.
 
 ### The smart home still sucks
 
 2021-08-12
 
-- Self explanatory.
-
 ### Shrinkflation
 
 2021-08-07
-
-- Self explanatory.
 
 ### The most precious resource is agency
 
@@ -302,8 +240,6 @@ Why articles were included, replaced or deprecated. Often, it implies reordering
 ### Chernobyl's «stalker» subculture
 
 2021-07-27
-
-- Self explanatory.
 
 ### Parasocial relationships
 
@@ -320,8 +256,6 @@ Why articles were included, replaced or deprecated. Often, it implies reordering
 ### Human-monkey chimera embryos created in lab for first time
 
 2021-07-09
-
-- Self explanatory.
 
 ### Human and car tracking autonomous drones are now on the market
 
@@ -363,25 +297,17 @@ Why articles were included, replaced or deprecated. Often, it implies reordering
 
 2021-05-26
 
-- Self explanatory.
-
 ### China lands a rover on Mars
 
 2021-05-21
-
-- Self explanatory.
 
 ### Tesla makes more money trading bitcoin than selling cars
 
 2021-05-21
 
-- Self explanatory.
-
 ### The promise and perils of insect farming
 
 2021-05-16
-
-- Self explanatory.
 
 ### Facebook will make the money now
 
@@ -399,25 +325,19 @@ Why articles were included, replaced or deprecated. Often, it implies reordering
 
 2021-05-05
 
-- Self explanatory.
-
 ### Novel HIV vaccine in human trial
 
 2021-04-29
-
-- Self explanatory.
 
 ### Effective malaria vaccine discovered
 
 2021-04-29
 
-- Self explanatory.
-
 ### NFTs are the new conceptual art
 
 2021-04-23
 
-- The quest for an usecase for Blockchain continues.
+- The quest for an usecase for blockchain continues.
 
 ### Excel never dies
 
@@ -465,8 +385,6 @@ Why articles were included, replaced or deprecated. Often, it implies reordering
 
 2021-03-03
 
-- Self explanatory.
-
 ### Crowdfunded wandering
 
 2021-02-25
@@ -489,37 +407,25 @@ Why articles were included, replaced or deprecated. Often, it implies reordering
 
 2021-02-18
 
-- Self explanatory.
-
 ### Your phone vs Supercomputers
 
 2021-02-18
-
-- Self explanatory.
 
 ### Parents of daughters are more likely to divorce than those with sons
 
 2021-02-18
 
-- Self explanatory.
-
 ### Personal experiences bridge moral and political divides better than facts
 
 2021-02-12
-
-- Self explanatory.
 
 ### How to lower the price of plant-based meat?
 
 2021-02-12
 
-- Self explanatory.
-
 ### The war on disinformation is a war on dissent
 
 2021-02-12
-
-- Self explanatory.
 
 ### Flattery-driven open-source
 
@@ -543,13 +449,9 @@ Why articles were included, replaced or deprecated. Often, it implies reordering
 
 2021-01-31
 
-- Self-explanatory.
-
 ### Improvements on eyesight treatments
 
 2021-01-31
-
-- Self-explanatory.
 
 ### Machine learning: the great stagnation
 
