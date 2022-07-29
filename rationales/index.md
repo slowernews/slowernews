@@ -2,6 +2,10 @@
 
 Why articles were included, replaced or deprecated. Often, it implies reordering the article section to balance/relate viewpoints.
 
+### Has the world become less colourful?
+
+2022-07-29
+
 ### Mercedes autopilot beats Tesla by taking legal responsibility
 
 2022-07-24
