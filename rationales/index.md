@@ -2,11 +2,17 @@
 
 Why articles were included, replaced or deprecated. Often, it implies reordering the article section to balance/relate viewpoints.
 
+### The men getting vasectomies to save the world
+
+2022-09-01
+
+- No comments.
+
 ### Is cancel culture coming to free trade?
 
 2022-08-31
 
-- Woke capitalism. [Original source: Economist](https://www.economist.com/business/2022/04/02/is-cancel-culture-coming-to-free-trade).
+- Woke capitalism. [Original source](https://www.economist.com/business/2022/04/02/is-cancel-culture-coming-to-free-trade).
 
 ### Has the world become less colourful?
 
