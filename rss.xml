@@ -1,200 +1,192 @@
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-	<channel>
-		<title>Slower News</title>
-		<description>Keep up with relevant trends, micro-trends and edge cases. Don’t miss out nor spend a shit-ton of time distilling trivia.</description>
-		<link>https://www.slowernews.com/</link>
-		<atom:link href="https://www.slowernews.com/rss.xml" rel="self" type="application/rss+xml" />
+	<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+		<channel>
+			<title>Slower News</title>
+			<description>Keep up with relevant trends, micro-trends and edge cases. Don’t miss out nor spend a shit-ton of time distilling trivia.</description>
+			<link>https://www.slowernews.com/</link>
+			<atom:link href="https://www.slowernews.com/rss.xml" rel="self" type="application/rss+xml" />
 
-		<item>
-			<title>|Culture, beliefs and ethics| The men getting vasectomies to save the world.</title>
-			<description><![CDATA[<p>New link (with rationale) on <a href="https://www.slowernews.com/#culture-beliefs-and-ethics">Slower News - Culture, beliefs and ethics</a> category.</p>]]></description>
-			<link>https://www.theguardian.com/lifeandstyle/2022/jan/12/more-people-is-the-last-thing-this-planet-needs-the-men-getting-vasectomies-to-save-the-world</link>
-			<guid>https://www.theguardian.com/lifeandstyle/2022/jan/12/more-people-is-the-last-thing-this-planet-needs-the-men-getting-vasectomies-to-save-the-world</guid>
-			<pubDate>Thu, 1 Sep 2022 09:18:30 +0000</pubDate>
-		</item>
+			<item>
+				<title>|Urbanism| Van life.</title>
+				<description><![CDATA[<p>New link (with rationale) on <a href="https://www.slowernews.com/#urbanism">Slower News - Urbanism</a> category.</p>]]></description>
+				<link>https://sean.cm/i/van-build/</link>
+				<guid>https://sean.cm/i/van-build/</guid>
+				<pubDate>Sat, 17 Sep 2022 08:19:30 +0000</pubDate>
+			</item>
 
-		<item>
-			<title>|Economy| Is cancel culture coming to free trade?</title>
-			<description><![CDATA[<p>New link (with rationale) on <a href="https://www.slowernews.com/#economy">Slower News - Economy</a> category.</p>]]></description>
-			<link>https://legalresearchandanalysis.com/current-affairs/how-cancel-culture-is-impacting-the-free-trade-the-risks-from-russia-extend-to-globalization</link>
-			<guid>https://legalresearchandanalysis.com/current-affairs/how-cancel-culture-is-impacting-the-free-trade-the-risks-from-russia-extend-to-globalization</guid>
-			<pubDate>Wed, 31 Aug 2022 09:18:30 +0000</pubDate>
-		</item>
+			<item>
+				<title>|Society| Proof of X.</title>
+				<description><![CDATA[<p>New link (with rationale) on <a href="https://www.slowernews.com/#society">Slower News - Society</a> category.</p>]]></description>
+				<link>https://julian.digital/2020/08/06/proof-of-x/</link>
+				<guid>https://julian.digital/2020/08/06/proof-of-x/</guid>
+				<pubDate>Sat, 17 Sep 2022 08:18:30 +0000</pubDate>
+			</item>
 
-		<item>
-			<title>|Culture, beliefs and ethics| Has the world become less colourful?</title>
-			<description><![CDATA[<p>New link (with rationale) on <a href="https://www.slowernews.com/#culture-beliefs-and-ethics">Slower News - Culture, beliefs and ethics</a> category.</p>]]></description>
-			<link>https://twitter.com/culturaltutor/status/1551976051860963333</link>
-			<guid>https://twitter.com/culturaltutor/status/1551976051860963333</guid>
-			<pubDate>Fri, 29 Jul 2022 09:19:30 +0000</pubDate>
-		</item>
+			<item>
+				<title>|Culture, beliefs and ethics| The men getting vasectomies to save the world.</title>
+				<description><![CDATA[<p>New link (with rationale) on <a href="https://www.slowernews.com/#culture-beliefs-and-ethics">Slower News - Culture, beliefs and ethics</a> category.</p>]]></description>
+				<link>https://www.theguardian.com/lifeandstyle/2022/jan/12/more-people-is-the-last-thing-this-planet-needs-the-men-getting-vasectomies-to-save-the-world</link>
+				<guid>https://www.theguardian.com/lifeandstyle/2022/jan/12/more-people-is-the-last-thing-this-planet-needs-the-men-getting-vasectomies-to-save-the-world</guid>
+				<pubDate>Thu, 1 Sep 2022 09:18:30 +0000</pubDate>
+			</item>
 
-		<item>
-			<title>|Culture, beliefs and ethics| Mercedes autopilot beats Tesla by taking legal responsibility.</title>
-			<description><![CDATA[<p>New link (with rationale) on <a href="https://www.slowernews.com/#culture-beliefs-and-ethics">Slower News - Culture, beliefs and ethics</a> category.</p>]]></description>
-			<link>https://www.roadandtrack.com/news/a39481699/what-happens-if-mercedes-drivepilot-causes-a-crash/</link>
-			<guid>https://www.roadandtrack.com/news/a39481699/what-happens-if-mercedes-drivepilot-causes-a-crash/</guid>
-			<pubDate>Sun, 24 Jul 2022 09:18:30 +0000</pubDate>
-		</item>
+			<item>
+				<title>|Economy| Is cancel culture coming to free trade?</title>
+				<description><![CDATA[<p>New link (with rationale) on <a href="https://www.slowernews.com/#economy">Slower News - Economy</a> category.</p>]]></description>
+				<link>https://legalresearchandanalysis.com/current-affairs/how-cancel-culture-is-impacting-the-free-trade-the-risks-from-russia-extend-to-globalization</link>
+				<guid>https://legalresearchandanalysis.com/current-affairs/how-cancel-culture-is-impacting-the-free-trade-the-risks-from-russia-extend-to-globalization</guid>
+				<pubDate>Wed, 31 Aug 2022 09:18:30 +0000</pubDate>
+			</item>
 
-		<item>
-			<title>|Transports| $97k personal flying vehicle is in production.</title>
-			<description><![CDATA[<p>New link (with rationale) on <a href="https://www.slowernews.com/#transports">Slower News - Transports</a> category.</p>]]></description>
-			<link>https://www.core77.com/posts/116021/Jetsons-97000-Personal-Flying-Vehicle-is-in-Production</link>
-			<guid>https://www.core77.com/posts/116021/Jetsons-97000-Personal-Flying-Vehicle-is-in-Production</guid>
-			<pubDate>Thu, 30 Jun 2022 09:18:30 +0000</pubDate>
-		</item>
+			<item>
+				<title>|Culture, beliefs and ethics| Has the world become less colourful?</title>
+				<description><![CDATA[<p>New link (with rationale) on <a href="https://www.slowernews.com/#culture-beliefs-and-ethics">Slower News - Culture, beliefs and ethics</a> category.</p>]]></description>
+				<link>https://twitter.com/culturaltutor/status/1551976051860963333</link>
+				<guid>https://twitter.com/culturaltutor/status/1551976051860963333</guid>
+				<pubDate>Fri, 29 Jul 2022 09:19:30 +0000</pubDate>
+			</item>
 
-		<item>
-			<title>|Farming| Farming drives toward «precision agriculture».</title>
-			<description><![CDATA[<p>New link (with rationale) on <a href="https://www.slowernews.com/#farming">Slower News - Farming</a> category.</p>]]></description>
-			<link>https://www.wired.com/story/farming-drives-towards-precision-agriculture-technologies/</link>
-			<guid>https://www.wired.com/story/farming-drives-towards-precision-agriculture-technologies/</guid>
-			<pubDate>Tue, 28 Jun 2022 09:18:30 +0000</pubDate>
-		</item>
+			<item>
+				<title>|Culture, beliefs and ethics| Mercedes autopilot beats Tesla by taking legal responsibility.</title>
+				<description><![CDATA[<p>New link (with rationale) on <a href="https://www.slowernews.com/#culture-beliefs-and-ethics">Slower News - Culture, beliefs and ethics</a> category.</p>]]></description>
+				<link>https://www.roadandtrack.com/news/a39481699/what-happens-if-mercedes-drivepilot-causes-a-crash/</link>
+				<guid>https://www.roadandtrack.com/news/a39481699/what-happens-if-mercedes-drivepilot-causes-a-crash/</guid>
+				<pubDate>Sun, 24 Jul 2022 09:18:30 +0000</pubDate>
+			</item>
 
-		<item>
-			<title>|INFO| Slower News Quarterly - Summer Issue.</title>
-			<description><![CDATA[<p>Sixth issue of Slower News Quarterly was published.</p>]]></description>
-			<link>https://slowernews.substack.com/p/2022-summer</link>
-			<guid>https://slowernews.substack.com/p/2022-summer</guid>
-			<pubDate>Tue, 21 Jun 2022 15:18:20 +0000</pubDate>
-		</item>
+			<item>
+				<title>|Transports| $97k personal flying vehicle is in production.</title>
+				<description><![CDATA[<p>New link (with rationale) on <a href="https://www.slowernews.com/#transports">Slower News - Transports</a> category.</p>]]></description>
+				<link>https://www.core77.com/posts/116021/Jetsons-97000-Personal-Flying-Vehicle-is-in-Production</link>
+				<guid>https://www.core77.com/posts/116021/Jetsons-97000-Personal-Flying-Vehicle-is-in-Production</guid>
+				<pubDate>Thu, 30 Jun 2022 09:18:30 +0000</pubDate>
+			</item>
 
-		<item>
-			<title>|Tourism| Pandemic walks.</title>
-			<description><![CDATA[<p>New link (with rationale) on <a href="https://www.slowernews.com/#tourism">Slower News - Tourism</a> category.</p>]]></description>
-			<link>https://nedbatchelder.com/blog/202102/pandemic_walks.html</link>
-			<guid>https://nedbatchelder.com/blog/202102/pandemic_walks.html</guid>
-			<pubDate>Sun, 19 Jun 2022 09:18:30 +0000</pubDate>
-		</item>
+			<item>
+				<title>|Farming| Farming drives toward «precision agriculture».</title>
+				<description><![CDATA[<p>New link (with rationale) on <a href="https://www.slowernews.com/#farming">Slower News - Farming</a> category.</p>]]></description>
+				<link>https://www.wired.com/story/farming-drives-towards-precision-agriculture-technologies/</link>
+				<guid>https://www.wired.com/story/farming-drives-towards-precision-agriculture-technologies/</guid>
+				<pubDate>Tue, 28 Jun 2022 09:18:30 +0000</pubDate>
+			</item>
 
-		<item>
-			<title>|Health| Scientists find microplastics in blood for first time.</title>
-			<description><![CDATA[<p>New link (with rationale) on <a href="https://www.slowernews.com/#health">Slower News - Health</a> category.</p>]]></description>
-			<link>https://phys.org/news/2022-03-scientists-microplastics-blood.html</link>
-			<guid>https://phys.org/news/2022-03-scientists-microplastics-blood.html</guid>
-			<pubDate>Sun, 19 Jun 2022 09:13:30 +0000</pubDate>
-		</item>
+			<item>
+				<title>|INFO| Slower News Quarterly - Summer Issue.</title>
+				<description><![CDATA[<p>Sixth issue of Slower News Quarterly was published.</p>]]></description>
+				<link>https://slowernews.substack.com/p/2022-summer</link>
+				<guid>https://slowernews.substack.com/p/2022-summer</guid>
+				<pubDate>Tue, 21 Jun 2022 15:18:20 +0000</pubDate>
+			</item>
 
-		<item>
-			<title>|Inequality| Young women are out earning young men in several US cities.</title>
-			<description><![CDATA[<p>New link (with rationale) on <a href="https://www.slowernews.com/#inequality">Slower News - Inequality</a> category.</p>]]></description>
-			<link>https://www.pewresearch.org/fact-tank/2022/03/28/young-women-are-out-earning-young-men-in-several-u-s-cities/</link>
-			<guid>https://www.pewresearch.org/fact-tank/2022/03/28/young-women-are-out-earning-young-men-in-several-u-s-cities/</guid>
-			<pubDate>Tue, 31 May 2022 09:18:30 +0000</pubDate>
-		</item>
+			<item>
+				<title>|Tourism| Pandemic walks.</title>
+				<description><![CDATA[<p>New link (with rationale) on <a href="https://www.slowernews.com/#tourism">Slower News - Tourism</a> category.</p>]]></description>
+				<link>https://nedbatchelder.com/blog/202102/pandemic_walks.html</link>
+				<guid>https://nedbatchelder.com/blog/202102/pandemic_walks.html</guid>
+				<pubDate>Sun, 19 Jun 2022 09:18:30 +0000</pubDate>
+			</item>
 
-		<item>
-			<title>|Culture, beliefs and ethics| Web scraping is legal.</title>
-			<description><![CDATA[<p>New link (with rationale) on <a href="https://www.slowernews.com/#culture-beliefs-and-ethics">Slower News - Culture, beliefs and ethics</a> category.</p>]]></description>
-			<link>https://techcrunch.com/2022/04/18/web-scraping-legal-court/</link>
-			<guid>https://techcrunch.com/2022/04/18/web-scraping-legal-court/</guid>
-			<pubDate>Wed, 25 May 2022 13:18:30 +0000</pubDate>
-		</item>
+			<item>
+				<title>|Health| Scientists find microplastics in blood for first time.</title>
+				<description><![CDATA[<p>New link (with rationale) on <a href="https://www.slowernews.com/#health">Slower News - Health</a> category.</p>]]></description>
+				<link>https://phys.org/news/2022-03-scientists-microplastics-blood.html</link>
+				<guid>https://phys.org/news/2022-03-scientists-microplastics-blood.html</guid>
+				<pubDate>Sun, 19 Jun 2022 09:13:30 +0000</pubDate>
+			</item>
 
-		<item>
-			<title>|Democracy| Financial deplatforming in Canada.</title>
-			<description><![CDATA[<p>New link (with rationale) on <a href="https://www.slowernews.com/#democracy">Slower News - Democracy</a> category.</p>]]></description>
-			<link>https://bariweiss.substack.com/p/a-social-credit-system-arrives-in?s=r</link>
-			<guid>https://bariweiss.substack.com/p/a-social-credit-system-arrives-in?s=r</guid>
-			<pubDate>Tue, 24 May 2022 10:18:30 +0000</pubDate>
-		</item>
+			<item>
+				<title>|Inequality| Young women are out earning young men in several US cities.</title>
+				<description><![CDATA[<p>New link (with rationale) on <a href="https://www.slowernews.com/#inequality">Slower News - Inequality</a> category.</p>]]></description>
+				<link>https://www.pewresearch.org/fact-tank/2022/03/28/young-women-are-out-earning-young-men-in-several-u-s-cities/</link>
+				<guid>https://www.pewresearch.org/fact-tank/2022/03/28/young-women-are-out-earning-young-men-in-several-u-s-cities/</guid>
+				<pubDate>Tue, 31 May 2022 09:18:30 +0000</pubDate>
+			</item>
 
-		<item>
-			<title>|Demography| Britain plans to send asylum-seekers to Rwanda.</title>
-			<description><![CDATA[<p>New link (with rationale) on <a href="https://www.slowernews.com/#demography">Slower News - Demography</a> category.</p>]]></description>
-			<link>https://foreignpolicy.com/2022/04/20/britain-rwanda-refugees-asylum-kagame-authoritarianism/</link>
-			<guid>https://foreignpolicy.com/2022/04/20/britain-rwanda-refugees-asylum-kagame-authoritarianism/</guid>
-			<pubDate>Tue, 24 May 2022 09:18:30 +0000</pubDate>
-		</item>
+			<item>
+				<title>|Culture, beliefs and ethics| Web scraping is legal.</title>
+				<description><![CDATA[<p>New link (with rationale) on <a href="https://www.slowernews.com/#culture-beliefs-and-ethics">Slower News - Culture, beliefs and ethics</a> category.</p>]]></description>
+				<link>https://techcrunch.com/2022/04/18/web-scraping-legal-court/</link>
+				<guid>https://techcrunch.com/2022/04/18/web-scraping-legal-court/</guid>
+				<pubDate>Wed, 25 May 2022 13:18:30 +0000</pubDate>
+			</item>
 
-		<item>
-			<title>|Demography| Neutral gender marker available on US passports.</title>
-			<description><![CDATA[<p>New link (with rationale) on <a href="https://www.slowernews.com/#demography">Slower News - Demography</a> category.</p>]]></description>
-			<link>https://www.state.gov/x-gender-marker-available-on-u-s-passports-starting-april-11/</link>
-			<guid>https://www.state.gov/x-gender-marker-available-on-u-s-passports-starting-april-11/</guid>
-			<pubDate>Sun, 15 May 2022 11:18:30 +0000</pubDate>
-		</item>
+			<item>
+				<title>|Democracy| Financial deplatforming in Canada.</title>
+				<description><![CDATA[<p>New link (with rationale) on <a href="https://www.slowernews.com/#democracy">Slower News - Democracy</a> category.</p>]]></description>
+				<link>https://bariweiss.substack.com/p/a-social-credit-system-arrives-in?s=r</link>
+				<guid>https://bariweiss.substack.com/p/a-social-credit-system-arrives-in?s=r</guid>
+				<pubDate>Tue, 24 May 2022 10:18:30 +0000</pubDate>
+			</item>
 
-		<item>
-			<title>|Tourism| 90-day minimum stay limit in Airbnbs outside resort areas.</title>
-			<description><![CDATA[<p>New link (with rationale) on <a href="https://www.slowernews.com/#tourism">Slower News - Tourism</a> category.</p>]]></description>
-			<link>https://www.lonelyplanet.com/news/oahu-now-requires-90-day-minimum-for-short-term-rental-stays</link>
-			<guid>https://www.lonelyplanet.com/news/oahu-now-requires-90-day-minimum-for-short-term-rental-stays</guid>
-			<pubDate>Sun, 15 May 2022 10:18:30 +0000</pubDate>
-		</item>
+			<item>
+				<title>|Demography| Britain plans to send asylum-seekers to Rwanda.</title>
+				<description><![CDATA[<p>New link (with rationale) on <a href="https://www.slowernews.com/#demography">Slower News - Demography</a> category.</p>]]></description>
+				<link>https://foreignpolicy.com/2022/04/20/britain-rwanda-refugees-asylum-kagame-authoritarianism/</link>
+				<guid>https://foreignpolicy.com/2022/04/20/britain-rwanda-refugees-asylum-kagame-authoritarianism/</guid>
+				<pubDate>Tue, 24 May 2022 09:18:30 +0000</pubDate>
+			</item>
 
-		<item>
-			<title>|Society| Young female influencer is actually a mature man.</title>
-			<description><![CDATA[<p>New link (with rationale) on <a href="https://www.slowernews.com/#society">Slower News - Society</a> category.</p>]]></description>
-			<link>https://mothership.sg/2021/03/japanese-biker-actually-man/</link>
-			<guid>https://mothership.sg/2021/03/japanese-biker-actually-man/</guid>
-			<pubDate>Wed, 20 Apr 2022 12:18:30 +0000</pubDate>
-		</item>
+			<item>
+				<title>|Demography| Neutral gender marker available on US passports.</title>
+				<description><![CDATA[<p>New link (with rationale) on <a href="https://www.slowernews.com/#demography">Slower News - Demography</a> category.</p>]]></description>
+				<link>https://www.state.gov/x-gender-marker-available-on-u-s-passports-starting-april-11/</link>
+				<guid>https://www.state.gov/x-gender-marker-available-on-u-s-passports-starting-april-11/</guid>
+				<pubDate>Sun, 15 May 2022 11:18:30 +0000</pubDate>
+			</item>
 
-		<item>
-			<title>|Health| The human genome is, at long last, complete.</title>
-			<description><![CDATA[<p>New link (with rationale) on <a href="https://www.slowernews.com/#health">Slower News - Health</a> category.</p>]]></description>
-			<link>https://www.rockefeller.edu/news/32087-the-human-genome-is-at-long-last-complete/</link>
-			<guid>https://www.rockefeller.edu/news/32087-the-human-genome-is-at-long-last-complete/</guid>
-			<pubDate>Tue, 12 Apr 2022 12:19:30 +0000</pubDate>
-		</item>
+			<item>
+				<title>|Tourism| 90-day minimum stay limit in Airbnbs outside resort areas.</title>
+				<description><![CDATA[<p>New link (with rationale) on <a href="https://www.slowernews.com/#tourism">Slower News - Tourism</a> category.</p>]]></description>
+				<link>https://www.lonelyplanet.com/news/oahu-now-requires-90-day-minimum-for-short-term-rental-stays</link>
+				<guid>https://www.lonelyplanet.com/news/oahu-now-requires-90-day-minimum-for-short-term-rental-stays</guid>
+				<pubDate>Sun, 15 May 2022 10:18:30 +0000</pubDate>
+			</item>
 
-		<item>
-			<title>|Geopolitics| Is the Ukraine crisis the West’s fault?</title>
-			<description><![CDATA[<p>New link (with rationale) on <a href="https://www.slowernews.com/#geopolitics">Slower News - Geopolitics</a> category.</p>]]></description>
-			<link>https://web.archive.org/web/20150618081109/https://www.foreignaffairs.com/articles/russia-fsu/2014-08-18/why-ukraine-crisis-west-s-fault</link>
-			<guid>https://web.archive.org/web/20150618081109/https://www.foreignaffairs.com/articles/russia-fsu/2014-08-18/why-ukraine-crisis-west-s-fault</guid>
-			<pubDate>Tue, 12 Apr 2022 12:18:30 +0000</pubDate>
-		</item>
+			<item>
+				<title>|Society| Young female influencer is actually a mature man.</title>
+				<description><![CDATA[<p>New link (with rationale) on <a href="https://www.slowernews.com/#society">Slower News - Society</a> category.</p>]]></description>
+				<link>https://mothership.sg/2021/03/japanese-biker-actually-man/</link>
+				<guid>https://mothership.sg/2021/03/japanese-biker-actually-man/</guid>
+				<pubDate>Wed, 20 Apr 2022 12:18:30 +0000</pubDate>
+			</item>
 
-		<item>
-			<title>|Energy| Supercomputer can now run on light instead of electric current.</title>
-			<description><![CDATA[<p>New link (with rationale) on <a href="https://www.slowernews.com/#energy">Slower News - Energy</a> category.</p>]]></description>
-			<link>https://www.techradar.com/news/this-powerful-supercomputer-can-now-run-on-light-instead-of-electric-current</link>
-			<guid>https://www.techradar.com/news/this-powerful-supercomputer-can-now-run-on-light-instead-of-electric-current</guid>
-			<pubDate>Sat, 02 Apr 2022 09:18:30 +0000</pubDate>
-		</item>
+			<item>
+				<title>|Health| The human genome is, at long last, complete.</title>
+				<description><![CDATA[<p>New link (with rationale) on <a href="https://www.slowernews.com/#health">Slower News - Health</a> category.</p>]]></description>
+				<link>https://www.rockefeller.edu/news/32087-the-human-genome-is-at-long-last-complete/</link>
+				<guid>https://www.rockefeller.edu/news/32087-the-human-genome-is-at-long-last-complete/</guid>
+				<pubDate>Tue, 12 Apr 2022 12:19:30 +0000</pubDate>
+			</item>
 
-		<item>
-			<title>|Inequality| Asian-Americans fight back against school discrimination.</title>
-			<description><![CDATA[<p>New link (with rationale) on <a href="https://www.slowernews.com/#inequality">Slower News - Inequality</a> category.</p>]]></description>
-			<link>https://www.wsj.com/articles/asian-american-fight-school-discrimination-affirmative-action-racial-justice-admissions-standards-testing-charter-schools-achievement-gap-harvard-supreme-court-11646172518</link>
-			<guid>https://www.wsj.com/articles/asian-american-fight-school-discrimination-affirmative-action-racial-justice-admissions-standards-testing-charter-schools-achievement-gap-harvard-supreme-court-11646172518</guid>
-			<pubDate>Sat, 26 Mar 2022 09:18:30 +0000</pubDate>
-		</item>
+			<item>
+				<title>|Geopolitics| Is the Ukraine crisis the West’s fault?</title>
+				<description><![CDATA[<p>New link (with rationale) on <a href="https://www.slowernews.com/#geopolitics">Slower News - Geopolitics</a> category.</p>]]></description>
+				<link>https://web.archive.org/web/20150618081109/https://www.foreignaffairs.com/articles/russia-fsu/2014-08-18/why-ukraine-crisis-west-s-fault</link>
+				<guid>https://web.archive.org/web/20150618081109/https://www.foreignaffairs.com/articles/russia-fsu/2014-08-18/why-ukraine-crisis-west-s-fault</guid>
+				<pubDate>Tue, 12 Apr 2022 12:18:30 +0000</pubDate>
+			</item>
 
-		<item>
-			<title>|INFO| Slower News Quarterly - Spring Issue.</title>
-			<description><![CDATA[<p>Fifth issue of Slower News Quarterly was published.</p>]]></description>
-			<link>https://slowernews.substack.com/p/2022-spring</link>
-			<guid>https://slowernews.substack.com/p/2022-springi</guid>
-			<pubDate>Mon, 21 Mar 2022 09:18:20 +0000</pubDate>
-		</item>
+			<item>
+				<title>|Energy| Supercomputer can now run on light instead of electric current.</title>
+				<description><![CDATA[<p>New link (with rationale) on <a href="https://www.slowernews.com/#energy">Slower News - Energy</a> category.</p>]]></description>
+				<link>https://www.techradar.com/news/this-powerful-supercomputer-can-now-run-on-light-instead-of-electric-current</link>
+				<guid>https://www.techradar.com/news/this-powerful-supercomputer-can-now-run-on-light-instead-of-electric-current</guid>
+				<pubDate>Sat, 02 Apr 2022 09:18:30 +0000</pubDate>
+			</item>
 
-		<item>
-			<title>|Business| Software is no longer sold, is adopted.</title>
-			<description><![CDATA[<p>New link (with rationale) on <a href="https://www.slowernews.com/#business">Slower News - Business</a> category.</p>]]></description>
-			<link>https://orbit.love/blog/software-is-no-longer-sold-its-adopted</link>
-			<guid>https://orbit.love/blog/software-is-no-longer-sold-its-adopted</guid>
-			<pubDate>Sat, 19 Mar 2022 12:18:30 +0000</pubDate>
-		</item>
+			<item>
+				<title>|Inequality| Asian-Americans fight back against school discrimination.</title>
+				<description><![CDATA[<p>New link (with rationale) on <a href="https://www.slowernews.com/#inequality">Slower News - Inequality</a> category.</p>]]></description>
+				<link>https://www.wsj.com/articles/asian-american-fight-school-discrimination-affirmative-action-racial-justice-admissions-standards-testing-charter-schools-achievement-gap-harvard-supreme-court-11646172518</link>
+				<guid>https://www.wsj.com/articles/asian-american-fight-school-discrimination-affirmative-action-racial-justice-admissions-standards-testing-charter-schools-achievement-gap-harvard-supreme-court-11646172518</guid>
+				<pubDate>Sat, 26 Mar 2022 09:18:30 +0000</pubDate>
+			</item>
 
-		<item>
-			<title>|Blockchain| Web3.</title>
-			<description><![CDATA[<p>New link (with rationale) on <a href="https://www.slowernews.com/#blockchain">Slower News - Blockchain</a> category.</p>]]></description>
-			<link>https://www.psl.com/feed-posts/web3-engineer-take</link>
-			<guid>https://www.psl.com/feed-posts/web3-engineer-take</guid>
-			<pubDate>Mon, 14 Mar 2022 08:18:30 +0000</pubDate>
-		</item>
-
-		<item>
-			<title>|Culture, beliefs and ethics| Are all world leaders psychopathic?</title>
-			<description><![CDATA[<p>New link (with rationale) on <a href="https://www.slowernews.com/#culture-beliefs-and-ethics">Slower News - Culture, beliefs and ethics</a> category.</p>]]></description>
-			<link>https://www.theinspirationallifestyle.com/are-all-world-leaders-psychopathic/</link>
-			<guid>https://www.theinspirationallifestyle.com/are-all-world-leaders-psychopathic/</guid>
-			<pubDate>Mon, 07 Mar 2022 09:18:30 +0000</pubDate>
-		</item>
-	</channel>
-</rss>
+			<item>
+				<title>|INFO| Slower News Quarterly - Spring Issue.</title>
+				<description><![CDATA[<p>Fifth issue of Slower News Quarterly was published.</p>]]></description>
+				<link>https://slowernews.substack.com/p/2022-spring</link>
+				<guid>https://slowernews.substack.com/p/2022-springi</guid>
+				<pubDate>Mon, 21 Mar 2022 09:18:20 +0000</pubDate>
+			</item>
+		</channel>
+	</rss>

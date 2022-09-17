@@ -2,6 +2,14 @@
 
 Why articles were included, replaced or deprecated. Often, it implies reordering the article section to balance/relate viewpoints.
 
+### Van life
+
+2022-09-17
+
+### Proof of X
+
+2022-09-17
+
 ### The men getting vasectomies to save the world
 
 2022-09-01
