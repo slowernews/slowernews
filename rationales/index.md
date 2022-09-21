@@ -88,7 +88,7 @@ Another point of view that I always have considered but not posted because I cou
 
 2022-04-12
 
-### Is the Ukraine crisis the West's fault?
+### Is the Ukraine crisis the West's fault? Maybe yes
 
 2022-04-12
 
