@@ -2,6 +2,12 @@
 
 Why articles were included, replaced or deprecated. Often, it implies reordering the article section to balance/relate viewpoints.
 
+### Is the Ukraine crisis the West’s fault? Maybe not
+
+2022-09-21
+
+Another point of view that I always have considered but not posted because I couldn't find a good article.
+
 ### Van life
 
 2022-09-17
@@ -20,7 +26,7 @@ Why articles were included, replaced or deprecated. Often, it implies reordering
 
 2022-08-31
 
-- Woke capitalism. [Original source](https://www.economist.com/business/2022/04/02/is-cancel-culture-coming-to-free-trade).
+- Woke capitalism is here. [Original source](https://www.economist.com/business/2022/04/02/is-cancel-culture-coming-to-free-trade).
 
 ### Has the world become less colourful?
 
