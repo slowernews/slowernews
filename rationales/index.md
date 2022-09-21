@@ -92,7 +92,7 @@ Another point of view that I always have considered but not posted because I cou
 
 2022-04-12
 
-- This article from 2014 is still the best explanation I've found. Armed conflicts between nations are anachronistic and I strongly believe that stepping into one is always the wrong choice for for their people. It boils down to pride and irresponsibility from their leader. 
+- This article from 2014 is still the best explanation I've found. Armed conflicts between nations are anachronistic and I strongly believe that stepping into one is always the wrong choice for for *their people*. It boils down to pride and irresponsibility from *their leaders*. 
 - If you are really into military strategy check these [daily summaries](https://www.understandingwar.org) or just wait for the videogames, I'm sure they'll be soon.
 
 ### Supercomputer can now run on light
