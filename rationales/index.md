@@ -6,7 +6,7 @@ Why articles were included, replaced or deprecated. Often, it implies reordering
 
 2022-09-21
 
-Another point of view that I always have considered but not posted because I couldn't find a good article.
+Another point of view that I always have considered but couldn't find a relevant source to post.
 
 ### Van life
 
