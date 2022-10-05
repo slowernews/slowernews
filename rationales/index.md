@@ -2,6 +2,10 @@
 
 Why articles were included, replaced or deprecated. Often, it implies reordering the article section to balance/relate viewpoints.
 
+### The «attention economy» corrupts science
+
+2022-10-05
+
 ### Chernobyl black frogs reveal evolution in action
 
 2022-10-05
