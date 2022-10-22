@@ -2,6 +2,10 @@
 
 Why articles were included, replaced or deprecated. Often, it implies reordering the article section to balance/relate viewpoints.
 
+### Personal submarine
+
+2022-10-22
+
 ### The «attention economy» corrupts science
 
 2022-10-05
