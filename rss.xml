@@ -6,6 +6,14 @@
 			<atom:link href="https://www.slowernews.com/rss.xml" rel="self" type="application/rss+xml" />
 
 			<item>
+				<title>|Health| Lab-grown blood is near.</title>
+				<description><![CDATA[<p>New link (with rationale) on <a href="https://www.slowernews.com/#health">Slower News - Health</a> category.</p>]]></description>
+				<link>https://www.bbc.com/news/health-63513330</link>
+				<guid>https://www.bbc.com/news/health-63513330</guid>
+				<pubDate>Sun, 20 Nov 2022 09:15:30 +0000</pubDate>
+			</item>
+
+			<item>
 				<title>|Transports| Personal submarine.</title>
 				<description><![CDATA[<p>New link (with rationale) on <a href="https://www.slowernews.com/#transports">Slower News - Transports</a> category.</p>]]></description>
 				<link>https://www.core77.com/posts/116851/The-Nemo-Personal-Submarine-is-Beautiful</link>
@@ -131,38 +139,6 @@
 				<link>https://phys.org/news/2022-03-scientists-microplastics-blood.html</link>
 				<guid>https://phys.org/news/2022-03-scientists-microplastics-blood.html</guid>
 				<pubDate>Sun, 19 Jun 2022 09:13:30 +0000</pubDate>
-			</item>
-
-			<item>
-				<title>|Inequality| Young women are out earning young men in several US cities.</title>
-				<description><![CDATA[<p>New link (with rationale) on <a href="https://www.slowernews.com/#inequality">Slower News - Inequality</a> category.</p>]]></description>
-				<link>https://www.pewresearch.org/fact-tank/2022/03/28/young-women-are-out-earning-young-men-in-several-u-s-cities/</link>
-				<guid>https://www.pewresearch.org/fact-tank/2022/03/28/young-women-are-out-earning-young-men-in-several-u-s-cities/</guid>
-				<pubDate>Tue, 31 May 2022 09:18:30 +0000</pubDate>
-			</item>
-
-			<item>
-				<title>|Culture, beliefs and ethics| Web scraping is legal.</title>
-				<description><![CDATA[<p>New link (with rationale) on <a href="https://www.slowernews.com/#culture-beliefs-and-ethics">Slower News - Culture, beliefs and ethics</a> category.</p>]]></description>
-				<link>https://techcrunch.com/2022/04/18/web-scraping-legal-court/</link>
-				<guid>https://techcrunch.com/2022/04/18/web-scraping-legal-court/</guid>
-				<pubDate>Wed, 25 May 2022 13:18:30 +0000</pubDate>
-			</item>
-
-			<item>
-				<title>|Democracy| Financial deplatforming in Canada.</title>
-				<description><![CDATA[<p>New link (with rationale) on <a href="https://www.slowernews.com/#democracy">Slower News - Democracy</a> category.</p>]]></description>
-				<link>https://bariweiss.substack.com/p/a-social-credit-system-arrives-in?s=r</link>
-				<guid>https://bariweiss.substack.com/p/a-social-credit-system-arrives-in?s=r</guid>
-				<pubDate>Tue, 24 May 2022 10:18:30 +0000</pubDate>
-			</item>
-
-			<item>
-				<title>|Demography| Britain plans to send asylum-seekers to Rwanda.</title>
-				<description><![CDATA[<p>New link (with rationale) on <a href="https://www.slowernews.com/#demography">Slower News - Demography</a> category.</p>]]></description>
-				<link>https://foreignpolicy.com/2022/04/20/britain-rwanda-refugees-asylum-kagame-authoritarianism/</link>
-				<guid>https://foreignpolicy.com/2022/04/20/britain-rwanda-refugees-asylum-kagame-authoritarianism/</guid>
-				<pubDate>Tue, 24 May 2022 09:18:30 +0000</pubDate>
 			</item>
 		</channel>
 	</rss>

@@ -2,6 +2,10 @@
 
 Why articles were included, replaced or deprecated. Often, it implies reordering the article section to balance/relate viewpoints.
 
+### Lab-grown blood is near
+
+2022-10-22
+
 ### Personal submarine
 
 2022-10-22
