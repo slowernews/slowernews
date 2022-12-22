@@ -6,6 +6,30 @@
 			<atom:link href="https://www.slowernews.com/rss.xml" rel="self" type="application/rss+xml" />
 
 			<item>
+				<title>|Energy| Major breakthrough in nuclear fusion.</title>
+				<description><![CDATA[<p>New link (with rationale) on <a href="https://www.slowernews.com/#energy">Slower News - Energy</a> category.</p>]]></description>
+				<link>https://theconversation.com/why-fusion-ignition-is-being-hailed-as-a-major-breakthrough-in-fusion-a-nuclear-physicist-explains-196475</link>
+				<guid>https://theconversation.com/why-fusion-ignition-is-being-hailed-as-a-major-breakthrough-in-fusion-a-nuclear-physicist-explains-196475</guid>
+				<pubDate>Thu, 22 Dec 2022 10:18:30 +0000</pubDate>
+			</item>
+
+			<item>
+				<title>|Tools| Transistors are civilization’s invisible infrastructure.</title>
+				<description><![CDATA[<p>New link (with rationale) on <a href="https://www.slowernews.com/#tools">Slower News - Tools</a> category.</p>]]></description>
+				<link>https://spectrum.ieee.org/point-contact-transistor</link>
+				<guid>https://spectrum.ieee.org/point-contact-transistor</guid>
+				<pubDate>Thu, 22 Dec 2022 09:18:30 +0000</pubDate>
+			</item>
+
+			<item>
+				<title>|Ecology and climate| Wild mammals are making a comeback in Europe.</title>
+				<description><![CDATA[<p>New link (with rationale) on <a href="https://www.slowernews.com/#ecology-and-climate">Slower News - Ecology And Climate</a> category.</p>]]></description>
+				<link>https://ourworldindata.org/europe-mammal-comeback</link>
+				<guid>https://ourworldindata.org/europe-mammal-comeback</guid>
+				<pubDate>Thu, 22 Dec 2022 08:18:30 +0000</pubDate>
+			</item>
+
+			<item>
 				<title>|Health| Lab-grown blood is near.</title>
 				<description><![CDATA[<p>New link (with rationale) on <a href="https://www.slowernews.com/#health">Slower News - Health</a> category.</p>]]></description>
 				<link>https://www.bbc.com/news/health-63513330</link>
@@ -107,22 +131,6 @@
 				<link>https://www.core77.com/posts/116021/Jetsons-97000-Personal-Flying-Vehicle-is-in-Production</link>
 				<guid>https://www.core77.com/posts/116021/Jetsons-97000-Personal-Flying-Vehicle-is-in-Production</guid>
 				<pubDate>Thu, 30 Jun 2022 09:18:30 +0000</pubDate>
-			</item>
-
-			<item>
-				<title>|Farming| Farming drives toward «precision agriculture».</title>
-				<description><![CDATA[<p>New link (with rationale) on <a href="https://www.slowernews.com/#farming">Slower News - Farming</a> category.</p>]]></description>
-				<link>https://www.wired.com/story/farming-drives-towards-precision-agriculture-technologies/</link>
-				<guid>https://www.wired.com/story/farming-drives-towards-precision-agriculture-technologies/</guid>
-				<pubDate>Tue, 28 Jun 2022 09:18:30 +0000</pubDate>
-			</item>
-
-			<item>
-				<title>|INFO| Slower News Quarterly - Summer Issue.</title>
-				<description><![CDATA[<p>Sixth issue of Slower News Quarterly was published.</p>]]></description>
-				<link>https://slowernews.substack.com/p/2022-summer</link>
-				<guid>https://slowernews.substack.com/p/2022-summer</guid>
-				<pubDate>Tue, 21 Jun 2022 15:18:20 +0000</pubDate>
 			</item>
 		</channel>
 	</rss>

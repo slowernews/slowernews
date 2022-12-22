@@ -2,6 +2,18 @@
 
 Why articles were included, replaced or deprecated. Often, it implies reordering the article section to balance/relate viewpoints.
 
+### Major breakthrough in nuclear fusion
+
+2022-12-22
+
+### Transistors are civilization’s invisible infrastructure
+
+2022-12-22
+
+### Wild mammals are making a comeback in Europe
+
+2022-12-22
+
 ### Lab-grown blood is near
 
 2022-10-22
