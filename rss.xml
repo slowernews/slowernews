@@ -6,6 +6,14 @@
 			<atom:link href="https://www.slowernews.com/rss.xml" rel="self" type="application/rss+xml" />
 
 			<item>
+				<title>|INFO| Slower News Quarterly - Winter Issue.</title>
+				<description><![CDATA[<p>Seventh issue of Slower News Quarterly was published.</p>]]></description>
+				<link>https://slowernews.substack.com/p/2022-winter</link>
+				<guid>https://slowernews.substack.com/p/2022-winter</guid>
+				<pubDate>Fri, 23 Dec 2022 08:18:20 +0000</pubDate>
+			</item>
+
+			<item>
 				<title>|Energy| Major breakthrough in nuclear fusion.</title>
 				<description><![CDATA[<p>New link (with rationale) on <a href="https://www.slowernews.com/#energy">Slower News - Energy</a> category.</p>]]></description>
 				<link>https://theconversation.com/why-fusion-ignition-is-being-hailed-as-a-major-breakthrough-in-fusion-a-nuclear-physicist-explains-196475</link>
