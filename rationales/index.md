@@ -2,6 +2,14 @@
 
 Why articles were included, replaced or deprecated. Often, it implies reordering the article section to balance/relate viewpoints.
 
+### Who knew the first AI battles would be fought by artists?
+
+2023-01-03
+
+### Hydrogel interfaces for merging humans and machines
+
+2023-01-03
+
 ### Major breakthrough in nuclear fusion
 
 2022-12-22
