@@ -2,6 +2,10 @@
 
 Why articles were included, replaced or deprecated. Often, it implies reordering the article section to balance/relate viewpoints.
 
+### What is a Super App?
+
+2023-01-15
+
 ### Who knew the first AI battles would be fought by artists?
 
 2023-01-03
