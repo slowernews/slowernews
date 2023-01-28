@@ -2,6 +2,10 @@
 
 Why articles were included, replaced or deprecated. Often, it implies reordering the article section to balance/relate viewpoints.
 
+### What is ChatGPT?
+
+2023-01-28
+
 ### What is a Super App?
 
 2023-01-15
