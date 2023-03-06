@@ -2,6 +2,12 @@
 
 Why articles were included, replaced or deprecated. Often, it implies reordering the article section to balance/relate viewpoints.
 
+### How does chatGPT work?
+
+2023-03-06
+
+2023 is already marked by a major breakthrough on AI. Nothing will be the same again.
+
 ### What is ChatGPT?
 
 2023-01-28

@@ -6,6 +6,14 @@
 			<atom:link href="https://www.slowernews.com/rss.xml" rel="self" type="application/rss+xml" />
 
 			<item>
+				<title>|Drones, robotics and AI| How does chatGPT work?</title>
+				<description><![CDATA[<p>New link (with rationale) on <a href="https://www.slowernews.com/#drones-robotics-and-ai">Slower News - Drones, robotics and AI</a> category.</p>]]></description>
+				<link>https://writings.stephenwolfram.com/2023/02/what-is-chatgpt-doing-and-why-does-it-work/</link>
+				<guid>https://writings.stephenwolfram.com/2023/02/what-is-chatgpt-doing-and-why-does-it-work/</guid>
+				<pubDate>Mon, 6 Mar 2023 11:18:30 +0000</pubDate>
+			</item>
+
+			<item>
 				<title>|Drones, robotics and AI| What is ChatGPT?</title>
 				<description><![CDATA[<p>New link (with rationale) on <a href="https://www.slowernews.com/#drones-robotics-and-ai">Slower News - Drones, robotics and AI</a> category.</p>]]></description>
 				<link>https://www.theguardian.com/technology/2022/dec/05/what-is-ai-chatbot-phenomenon-chatgpt-and-could-it-replace-humans</link>
@@ -115,38 +123,6 @@
 				<link>https://www.youtube.com/watch?v=2a7CDKqWcZ0</link>
 				<guid>https://www.youtube.com/watch?v=2a7CDKqWcZ0</guid>
 				<pubDate>Wed, 21 Sep 2022 09:18:30 +0000</pubDate>
-			</item>
-
-			<item>
-				<title>|Urbanism and construction| Van life.</title>
-				<description><![CDATA[<p>New link (with rationale) on <a href="https://www.slowernews.com/#urbanism-and-construction">Slower News - Urbanism and construction</a> category.</p>]]></description>
-				<link>https://sean.cm/i/van-build/</link>
-				<guid>https://sean.cm/i/van-build/</guid>
-				<pubDate>Sat, 17 Sep 2022 08:19:30 +0000</pubDate>
-			</item>
-
-			<item>
-				<title>|Society| Proof of X.</title>
-				<description><![CDATA[<p>New link (with rationale) on <a href="https://www.slowernews.com/#society">Slower News - Society</a> category.</p>]]></description>
-				<link>https://julian.digital/2020/08/06/proof-of-x/</link>
-				<guid>https://julian.digital/2020/08/06/proof-of-x/</guid>
-				<pubDate>Sat, 17 Sep 2022 08:18:30 +0000</pubDate>
-			</item>
-
-			<item>
-				<title>|Culture, beliefs and ethics| The men getting vasectomies to save the world.</title>
-				<description><![CDATA[<p>New link (with rationale) on <a href="https://www.slowernews.com/#culture-beliefs-and-ethics">Slower News - Culture, beliefs and ethics</a> category.</p>]]></description>
-				<link>https://www.theguardian.com/lifeandstyle/2022/jan/12/more-people-is-the-last-thing-this-planet-needs-the-men-getting-vasectomies-to-save-the-world</link>
-				<guid>https://www.theguardian.com/lifeandstyle/2022/jan/12/more-people-is-the-last-thing-this-planet-needs-the-men-getting-vasectomies-to-save-the-world</guid>
-				<pubDate>Thu, 1 Sep 2022 09:18:30 +0000</pubDate>
-			</item>
-
-			<item>
-				<title>|Economy| Is cancel culture coming to free trade?</title>
-				<description><![CDATA[<p>New link (with rationale) on <a href="https://www.slowernews.com/#economy">Slower News - Economy</a> category.</p>]]></description>
-				<link>https://legalresearchandanalysis.com/current-affairs/how-cancel-culture-is-impacting-the-free-trade-the-risks-from-russia-extend-to-globalization</link>
-				<guid>https://legalresearchandanalysis.com/current-affairs/how-cancel-culture-is-impacting-the-free-trade-the-risks-from-russia-extend-to-globalization</guid>
-				<pubDate>Wed, 31 Aug 2022 09:18:30 +0000</pubDate>
 			</item>
 		</channel>
 	</rss>
