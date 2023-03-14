@@ -6,6 +6,14 @@
 			<atom:link href="https://www.slowernews.com/rss.xml" rel="self" type="application/rss+xml" />
 
 			<item>
+				<title>|Society and parenting| Are elites displacing experts?</title>
+				<description><![CDATA[<p>New link (with rationale) on <a href="https://www.slowernews.com/#society-and-parenting">Slower News - Society And Parenting</a> category.</p>]]></description>
+				<link>https://www.overcomingbias.com/p/are-elites-displacing-expertshtml</link>
+				<guid>https://www.overcomingbias.com/p/are-elites-displacing-expertshtml</guid>
+				<pubDate>Tue, 14 Mar 2023 09:18:30 +0000</pubDate>
+			</item>
+
+			<item>
 				<title>|Drones, robotics and AI| How does chatGPT work?</title>
 				<description><![CDATA[<p>New link (with rationale) on <a href="https://www.slowernews.com/#drones-robotics-and-ai">Slower News - Drones, robotics and AI</a> category.</p>]]></description>
 				<link>https://writings.stephenwolfram.com/2023/02/what-is-chatgpt-doing-and-why-does-it-work/</link>
@@ -107,22 +115,6 @@
 				<link>https://phys.org/news/2022-09-chernobyl-black-frogs-reveal-evolution.html</link>
 				<guid>https://phys.org/news/2022-09-chernobyl-black-frogs-reveal-evolution.html</guid>
 				<pubDate>Wed, 5 Oct 2022 09:18:30 +0000</pubDate>
-			</item>
-
-			<item>
-				<title>|INFO| Slower News Quarterly - Autumn Issue.</title>
-				<description><![CDATA[<p>Sixth issue of Slower News Quarterly was published.</p>]]></description>
-				<link>https://slowernews.substack.com/p/2022-autumn</link>
-				<guid>https://slowernews.substack.com/p/2022-autumn</guid>
-				<pubDate>Fri, 23 Sep 2022 08:18:20 +0000</pubDate>
-			</item>
-
-			<item>
-				<title>|Geopolitics| Is the Ukraine crisis the West’s fault? Maybe not.</title>
-				<description><![CDATA[<p>New link (with rationale) on <a href="https://www.slowernews.com/#geopolitics">Slower News - Geopolitics</a> category.</p>]]></description>
-				<link>https://www.youtube.com/watch?v=2a7CDKqWcZ0</link>
-				<guid>https://www.youtube.com/watch?v=2a7CDKqWcZ0</guid>
-				<pubDate>Wed, 21 Sep 2022 09:18:30 +0000</pubDate>
 			</item>
 		</channel>
 	</rss>

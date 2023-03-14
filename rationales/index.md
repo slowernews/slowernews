@@ -2,6 +2,10 @@
 
 Why articles were included, replaced or deprecated. Often, it implies reordering the article section to balance/relate viewpoints.
 
+### Are elites displacing experts?
+
+2023-03-14
+
 ### How does chatGPT work?
 
 2023-03-06
