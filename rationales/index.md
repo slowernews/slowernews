@@ -2,6 +2,12 @@
 
 Why articles were included, replaced or deprecated. Often, it implies reordering the article section to balance/relate viewpoints.
 
+### Population growth in Africa
+
+2023-04-03
+
+Population growth without economy growth. A source of tension.
+
 ### Are elites displacing experts?
 
 2023-03-14
