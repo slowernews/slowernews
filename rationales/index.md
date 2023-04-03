@@ -6,7 +6,7 @@ Why articles were included, replaced or deprecated. Often, it implies reordering
 
 2023-04-03
 
-Population growth without economy growth. A source of tension.
+Population growth without economic growth. A source of tension.
 
 ### Are elites displacing experts?
 
