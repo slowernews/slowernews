@@ -19,7 +19,7 @@
   --recent: red;
   --greatLink: salmon; /* ad color */
   --pageLink: brown;
-  /*--trend: blue;*/
+  --trend: #00008B;
 }
 
 @media (prefers-color-scheme: dark) {
@@ -29,7 +29,7 @@
     --recent: #ff6060;
     --greatLink: #b39292; /* don't change */
     --pageLink: #b39292;
-    /*--trend: blue;*/
+    --trend: #ADD8E6;
   }
 }
 
@@ -86,9 +86,9 @@ h3 {
   line-height: 1;
 }
 h4 {
-  /*color: var(--trend);*/
-  font-style: italic;
-  font-size: 1.42rem;
+  color: var(--trend);
+  /* font-style: italic; */
+  font-size: 1.4rem;
   font-weight: 400;
   margin-bottom: 0.2rem;
   margin-top: 0.2rem;
