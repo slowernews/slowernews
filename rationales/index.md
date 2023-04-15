@@ -2,6 +2,10 @@
 
 Why articles were included, replaced or deprecated. Often, it implies reordering the article section to balance/relate viewpoints.
 
+### Pro-natalism
+
+2023-04-15
+
 ### Population growth in Africa
 
 2023-04-03

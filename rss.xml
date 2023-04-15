@@ -6,6 +6,14 @@
 			<atom:link href="https://www.slowernews.com/rss.xml" rel="self" type="application/rss+xml" />
 
 			<item>
+				<title>|Demography| Pro-natalism.</title>
+				<description><![CDATA[<p>New link (with rationale) on <a href="https://www.slowernews.com/#demography">Slower News - Demography</a> category.</p>]]></description>
+				<link>https://archive.ph/4rjIt</link>
+				<guid>https://archive.ph/4rjIt</guid>
+				<pubDate>Sat, 15 Apr 2023 09:18:30 +0000</pubDate>
+			</item>
+
+			<item>
 				<title>|INFO| Slower News had a major tidy-up!</title>
 				<description><![CDATA[<p>Slower News had a major tidy-up!</p>]]></description>
 				<link>https://slowernews.com/</link>
@@ -14,11 +22,11 @@
 			</item>
 
 			<item>
-				<title>|Demography| Population growth in Africa.</title>
+				<title>|Demography| Pro-natalism.</title>
 				<description><![CDATA[<p>New link (with rationale) on <a href="https://www.slowernews.com/#demography">Slower News - Demography</a> category.</p>]]></description>
-				<link>https://www.theguardian.com/world/2022/oct/27/megalopolis-how-coastal-west-africa-will-shape-the-coming-century</link>
-				<guid>https://www.theguardian.com/world/2022/oct/27/megalopolis-how-coastal-west-africa-will-shape-the-coming-century</guid>
-				<pubDate>Mon, 3 Apr 2023 09:18:30 +0000</pubDate>
+				<link>https://archive.ph/4rjIt</link>
+				<guid>https://archive.ph/4rjIt</guid>
+				<pubDate>Sat, 15 Apr 2023 09:18:30 +0000</pubDate>
 			</item>
 
 			<item>
@@ -115,14 +123,6 @@
 				<link>https://www.bbc.com/news/health-63513330</link>
 				<guid>https://www.bbc.com/news/health-63513330</guid>
 				<pubDate>Mon, 21 Nov 2022 07:15:30 +0000</pubDate>
-			</item>
-
-			<item>
-				<title>|Transports| Personal submarine.</title>
-				<description><![CDATA[<p>New link (with rationale) on <a href="https://www.slowernews.com/#transports">Slower News - Transports</a> category.</p>]]></description>
-				<link>https://www.core77.com/posts/116851/The-Nemo-Personal-Submarine-is-Beautiful</link>
-				<guid>https://www.core77.com/posts/116851/The-Nemo-Personal-Submarine-is-Beautiful</guid>
-				<pubDate>Sat, 22 Oct 2022 09:18:30 +0000</pubDate>
 			</item>
 		</channel>
 	</rss>
