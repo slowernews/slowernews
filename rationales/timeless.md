@@ -2,6 +2,10 @@
 
 When (and sometimes why) items were included, replaced or deprecated.
 
+### Carlos Paredes - Guitarra Portuguesa
+
+2023-04-24
+
 ### The Sons of Pitches - Get lucky (cover)
 
 2023-04-17
