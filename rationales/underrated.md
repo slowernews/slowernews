@@ -2,6 +2,14 @@
 
 When (and sometimes why) items were included, replaced or deprecated.
 
+### Kore-eda Hirokazu - Our little sister
+
+2023-05-02
+
+### Cate Shortland - Lore
+
+2023-05-02
+
 ### Old songs but it's lofi
 
 2023-04-25
