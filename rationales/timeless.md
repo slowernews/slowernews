@@ -2,6 +2,10 @@
 
 When (and sometimes why) items were included, replaced or deprecated.
 
+### Julio Pereira - Cavaquinho
+
+2023-05-04
+
 ### Scala & Kolacny Brothers - Creep
 
 2023-04-25
