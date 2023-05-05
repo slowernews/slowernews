@@ -6,7 +6,7 @@ When (and sometimes why) items were included, replaced or deprecated.
 
 2023-05-04
 
-### Scala & Kolacny Brothers - Creep
+### Scala & Kolacny Brothers - Creep (cover)
 
 2023-04-25
 
@@ -14,10 +14,10 @@ When (and sometimes why) items were included, replaced or deprecated.
 
 2023-04-24
 
-### The Sons of Pitches - Get lucky (cover)
+### Sons of Pitches - Get lucky (cover)
 
 2023-04-17
 
-### Fun - We are young (ft. Janelle Monáe)
+### Fun - We are young
 
 2023-04-17
