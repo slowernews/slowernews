@@ -12,7 +12,25 @@
 </head>
 
 <body>
-	<p class="greatLink"><a href="mailto:archimodelsblog@gmail.com">Dear sponsor, this text link could show us your great product!</a></p>
+	<p class="greatLink"><a id="topLink" href=""></a></p>
+	<script>
+		var linkURL = [
+		  "https://slowernews.com/sponsor"
+		, "https://slowernews.com/sponsor"
+		, "https://slowernews.substack.com/welcome"
+		];
+
+		var linkText = [
+		  "How about sponsoring next quarter?"
+		, "The only AD in this page. It could show us your dear product!"
+		, "There is a quarterly newsletter also!"
+		];
+
+		var idRandom = Math.floor(Math.random()*linkURL.length);
+		var topLink = document.getElementById("topLink");
+		topLink.innerText = linkText[idRandom];
+		topLink.setAttribute("href", linkURL[idRandom])
+	</script>
 
 <nav class="fullwidth">
 	<details open>
