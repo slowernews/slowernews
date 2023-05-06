@@ -2,6 +2,10 @@
 
 When (and sometimes why) items were included, replaced or deprecated.
 
+### Julio Pereira - Cádoi
+
+2023-05-06
+
 ### Julio Pereira - Cavaquinho
 
 2023-05-04
