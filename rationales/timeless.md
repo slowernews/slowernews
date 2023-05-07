@@ -2,6 +2,10 @@
 
 When (and sometimes why) items were included, replaced or deprecated.
 
+### Jim Morrison - The Doors
+
+2023-05-07
+
 ### Julio Pereira - Cádoi
 
 2023-05-06
