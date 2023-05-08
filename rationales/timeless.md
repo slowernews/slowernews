@@ -2,6 +2,46 @@
 
 When (and sometimes why) items were included, replaced or deprecated.
 
+### Niccolò Machiavelli - The prince
+
+2023-05-08
+
+### Luís de Camões - The Lusiads
+
+2023-05-08
+
+### Miguel de Cervantes - Don Quixote
+
+2023-05-08
+
+### Jorge Luis Borges - Ficciones
+
+2023-05-08
+
+### Antoine de Saint-Exupéry - The little prince
+
+2023-05-08
+
+### Italo Calvino - The Baron in the trees
+
+2023-05-08
+
+### Ryszard Kapuściński - The Emperor
+
+2023-05-08
+
+### David Allen - Get things done
+
+2023-05-08
+
+### Paulo Coelho - The Alchemist
+
+2023-05-08
+
+### David Deutsch - The beginning of infinity
+
+2023-05-08
+
 ### Jim Morrison - The Doors
 
 2023-05-07
