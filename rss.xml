@@ -6,6 +6,14 @@
 			<atom:link href="https://www.slowernews.com/rss.xml" rel="self" type="application/rss+xml" />
 
 			<item>
+				<title>|Geopolitics| De-dollarization.</title>
+				<description><![CDATA[<p>New link (with rationale) on <a href="https://www.slowernews.com/#geopolitics">Slower News - Geopolitics</a> category.</p>]]></description>
+				<link>https://responsiblestatecraft.org/2023/05/03/de-dollarization-not-a-matter-of-if-but-when/</link>
+				<guid>https://responsiblestatecraft.org/2023/05/03/de-dollarization-not-a-matter-of-if-but-when/</guid>
+				<pubDate>Mon, 08 May 2023 09:18:30 +0000</pubDate>
+			</item>
+
+			<item>
 				<title>|INFO| Timeless page had a major tidy-up!</title>
 				<description><![CDATA[<p>Slower News Timeless page had a major tidy-up!</p>]]></description>
 				<link>https://slowernews.com/s/timeless</link>
@@ -131,14 +139,6 @@
 				<link>https://ourworldindata.org/europe-mammal-comeback</link>
 				<guid>https://ourworldindata.org/europe-mammal-comeback</guid>
 				<pubDate>Thu, 22 Dec 2022 08:18:30 +0000</pubDate>
-			</item>
-
-			<item>
-				<title>|Health| Lab-grown blood is near.</title>
-				<description><![CDATA[<p>New link (with rationale) on <a href="https://www.slowernews.com/#health">Slower News - Health</a> category.</p>]]></description>
-				<link>https://www.bbc.com/news/health-63513330</link>
-				<guid>https://www.bbc.com/news/health-63513330</guid>
-				<pubDate>Mon, 21 Nov 2022 07:15:30 +0000</pubDate>
 			</item>
 		</channel>
 	</rss>
