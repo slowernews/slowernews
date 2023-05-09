@@ -2,6 +2,14 @@
 
 When (and sometimes why) items were included, replaced or deprecated.
 
+### Anna Muylaert - The second mother
+
+2020-05-09
+
+### Rão Kyao - Bombaião
+
+2020-05-09
+
 ### Kore-eda Hirokazu - Our little sister
 
 2023-05-02

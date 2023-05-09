@@ -2,6 +2,18 @@
 
 When (and sometimes why) items were included, replaced or deprecated.
 
+### William Shakespeare - Romeo and Juliet
+
+2023-05-09
+
+### Gabriel Gárcia Márquez - No one writes to the colonel
+
+2023-05-09
+
+### Italo Calvino - Invisible cities
+
+2023-05-09
+
 ### Niccolò Machiavelli - The prince
 
 2023-05-08
