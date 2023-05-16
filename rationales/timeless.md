@@ -2,6 +2,10 @@
 
 When (and sometimes why) items were included, replaced or deprecated.
 
+### Julio Pereira - Sete instrumentos
+
+2023-05-16
+
 ### William Shakespeare - Romeo and Juliet
 
 2023-05-09

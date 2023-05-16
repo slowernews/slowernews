@@ -2,13 +2,17 @@
 
 When (and sometimes why) items were included, replaced or deprecated.
 
+### Barbatuques - Samba lelê
+
+2023-05-16
+
 ### Anna Muylaert - The second mother
 
-2020-05-09
+2023-05-09
 
 ### Rão Kyao - Bombaião
 
-2020-05-09
+2023-05-09
 
 ### Kore-eda Hirokazu - Our little sister
 
