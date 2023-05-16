@@ -2,7 +2,7 @@
 
 When (and sometimes why) items were included, replaced or deprecated.
 
-### Julio Pereira - Sete instrumentos
+### Julio Pereira - Os sete instrumentos
 
 2023-05-16
 
