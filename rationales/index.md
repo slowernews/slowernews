@@ -2,6 +2,10 @@
 
 When (and sometimes why) articles were included, replaced or deprecated. Often, it implies reordering the article section to balance/relate viewpoints.
 
+### Housing should be affordable except when I sell my house
+
+2023-05-22
+
 ### De-dollarization
 
 2023-05-08
