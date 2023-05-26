@@ -2,6 +2,10 @@
 
 When (and sometimes why) items were included, replaced or deprecated.
 
+### LP - Lost on you
+
+2023-05-26
+
 ### Julio Pereira - Os sete instrumentos
 
 2023-05-16

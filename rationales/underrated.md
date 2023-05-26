@@ -2,11 +2,27 @@
 
 When (and sometimes why) items were included, replaced or deprecated.
 
-### Timur Ptakhin - Mixtape
+### Kenny Hoopla - Nikita Mikhalkov - Burnt by the sun
+
+2023-05-26
+
+### Kenny Hoopla - How will i rest in peace if i am buried by a highway?
+
+2023-05-26
+
+### Don Cherry ‎– Om Shanti Om
 
 2023-05-23
 
-Compilation from a guy in Kazan...
+### Fousheé - Deep end
+
+2023-05-23
+
+### Timur Ptakhin - Mixtape
+
+2023-05-22
+
+Great compilation from a guy in Kazan...
 
 ### Barbatuques - Samba lelê
 
