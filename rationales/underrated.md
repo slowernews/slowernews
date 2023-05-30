@@ -2,7 +2,11 @@
 
 When (and sometimes why) items were included, replaced or deprecated.
 
-### Kenny Hoopla - Nikita Mikhalkov - Burnt by the sun
+### Samba from the 70s and 80s
+
+2023-05-30
+
+### Nikita Mikhalkov - Burnt by the sun
 
 2023-05-26
 
