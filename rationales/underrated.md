@@ -2,6 +2,10 @@
 
 When (and sometimes why) items were included, replaced or deprecated.
 
+### João Nuno Pinto - Mosquito
+
+2023-06-01
+
 ### Sergei Dvortsevoy - Ayka
 
 2023-05-31
