@@ -2,6 +2,18 @@
 
 When (and sometimes why) items were included, replaced or deprecated.
 
+### Martin Brest - Scent of a woman
+
+2023-06-05
+
+### James Cameron - Terminator 2: Judgment day
+
+2023-06-05
+
+### David Lynch - Mulholland Drive
+
+2023-06-05
+
 ### LP - Lost on you
 
 2023-05-26
@@ -17,6 +29,8 @@ When (and sometimes why) items were included, replaced or deprecated.
 ### Gabriel Gárcia Márquez - No one writes to the colonel
 
 2023-05-09
+
+[Just realized](https://www.thefreelibrary.com/THE+ETERNAL+WAIT+FOR+%22GODOT%22+IN+GARCIA+MARQUEZ%27S+%22NO+ONE+WRITES+TO...-a0626843754) that "No one writes to the colonel" (1961) may be a remake of "Waiting for Godot" (1952) by Samuel Beckett.
 
 ### Italo Calvino - Invisible cities
 
