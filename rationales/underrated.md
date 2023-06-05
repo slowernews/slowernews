@@ -2,6 +2,10 @@
 
 When (and sometimes why) items were included, replaced or deprecated.
 
+### Derek Cianfrance - Blue Valentine
+
+2023-06-05
+
 ### Tom Ford - Nocturnal animals
 
 2023-06-05
