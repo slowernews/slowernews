@@ -6,6 +6,14 @@
 			<atom:link href="https://www.slowernews.com/rss.xml" rel="self" type="application/rss+xml" />
 
 			<item>
+				<title>|Work, Education and Skills| What is prompt engineering?</title>
+				<description><![CDATA[<p>New link (with rationale) on <a href="https://www.slowernews.com/#work-education-and-skills">Slower News - Work, Education and Skills</a> category.</p>]]></description>
+				<link>https://blog.enterprisedna.co/what-is-prompt-engineering/</link>
+				<guid>https://blog.enterprisedna.co/what-is-prompt-engineering/</guid>
+				<pubDate>Tue, 06 Jun 2023 09:18:30 +0000</pubDate>
+			</item>
+
+			<item>
 				<title>|Energy| Heat pumps are becoming the technology of the future.</title>
 				<description><![CDATA[<p>New link (with rationale) on <a href="https://www.slowernews.com/#energy">Slower News - Energy</a> category.</p>]]></description>
 				<link>https://knowablemagazine.org/article/technology/2023/heat-pumps-becoming-technology-future</link>
@@ -139,22 +147,6 @@
 				<link>https://theconversation.com/why-fusion-ignition-is-being-hailed-as-a-major-breakthrough-in-fusion-a-nuclear-physicist-explains-196475</link>
 				<guid>https://theconversation.com/why-fusion-ignition-is-being-hailed-as-a-major-breakthrough-in-fusion-a-nuclear-physicist-explains-196475</guid>
 				<pubDate>Thu, 22 Dec 2022 10:18:30 +0000</pubDate>
-			</item>
-
-			<item>
-				<title>|Tools| Transistors are civilization’s invisible infrastructure.</title>
-				<description><![CDATA[<p>New link (with rationale) on <a href="https://www.slowernews.com/#tools">Slower News - Tools</a> category.</p>]]></description>
-				<link>https://spectrum.ieee.org/point-contact-transistor</link>
-				<guid>https://spectrum.ieee.org/point-contact-transistor</guid>
-				<pubDate>Thu, 22 Dec 2022 09:18:30 +0000</pubDate>
-			</item>
-
-			<item>
-				<title>|Ecology and climate| Wild mammals are making a comeback in Europe.</title>
-				<description><![CDATA[<p>New link (with rationale) on <a href="https://www.slowernews.com/#ecology-and-climate">Slower News - Ecology And Climate</a> category.</p>]]></description>
-				<link>https://ourworldindata.org/europe-mammal-comeback</link>
-				<guid>https://ourworldindata.org/europe-mammal-comeback</guid>
-				<pubDate>Thu, 22 Dec 2022 08:18:30 +0000</pubDate>
 			</item>
 		</channel>
 	</rss>

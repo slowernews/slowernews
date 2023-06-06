@@ -2,6 +2,10 @@
 
 When (and sometimes why) items were included, replaced or deprecated.
 
+### Anthony Minghella - The talented Mr. Ripley
+
+2023-06-06
+
 ### Derek Cianfrance - Blue Valentine
 
 2023-06-05

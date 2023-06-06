@@ -2,6 +2,18 @@
 
 When (and sometimes why) items were included, replaced or deprecated.
 
+### Quentin Tarantino - Pulp fiction
+
+2023-06-06
+
+### Roberto Benigni - Life is beautiful
+
+2023-06-06
+
+### Francis Ford Coppola - The godfather
+
+2023-06-06
+
 ### Martin Brest - Scent of a woman
 
 2023-06-05
