@@ -2,6 +2,14 @@
 
 When (and sometimes why) items were included, replaced or deprecated.
 
+### John Boorman - Deliverance
+
+2023-06-11
+
+### Lawrence Kasdan - The big chill
+
+2023-06-11
+
 ### Anthony Minghella - The talented Mr. Ripley
 
 2023-06-06

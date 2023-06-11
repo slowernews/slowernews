@@ -18,6 +18,8 @@ When (and sometimes why) items were included, replaced or deprecated.
 
 2023-06-05
 
+Realist remake (1992) of Profumo di donna (1974) by Dino Risi [1916-IT].
+
 ### James Cameron - Terminator 2: Judgment day
 
 2023-06-05
