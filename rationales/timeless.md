@@ -2,6 +2,10 @@
 
 When (and sometimes why) items were included, replaced or deprecated.
 
+### Giuseppe Tornatore - Cinema paradiso
+
+2023-06-29
+
 ### Quentin Tarantino - Pulp fiction
 
 2023-06-06

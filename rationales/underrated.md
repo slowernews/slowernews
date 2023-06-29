@@ -2,6 +2,14 @@
 
 When (and sometimes why) items were included, replaced or deprecated.
 
+### Stanley Tucci - The big night
+
+2023-06-29
+
+### Marco Ferreri - La grande bouffe
+
+2023-06-29
+
 ### John Boorman - Deliverance
 
 2023-06-11
