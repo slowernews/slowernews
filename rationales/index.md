@@ -2,6 +2,12 @@
 
 When (and sometimes why) articles were included, replaced or deprecated. Often, it implies reordering the article section to balance/relate viewpoints.
 
+### Vaporwave
+
+2023-07-07
+
+Aesthetic patterns are unveiled by time but I believe this one (as a "one size fits all" category) is consentual. It expresses a [nostalgy from a time where we believed our civilization could influence our future](https://www.youtube.com/watch?v=BrnDlRmW5hs). I may be biased here.
+
 ### What is prompt engineering?
 
 2023-06-06
