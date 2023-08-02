@@ -2,6 +2,10 @@
 
 When (and sometimes why) items were included, replaced or deprecated.
 
+### Labrinth - HBO Euphoria soundtrack
+
+2023-08-02
+
 ### Giuseppe Tornatore - Cinema paradiso
 
 2023-06-29
