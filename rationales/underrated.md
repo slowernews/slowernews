@@ -2,11 +2,17 @@
 
 When (and sometimes why) items were included, replaced or deprecated.
 
+### Sam Mendes - 1917
+
+2023-08-04
+
+Credible war movie.
+
 ### Elem Klimov - Idi i smotri
 
 2023-08-04
 
-Realistic war movie.
+Credible war movie.
 
 ### Nomcebo Zikode ft. Master KG - Jerusalema
 
