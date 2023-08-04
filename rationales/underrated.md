@@ -2,6 +2,12 @@
 
 When (and sometimes why) items were included, replaced or deprecated.
 
+### Elem Klimov - Idi i smotri
+
+2023-08-04
+
+Realistic war movie.
+
 ### Nomcebo Zikode ft. Master KG - Jerusalema
 
 2023-08-02
