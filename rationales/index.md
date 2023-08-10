@@ -2,6 +2,12 @@
 
 When (and sometimes why) articles were included, replaced or deprecated. Often, it implies reordering the article section to balance/relate viewpoints.
 
+### Legality of cryptocurrency by country
+
+2023-08-10
+
+Updates an article about crypto regulation that went 404 recently.
+
 ### What's an ambient superconductor?
 
 2023-08-08
