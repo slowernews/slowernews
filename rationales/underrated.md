@@ -2,6 +2,16 @@
 
 When (and sometimes why) items were included, replaced or deprecated.
 
+### Sintipon - Облака
+
+2023-08-11
+
+### Maelle - Flash
+
+2023-08-11
+
+An even [more raw version](https://www.youtube.com/watch?v=RGAYk5ec12U)
+
 ### Sam Mendes - 1917
 
 2023-08-04
