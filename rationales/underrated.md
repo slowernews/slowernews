@@ -2,6 +2,10 @@
 
 When (and sometimes why) items were included, replaced or deprecated.
 
+### Sam Mendes - American Beauty
+
+2023-08-13
+
 ### Richard Kelly - Donnie Darko
 
 2023-08-13
