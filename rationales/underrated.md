@@ -2,6 +2,10 @@
 
 When (and sometimes why) items were included, replaced or deprecated.
 
+### Richard Kelly - Donnie Darko
+
+2023-08-13
+
 ### Sintipon - Облака
 
 2023-08-11
@@ -10,7 +14,7 @@ When (and sometimes why) items were included, replaced or deprecated.
 
 2023-08-11
 
-An even [more raw version](https://www.youtube.com/watch?v=RGAYk5ec12U)
+A [more raw version](https://www.youtube.com/watch?v=RGAYk5ec12U).
 
 ### Sam Mendes - 1917
 
