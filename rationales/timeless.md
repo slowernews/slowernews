@@ -2,6 +2,20 @@
 
 When (and sometimes why) items were included, replaced or deprecated.
 
+### Roisin Murphy - Sing it back, the time is now, indigo, familiar feeling & overpowered
+
+[Here's](https://www.youtube.com/watch?v=YYQ6wAmHo-w) more. [Real artists](https://www.youtube.com/watch?v=z9u0-3H4I4o) are [humble](https://www.youtube.com/watch?v=Cq1mn7nllTQ). 
+
+### Toby Fox - Undertale
+
+2023-08-18
+
+Too good to be listed as underrated.
+
+### Labrinth - HBO Euphoria soundtrack
+
+2023-08-18
+
 ### Labrinth - HBO Euphoria soundtrack
 
 2023-08-02
