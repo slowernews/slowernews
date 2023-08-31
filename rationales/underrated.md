@@ -2,6 +2,18 @@
 
 When (and sometimes why) items were included, replaced or deprecated.
 
+### Darren Aronofsky - Requiem for a dream
+
+2023-08-31
+
+### Danny Boyle - Trainspotting
+
+2023-08-31
+
+### Larry Clark - Kids
+
+2023-08-31
+
 ### Joel Coen + Ethan Coen - No country for old men
 
 2023-08-13
