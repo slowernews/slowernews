@@ -2,6 +2,10 @@
 
 When (and sometimes why) articles were included, replaced or deprecated. Often, it implies reordering the article section to balance/relate viewpoints.
 
+### The workers at the frontlines of the AI revolution
+
+2023-08-31
+
 ### Legality of cryptocurrency by country
 
 2023-08-10
