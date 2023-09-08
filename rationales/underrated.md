@@ -2,6 +2,10 @@
 
 When (and sometimes why) items were included, replaced or deprecated.
 
+### Cyesm - Hors du monde
+
+2023-08-31
+
 ### Darren Aronofsky - Requiem for a dream
 
 2023-08-31
@@ -64,7 +68,7 @@ Dance gospel in Zulu.
 
 ### John Boorman - Deliverance
 
-2023-06-11
+2023-06-11 »
 
 ### Lawrence Kasdan - The big chill
 
