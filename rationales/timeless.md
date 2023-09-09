@@ -2,6 +2,18 @@
 
 When (and sometimes why) items were included, replaced or deprecated.
 
+### Sam Mendes - American Beauty
+
+2023-09-08
+
+Too good to be listed as underrated.
+
+### Danny Boyle - Trainspotting
+
+2023-09-08
+
+Too good to be listed as underrated.
+
 ### Roisin Murphy - Sing it back, the time is now, indigo, familiar feeling & overpowered
 
 [Here's](https://www.youtube.com/watch?v=YYQ6wAmHo-w) more. [Real artists](https://www.youtube.com/watch?v=z9u0-3H4I4o) are [humble](https://www.youtube.com/watch?v=Cq1mn7nllTQ). 
