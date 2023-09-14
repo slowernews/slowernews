@@ -2,6 +2,12 @@
 
 When (and sometimes why) articles were included, replaced or deprecated. Often, it implies reordering the article section to balance/relate viewpoints.
 
+### Will nations fund fertility?
+
+2023-09-14
+
+I don't agree with the conclusion (Some anedacta: Polish liberals/Center right - not even conservatives - are promissing subsidized *in vitro* in upcoming elections) but this discussion is relevant.
+
 ### The workers at the frontlines of the AI revolution
 
 2023-08-31
