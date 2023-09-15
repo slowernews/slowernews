@@ -6,7 +6,7 @@ When (and sometimes why) articles were included, replaced or deprecated. Often, 
 
 2023-09-14
 
-I don't agree with the conclusion (Some anedacta: AFAIK, Polish liberals/center-right - not even conservatives - are promising subsidized *in vitro* in upcoming elections). However this discussion is relevant.
+A relevant topic even if I don't agree with the conclusion. Large sectors of societies don't believe in mass immigration so soon or later they must fund it. Some anedacta: AFAIK, Polish center-right - not even conservatives - are already promising subsidized *in vitro*.
 
 ### The workers at the frontlines of the AI revolution
 
