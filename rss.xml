@@ -6,6 +6,14 @@
 			<atom:link href="https://www.slowernews.com/rss.xml" rel="self" type="application/rss+xml" />
 
 			<item>
+				<title>|INFO| Slower News Quarterly - Autumn Issue.</title>
+				<description><![CDATA[<p>Eleventh issue of Slower News Quarterly was published.</p>]]></description>
+				<link>https://slowernews.substack.com/p/2023-autumn</link>
+				<guid>https://slowernews.substack.com/p/2023-autumn</guid>
+				<pubDate>Sun, 24 Sep 2023 07:18:20 +0000</pubDate>
+			</item>
+
+			<item>
 				<title>|Demography| Will nations fund fertility?</title>
 				<description><![CDATA[<p>New link (with rationale) on <a href="https://www.slowernews.com/#demography">Slower News - Demography</a> category.</p>]]></description>
 				<link>https://www.overcomingbias.com/p/will-nations-fund-fertility</link>
@@ -139,14 +147,6 @@
 				<link>https://www.theguardian.com/world/2022/oct/27/megalopolis-how-coastal-west-africa-will-shape-the-coming-century</link>
 				<guid>https://www.theguardian.com/world/2022/oct/27/megalopolis-how-coastal-west-africa-will-shape-the-coming-century</guid>
 				<pubDate>Mon, 3 Apr 2023 09:18:30 +0000</pubDate>
-			</item>
-
-			<item>
-				<title>|INFO| Slower News Quarterly - Spring Issue.</title>
-				<description><![CDATA[<p>Ninth issue of Slower News Quarterly was published.</p>]]></description>
-				<link>https://slowernews.substack.com/p/2023-spring</link>
-				<guid>https://slowernews.substack.com/p/2023-spring</guid>
-				<pubDate>Thu, 23 Mar 2023 07:18:20 +0000</pubDate>
 			</item>
 		</channel>
 	</rss>

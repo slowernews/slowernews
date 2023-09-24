@@ -6,7 +6,7 @@ When (and sometimes why) articles were included, replaced or deprecated. Often, 
 
 2023-09-14
 
-A relevant topic even if I don't agree with the conclusion. Large sectors of societies don't believe in mass immigration so soon or later they must fund it. Some anedacta: AFAIK, Polish center-right - not even conservatives - are already promising subsidized *in vitro*.
+A relevant topic, even if I don't agree with the conclusion. Large sectors of societies don't believe in mass immigration, so sooner or later, they must fund it. Here's some anecdotal information: As far as I know, Polish center-right is already promising subsidized in vitro.
 
 ### The workers at the frontlines of the AI revolution
 
