@@ -6,6 +6,14 @@
 			<atom:link href="https://www.slowernews.com/rss.xml" rel="self" type="application/rss+xml" />
 
 			<item>
+				<title>|Economy and business| Another mega corp has been born.</title>
+				<description><![CDATA[<p>New link (with rationale) on <a href="https://www.slowernews.com/#economy-and-business">Slower News - Economy and business</a> category.</p>]]></description>
+				<link>https://www.wired.com/story/what-openai-really-wants/</link>
+				<guid>https://www.wired.com/story/what-openai-really-wants/</guid>
+				<pubDate>Fri, 29 Sep 2023 09:18:30 +0000</pubDate>
+			</item>
+
+			<item>
 				<title>|INFO| Slower News Quarterly - Autumn Issue.</title>
 				<description><![CDATA[<p>Eleventh issue of Slower News Quarterly was published.</p>]]></description>
 				<link>https://slowernews.substack.com/p/autumn-2023-issue-11</link>
@@ -139,14 +147,6 @@
 				<link>https://slowernews.com/</link>
 				<guid>https://slowernews.com/</guid>
 				<pubDate>Tue, 11 Apr 2023 16:13:20 +0000</pubDate>
-			</item>
-
-			<item>
-				<title>|Demography| Population growth in Africa.</title>
-				<description><![CDATA[<p>New link (with rationale) on <a href="https://www.slowernews.com/#demography">Slower News - Demography</a> category.</p>]]></description>
-				<link>https://www.theguardian.com/world/2022/oct/27/megalopolis-how-coastal-west-africa-will-shape-the-coming-century</link>
-				<guid>https://www.theguardian.com/world/2022/oct/27/megalopolis-how-coastal-west-africa-will-shape-the-coming-century</guid>
-				<pubDate>Mon, 3 Apr 2023 09:18:30 +0000</pubDate>
 			</item>
 		</channel>
 	</rss>

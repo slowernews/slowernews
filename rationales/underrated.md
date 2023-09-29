@@ -2,6 +2,10 @@
 
 When (and sometimes why) items were included, replaced or deprecated.
 
+### Michael Radford - The postman
+
+2023-09-29
+
 ### Cyesm - Hors du monde
 
 2023-09-08
@@ -52,7 +56,7 @@ Dance gospel in Zulu.
 
 ### Stanley Tucci - The big night
 
-2023-06-29
+2023-06-29 »
 
 ### Marco Ferreri - La grande bouffe
 
@@ -60,7 +64,7 @@ Dance gospel in Zulu.
 
 ### John Boorman - Deliverance
 
-2023-06-11 »
+2023-06-11
 
 ### Lawrence Kasdan - The big chill
 

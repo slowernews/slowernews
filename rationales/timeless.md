@@ -34,7 +34,7 @@ Too good to be listed as underrated.
 
 ### Giuseppe Tornatore - Cinema paradiso
 
-2023-06-29
+2023-06-29 »
 
 ### Quentin Tarantino - Pulp fiction
 

@@ -2,6 +2,12 @@
 
 When (and sometimes why) articles were included, replaced or deprecated. Often, it implies reordering the article section to balance/relate viewpoints.
 
+### ### Another mega corp has been born
+
+2023-09-29
+
+If you're old enough and have witnessed the birth of Google and Facebook, I'm sure you understand my feelings about OpenAI.
+
 ### Will nations fund fertility?
 
 2023-09-14
