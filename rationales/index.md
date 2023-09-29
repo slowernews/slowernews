@@ -2,7 +2,7 @@
 
 When (and sometimes why) articles were included, replaced or deprecated. Often, it implies reordering the article section to balance/relate viewpoints.
 
-### ### Another mega corp has been born
+### Another mega corp has been born
 
 2023-09-29
 
