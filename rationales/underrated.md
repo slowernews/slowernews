@@ -2,6 +2,12 @@
 
 When (and sometimes why) items were included, replaced or deprecated.
 
+### Ghoulie - Daft Punk ALIVE 2021: epilogue
+
+2023-09-29
+
+Daft Punk's imaginary last concert.
+
 ### Michael Radford - The postman
 
 2023-09-29
