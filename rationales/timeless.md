@@ -2,6 +2,14 @@
 
 When (and sometimes why) items were included, replaced or deprecated.
 
+### Mr. Bungle - Ars Moriendi
+
+2023-10-06
+
+Classical percussion cover. The [baritone horns and tubas](https://www.youtube.com/watch?v=rC2O6VUGuKs) cover is also amazing. This song was written by Trey Spruance, not by Mike Patton.
+
+Mr. Bungle's [concert](https://www.youtube.com/watch?v=0wVGbhunXx4) was - easily - the best one I ever assisted.
+
 ### Sam Mendes - American Beauty
 
 2023-09-08
