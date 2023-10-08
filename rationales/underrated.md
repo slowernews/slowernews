@@ -2,6 +2,14 @@
 
 When (and sometimes why) items were included, replaced or deprecated.
 
+### Architecture in Helsinki - Heart it races
+
+2023-10-08
+
+### Peremotka - Vstrechnaya
+
+2023-10-08
+
 ### Ghoulie - Daft Punk ALIVE 2021: epilogue
 
 2023-10-06
