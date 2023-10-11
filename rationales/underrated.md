@@ -2,6 +2,13 @@
 
 When (and sometimes why) items were included, replaced or deprecated.
 
+
+### Park Chan-wook - Oldboy
+
+2023-10-11
+
+Korean Tarantino.
+
 ### Architecture in Helsinki - Heart it races
 
 2023-10-08
