@@ -2,7 +2,7 @@
 
 When (and sometimes why) articles were included, replaced or deprecated. Often, it implies reordering the article section to balance/relate viewpoints.
 
-### The publicly traded company is disappearing
+### The publicly traded company is disappearing
 
 2023-11-19
 
