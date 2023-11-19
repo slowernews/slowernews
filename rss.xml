@@ -6,6 +6,14 @@
 			<atom:link href="https://www.slowernews.com/rss.xml" rel="self" type="application/rss+xml" />
 
 			<item>
+				<title>|Economy and business| The publicly traded company is disappearing.</title>
+				<description><![CDATA[<p>New link (with rationale) on <a href="https://www.slowernews.com/#economy-and-business">Slower News - Economy and business</a> category.</p>]]></description>
+				<link>https://www.theatlantic.com/ideas/archive/2023/10/private-equity-publicly-traded-companies/675788/</link>
+				<guid>https://www.theatlantic.com/ideas/archive/2023/10/private-equity-publicly-traded-companies/675788/</guid>
+				<pubDate>Sun, 19 Nov 2023 09:18:30 +0000</pubDate>
+			</item>
+
+			<item>
 				<title>|Economy and business| Another mega corp has been born.</title>
 				<description><![CDATA[<p>New link (with rationale) on <a href="https://www.slowernews.com/#economy-and-business">Slower News - Economy and business</a> category. If you’re old enough and have witnessed the birth of Google and Facebook, I’m sure you understand my feelings about OpenAI.</p>]]></description>
 				<link>https://www.wired.com/story/what-openai-really-wants/</link>
@@ -91,62 +99,6 @@
 				<link>https://knowablemagazine.org/article/technology/2023/heat-pumps-becoming-technology-future</link>
 				<guid>https://knowablemagazine.org/article/technology/2023/heat-pumps-becoming-technology-future</guid>
 				<pubDate>Tue, 30 May 2023 07:18:30 +0000</pubDate>
-			</item>
-
-			<item>
-				<title>|Economy| Housing should be affordable except when I sell my house.</title>
-				<description><![CDATA[<p>New link (with rationale) on <a href="https://www.slowernews.com/#economy">Slower News - Economy</a> category.</p>]]></description>
-				<link>https://www.mcsweeneys.net/articles/housing-should-be-affordable-except-when-i-sell-my-house-for-a-million-dollars</link>
-				<guid>https://www.mcsweeneys.net/articles/housing-should-be-affordable-except-when-i-sell-my-house-for-a-million-dollars</guid>
-				<pubDate>Mon, 22 May 2023 10:23:20 +0000</pubDate>
-			</item>
-
-			<item>
-				<title>|Geopolitics| De-dollarization.</title>
-				<description><![CDATA[<p>New link (with rationale) on <a href="https://www.slowernews.com/#geopolitics">Slower News - Geopolitics</a> category.</p>]]></description>
-				<link>https://responsiblestatecraft.org/2023/05/03/de-dollarization-not-a-matter-of-if-but-when/</link>
-				<guid>https://responsiblestatecraft.org/2023/05/03/de-dollarization-not-a-matter-of-if-but-when/</guid>
-				<pubDate>Mon, 08 May 2023 09:18:30 +0000</pubDate>
-			</item>
-
-			<item>
-				<title>|INFO| Timeless page had a major tidy-up!</title>
-				<description><![CDATA[<p>Slower News Timeless page had a major tidy-up!</p>]]></description>
-				<link>https://slowernews.com/s/timeless</link>
-				<guid>https://slowernews.com/s/timeless1</guid>
-				<pubDate>Sat, 06 May 2023 08:14:40 +0000</pubDate>
-			</item>
-
-			<item>
-				<title>|INFO| Underrated page had a major tidy-up!</title>
-				<description><![CDATA[<p>Slower News Underrated page had a major tidy-up!</p>]]></description>
-				<link>https://slowernews.com/s/underrated</link>
-				<guid>https://slowernews.com/s/underrated1</guid>
-				<pubDate>Sat, 06 May 2023 08:14:20 +0000</pubDate>
-			</item>
-
-			<item>
-				<title>|Health| Travel prescriptions.</title>
-				<description><![CDATA[<p>New link (with rationale) on <a href="https://www.slowernews.com/#health">Slower News - Health</a> category.</p>]]></description>
-				<link>https://adventure.com/travel-prescriptions-future-travel/</link>
-				<guid>https://adventure.com/travel-prescriptions-future-travel/</guid>
-				<pubDate>Sun, 23 Apr 2023 11:18:30 +0000</pubDate>
-			</item>
-
-			<item>
-				<title>|Demography| Pro-natalism.</title>
-				<description><![CDATA[<p>New link (with rationale) on <a href="https://www.slowernews.com/#demography">Slower News - Demography</a> category.</p>]]></description>
-				<link>https://archive.ph/4rjIt</link>
-				<guid>https://archive.ph/4rjIt</guid>
-				<pubDate>Sat, 15 Apr 2023 09:18:30 +0000</pubDate>
-			</item>
-
-			<item>
-				<title>|INFO| Slower News had a major tidy-up!</title>
-				<description><![CDATA[<p>Slower News had a major tidy-up!</p>]]></description>
-				<link>https://slowernews.com/</link>
-				<guid>https://slowernews.com/</guid>
-				<pubDate>Tue, 11 Apr 2023 16:13:20 +0000</pubDate>
 			</item>
 		</channel>
 	</rss>

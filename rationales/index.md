@@ -2,6 +2,12 @@
 
 When (and sometimes why) articles were included, replaced or deprecated. Often, it implies reordering the article section to balance/relate viewpoints.
 
+### The publicly traded company is disappearing
+
+2023-11-19
+
+Why is this a long-term problem? [Check here](https://news.ycombinator.com/item?id=38069481).
+
 ### Another mega corp has been born
 
 2023-09-29
