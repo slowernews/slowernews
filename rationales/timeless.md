@@ -28,13 +28,9 @@ Too good to be listed as underrated.
 
 ### Toby Fox - Undertale
 
-2023-08-18
+2023-08-18 »
 
 Too good to be listed as underrated.
-
-### Labrinth - HBO Euphoria soundtrack
-
-2023-08-18
 
 ### Labrinth - HBO Euphoria soundtrack
 
@@ -42,7 +38,7 @@ Too good to be listed as underrated.
 
 ### Giuseppe Tornatore - Cinema paradiso
 
-2023-06-29 »
+2023-06-29
 
 ### Quentin Tarantino - Pulp fiction
 

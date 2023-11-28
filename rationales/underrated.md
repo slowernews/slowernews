@@ -2,6 +2,11 @@
 
 When (and sometimes why) items were included, replaced or deprecated.
 
+### Wong Kar-wai
+
+2023-11-28
+
+I only discovered this director recently. I already watched his first two movies (1988) [As tears go by](https://www.imdb.com/title/tt0096461/) and (1990) [Days of being wild](https://www.imdb.com/title/tt0101258) so it's still early to make recommendations. For the ones old enough, "As tear go by", recalls [target renegade](https://worldofspectrum.org/archive/software/games/target-renegade-imagine-software-ltd) spectrum game...
 
 ### Park Chan-wook - Oldboy
 
@@ -33,7 +38,7 @@ Daft Punk's imaginary last concert.
 
 ### Darren Aronofsky - Requiem for a dream
 
-2023-08-31
+2023-08-31 »
 
 ### Larry Clark - Kids
 
@@ -77,7 +82,7 @@ Dance gospel in Zulu.
 
 ### Stanley Tucci - The big night
 
-2023-06-29 »
+2023-06-29
 
 ### Marco Ferreri - La grande bouffe
 
@@ -172,3 +177,7 @@ Great compilation from a guy in Kazan...
 ### Daniel Waples - Hang in balance
 
 2023-04-17
+
+### Maelle - L'effet de masse
+
+[Another version](https://www.youtube.com/watch?v=GjxZcCvwF7U) and a [cover by a school choral](https://www.youtube.com/watch?v=K4-ko_P3NgE)
