@@ -2,6 +2,10 @@
 
 When (and sometimes why) items were included, replaced or deprecated.
 
+### Capucine Jannet - Femme like you (cover)
+
+2023-11-28
+
 ### Wong Kar-wai
 
 2023-11-28
