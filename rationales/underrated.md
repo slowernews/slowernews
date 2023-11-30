@@ -44,11 +44,11 @@ Daft Punk's imaginary last concert.
 
 ### Cyesm - Hors du monde
 
-2023-09-08
+2023-09-08 »
 
 ### Darren Aronofsky - Requiem for a dream
 
-2023-08-31 »
+2023-08-31
 
 ### Larry Clark - Kids
 
