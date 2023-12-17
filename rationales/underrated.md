@@ -16,7 +16,7 @@ Amazing band from Ukraine.
 
 2023-11-28
 
-I only discovered this director recently. I already watched his first two movies (1988) [As tears go by](https://www.imdb.com/title/tt0096461/) and (1990) [Days of being wild](https://www.imdb.com/title/tt0101258) so it's still early to make recommendations. For the ones old enough, "As tear go by", recalls [target renegade](https://worldofspectrum.org/archive/software/games/target-renegade-imagine-software-ltd) spectrum game...
+I discovered this director recently. I only watched his first two movies (1988) [As tears go by](https://www.imdb.com/title/tt0096461/) and (1990) [Days of being wild](https://www.imdb.com/title/tt0101258) so it's still early to make recommendations. When watching "As tear go by" I recall an [old spectrum game](https://worldofspectrum.org/archive/software/games/target-renegade-imagine-software-ltd)...
 
 ### Park Chan-wook - Oldboy
 

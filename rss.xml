@@ -6,6 +6,14 @@
 			<atom:link href="https://www.slowernews.com/rss.xml" rel="self" type="application/rss+xml" />
 
 			<item>
+				<title>|Energy| Plastic waste in the fuel tank.</title>
+				<description><![CDATA[<p>New link (with rationale) on <a href="https://www.slowernews.com/#energy">Slower News - Energy</a> category.</p>]]></description>
+				<link>https://solar.lowtechmagazine.com/2023/11/plastic-waste-in-the-fuel-tank/</link>
+				<guid>https://solar.lowtechmagazine.com/2023/11/plastic-waste-in-the-fuel-tank/</guid>
+				<pubDate>Sun, 17 Dec 2023 09:18:30 +0000</pubDate>
+			</item>
+
+			<item>
 				<title>|Economy and business| The publicly traded company is disappearing.</title>
 				<description><![CDATA[<p>New link (with rationale) on <a href="https://www.slowernews.com/#economy-and-business">Slower News - Economy and business</a> category.</p>]]></description>
 				<link>https://www.theatlantic.com/ideas/archive/2023/10/private-equity-publicly-traded-companies/675788/</link>
@@ -83,22 +91,6 @@
 				<link>https://slowernews.substack.com/p/2023-summer</link>
 				<guid>https://slowernews.substack.com/p/2023-summer</guid>
 				<pubDate>Mon, 26 Jun 2023 05:18:20 +0000</pubDate>
-			</item>
-
-			<item>
-				<title>|Work, education and skills| What is prompt engineering?</title>
-				<description><![CDATA[<p>New link (with rationale) on <a href="https://www.slowernews.com/#work-education-and-skills">Slower News - Work, education and skills</a> category.</p>]]></description>
-				<link>https://blog.enterprisedna.co/what-is-prompt-engineering/</link>
-				<guid>https://blog.enterprisedna.co/what-is-prompt-engineering/</guid>
-				<pubDate>Tue, 06 Jun 2023 09:18:30 +0000</pubDate>
-			</item>
-
-			<item>
-				<title>|Energy| Heat pumps are becoming the technology of the future.</title>
-				<description><![CDATA[<p>New link (with rationale) on <a href="https://www.slowernews.com/#energy">Slower News - Energy</a> category.</p>]]></description>
-				<link>https://knowablemagazine.org/article/technology/2023/heat-pumps-becoming-technology-future</link>
-				<guid>https://knowablemagazine.org/article/technology/2023/heat-pumps-becoming-technology-future</guid>
-				<pubDate>Tue, 30 May 2023 07:18:30 +0000</pubDate>
 			</item>
 		</channel>
 	</rss>
