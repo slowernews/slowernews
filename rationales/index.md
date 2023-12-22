@@ -2,6 +2,10 @@
 
 When (and sometimes why) articles were included, replaced or deprecated. Often, it implies reordering the article section to balance/relate viewpoints.
 
+### Star wars galactic starcruiser
+
+2023-12-22
+
 ### Plastic waste in the fuel tank
 
 2023-12-17

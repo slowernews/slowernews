@@ -6,6 +6,22 @@
 			<atom:link href="https://www.slowernews.com/rss.xml" rel="self" type="application/rss+xml" />
 
 			<item>
+				<title>|INFO| Slower News Quarterly - Winter Issue.</title>
+				<description><![CDATA[<p>Twelfth issue of Slower News Quarterly was published.</p>]]></description>
+				<link>https://slowernews.substack.com/p/winter-2023-issue-12</link>
+				<guid>https://slowernews.substack.com/p/2023-winter</guid>
+				<pubDate>Fri, 22 Dec 2023 09:18:30 +0000</pubDate>
+			</item>
+
+			<item>
+				<title>|Tourism| Star wars galactic starcruiser.</title>
+				<description><![CDATA[<p>New link (with rationale) on <a href="https://www.slowernews.com/#tourism">Slower News - Tourism</a> category.</p>]]></description>
+				<link>https://adrianhon.substack.com/p/star-wars-galactic-starcruiser</link>
+				<guid>https://adrianhon.substack.com/p/star-wars-galactic-starcruiser</guid>
+				<pubDate>Fri, 22 Dec 2023 08:18:30 +0000</pubDate>
+			</item>
+
+			<item>
 				<title>|Energy| Plastic waste in the fuel tank.</title>
 				<description><![CDATA[<p>New link (with rationale) on <a href="https://www.slowernews.com/#energy">Slower News - Energy</a> category.</p>]]></description>
 				<link>https://solar.lowtechmagazine.com/2023/11/plastic-waste-in-the-fuel-tank/</link>
@@ -83,14 +99,6 @@
 				<link>https://en.wikipedia.org/wiki/Vaporwave</link>
 				<guid>https://en.wikipedia.org/wiki/Vaporwave</guid>
 				<pubDate>Fri, 07 Jul 2023 09:18:30 +0000</pubDate>
-			</item>
-
-			<item>
-				<title>|INFO| Slower News Quarterly - Summer Issue.</title>
-				<description><![CDATA[<p>Tenth issue of Slower News Quarterly was published.</p>]]></description>
-				<link>https://slowernews.substack.com/p/2023-summer</link>
-				<guid>https://slowernews.substack.com/p/2023-summer</guid>
-				<pubDate>Mon, 26 Jun 2023 05:18:20 +0000</pubDate>
 			</item>
 		</channel>
 	</rss>
