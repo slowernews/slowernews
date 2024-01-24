@@ -6,6 +6,14 @@
 			<atom:link href="https://www.slowernews.com/rss.xml" rel="self" type="application/rss+xml" />
 
 			<item>
+				<title>|Health| The slow frontier of genetic choice.</title>
+				<description><![CDATA[<p>New link (with rationale) on <a href="https://www.slowernews.com/#health">Slower News - Health</a> category.</p>]]></description>
+				<link>https://kk.org/thetechnium/the-slow-frontier-of-genetic-choice/</link>
+				<guid>https://kk.org/thetechnium/the-slow-frontier-of-genetic-choice/</guid>
+				<pubDate>Wed, 24 Jan 2023 12:18:30 +0000</pubDate>
+			</item>
+
+			<item>
 				<title>|INFO| Slower News Quarterly - Winter Issue.</title>
 				<description><![CDATA[<p>Twelfth issue of Slower News Quarterly was published.</p>]]></description>
 				<link>https://slowernews.substack.com/p/winter-2023-issue-12</link>
@@ -83,22 +91,6 @@
 				<link>https://www.washingtonpost.com/business/energy/2023/08/03/room-temperature-superconductor-and-lk-99-what-to-know/ec47ab44-31ce-11ee-85dd-5c3c97d6acda_story.html</link>
 				<guid>https://www.washingtonpost.com/business/energy/2023/08/03/room-temperature-superconductor-and-lk-99-what-to-know/ec47ab44-31ce-11ee-85dd-5c3c97d6acda_story.html</guid>
 				<pubDate>Tue, 08 Aug 2023 10:18:30 +0000</pubDate>
-			</item>
-
-			<item>
-				<title>|Geopolitics| Europeans are becoming poorer.</title>
-				<description><![CDATA[<p>New link (with rationale) on <a href="https://www.slowernews.com/#geopolitics">Slower News - Geopolitics</a> category.</p>]]></description>
-				<link>https://moderndiplomacy.eu/2023/07/23/wsj-europeans-are-becoming-poorer/</link>
-				<guid>https://archive.ph/06FwU</guid>
-				<pubDate>Sat, 22 Jul 2023 09:18:30 +0000</pubDate>
-			</item>
-
-			<item>
-				<title>|Culture, beliefs and ethics| Vaporwave.</title>
-				<description><![CDATA[<p>New link (with rationale) on <a href="https://www.slowernews.com/#culture-beliefs-and-ethics">Slower News - Culture, Beliefs And Ethics</a> category. Aesthetic patterns are unveiled by time but I believe this one (as a "catch all" category) is consentual. It expresses a nostalgy from a time where we believed our civilization could influence our future. I may be biased here.</p>]]></description>
-				<link>https://en.wikipedia.org/wiki/Vaporwave</link>
-				<guid>https://en.wikipedia.org/wiki/Vaporwave</guid>
-				<pubDate>Fri, 07 Jul 2023 09:18:30 +0000</pubDate>
 			</item>
 		</channel>
 	</rss>
