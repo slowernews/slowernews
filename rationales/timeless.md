@@ -28,7 +28,7 @@ Too good to be listed as underrated.
 
 ### Toby Fox - Undertale
 
-2023-08-18 »
+2023-08-18
 
 Too good to be listed as underrated.
 

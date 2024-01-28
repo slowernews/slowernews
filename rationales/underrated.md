@@ -20,7 +20,7 @@ I discovered this director recently. I only watched his first two movies (1988) 
 
 ### Park Chan-wook - Oldboy
 
-2023-10-11
+2023-10-11 »
 
 Korean Tarantino.
 
@@ -44,7 +44,7 @@ Daft Punk's imaginary last concert.
 
 ### Cyesm - Hors du monde
 
-2023-09-08 »
+2023-09-08
 
 ### Darren Aronofsky - Requiem for a dream
 
