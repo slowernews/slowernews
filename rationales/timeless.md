@@ -2,6 +2,14 @@
 
 When (and sometimes why) items were included, replaced or deprecated.
 
+### Daft Punk
+
+2024-02-03
+
+Piano covers: [Veridis quo](https://www.youtube.com/watch?v=DPp-ATdi3KM) / [Within](https://www.youtube.com/watch?v=4mnb7FLjM5Y)
+
+Church organ cover: [One more time](https://www.youtube.com/watch?v=H52dy28o_Vk)
+
 ### Mr. Bungle - Ars Moriendi
 
 2023-10-06
