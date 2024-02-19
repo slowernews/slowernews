@@ -2,6 +2,10 @@
 
 When (and sometimes why) articles were included, replaced or deprecated. Often, it implies reordering the article section to balance/relate viewpoints.
 
+### Geologists say plastic rocks are now a thing
+
+2024-02-19
+
 ### The slow frontier of genetic choice
 
 2024-01-24
@@ -30,7 +34,7 @@ If you're old enough and have witnessed the birth of Google and Facebook, I'm su
 
 2023-09-14
 
-A relevant topic, even if I don't agree with the conclusion. Large sectors of societies don't believe in mass immigration, so sooner or later, they must fund it. Here's some anecdotal information: As far as I know, Polish center-right is already promising subsidized in vitro.
+A relevant topic (even if I don't agree with the article's conclusion). Large sectors of societies don't believe in mass immigration, so sooner or later, they must fund fertility. An anecdote: As far as I know, Polish center-right is already promising subsidized *in vitro*.
 
 ### The workers at the frontlines of the AI revolution
 

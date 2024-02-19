@@ -1,6 +1,12 @@
 # Rationale - Underrated
 
-When (and sometimes why) items were included, replaced or deprecated.
+When (and sometimes why) items were included, replaced or even deprecated.
+
+### Carlos Saura
+
+2024-02-19
+
+I discovered this director recently. Timeless ad completely underrated movies. It's still early to make specific recommendations.
 
 ### DakhaBrakha - Baby
 
