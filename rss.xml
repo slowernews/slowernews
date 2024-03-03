@@ -6,6 +6,22 @@
 			<atom:link href="https://www.slowernews.com/rss.xml" rel="self" type="application/rss+xml" />
 
 			<item>
+				<title>|Urbanism| Why the line.</title>
+				<description><![CDATA[<p>New link (with rationale) on <a href="https://www.slowernews.com/#urbanism">Slower News - Urbanism</a> category.</p>]]></description>
+				<link>https://www.overcomingbias.com/p/why-the-line</link>
+				<guid>https://www.overcomingbias.com/p/why-the-line</guid>
+				<pubDate>Sun, 3 Mar 2024 09:28:30 +0000</pubDate>
+			</item>
+
+			<item>
+				<title>|Urbanism| Underwater datacenters.</title>
+				<description><![CDATA[<p>New link (with rationale) on <a href="https://www.slowernews.com/#urbanism">Slower News - Urbanism</a> category.</p>]]></description>
+				<link>https://news.microsoft.com/source/features/sustainability/project-natick-underwater-datacenter/</link>
+				<guid>https://news.microsoft.com/source/features/sustainability/project-natick-underwater-datacenter/</guid>
+				<pubDate>Sun, 3 Mar 2024 09:18:30 +0000</pubDate>
+			</item>
+
+			<item>
 				<title>|Ecology| Geologists say plastic rocks are now a thing.</title>
 				<description><![CDATA[<p>New link (with rationale) on <a href="https://www.slowernews.com/#ecology">Slower News - Ecology</a> category.</p>]]></description>
 				<link>https://www.zmescience.com/science/geology/geologists-say-plastic-rocks-are-now-a-thing/</link>
@@ -75,30 +91,6 @@
 				<link>https://www.overcomingbias.com/p/will-nations-fund-fertility</link>
 				<guid>https://www.overcomingbias.com/p/will-nations-fund-fertility</guid>
 				<pubDate>Thu, 14 Sep 2023 11:18:30 +0000</pubDate>
-			</item>
-
-			<item>
-				<title>|Work, education and skills| The workers at the frontlines of the AI revolution.</title>
-				<description><![CDATA[<p>New link (with rationale) on <a href="https://www.slowernews.com/#work-education-and-skills">Slower News - Work, education and skills</a> category.</p>]]></description>
-				<link>https://restofworld.org/2023/ai-revolution-outsourced-workers/</link>
-				<guid>https://restofworld.org/2023/ai-revolution-outsourced-workers/</guid>
-				<pubDate>Thu, 31 Aug 2023 12:19:30 +0000</pubDate>
-			</item>
-
-			<item>
-				<title>|Blockchain| Legality of cryptocurrency by country.</title>
-				<description><![CDATA[<p>New link (with rationale) on <a href="https://www.slowernews.com/#blockchain">Slower News - Blockchain</a> category.</p>]]></description>
-				<link>https://en.wikipedia.org/wiki/Legality_of_cryptocurrency_by_country_or_territory</link>
-				<guid>https://en.wikipedia.org/wiki/Legality_of_cryptocurrency_by_country_or_territory</guid>
-				<pubDate>Thu, 10 Aug 2023 09:18:30 +0000</pubDate>
-			</item>
-
-			<item>
-				<title>|Energy| What's an ambient superconductor?</title>
-				<description><![CDATA[<p>New link (with rationale) on <a href="https://www.slowernews.com/#energy">Slower News - Energy</a> category.</p>]]></description>
-				<link>https://www.washingtonpost.com/business/energy/2023/08/03/room-temperature-superconductor-and-lk-99-what-to-know/ec47ab44-31ce-11ee-85dd-5c3c97d6acda_story.html</link>
-				<guid>https://www.washingtonpost.com/business/energy/2023/08/03/room-temperature-superconductor-and-lk-99-what-to-know/ec47ab44-31ce-11ee-85dd-5c3c97d6acda_story.html</guid>
-				<pubDate>Tue, 08 Aug 2023 10:18:30 +0000</pubDate>
 			</item>
 		</channel>
 	</rss>
