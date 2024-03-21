@@ -2,11 +2,15 @@
 
 When (and sometimes why) items were included, replaced or even deprecated.
 
+### László Nemes - Son of Saul
+
+2024-03-21
+
 ### Carlos Saura
 
 2024-02-19
 
-I discovered this director recently. Timeless ad completely underrated movies. It's still early to make specific recommendations.
+I discovered this director recently. Timeless and completely underrated movies. It's still early to make specific recommendations.
 
 ### DakhaBrakha - Baby
 

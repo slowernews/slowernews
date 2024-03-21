@@ -6,6 +6,22 @@
 			<atom:link href="https://www.slowernews.com/rss.xml" rel="self" type="application/rss+xml" />
 
 			<item>
+				<title>|Society| Cousins are disappearing. Is this reshaping the experience of childhood?</title>
+				<description><![CDATA[<p>New link (with rationale) on <a href="https://www.slowernews.com/#society">Slower News - Society</a> category.</p>]]></description>
+				<link>https://www.cbc.ca/news/canada/cousins-decline-canada-1.7103338</link>
+				<guid>https://www.cbc.ca/news/canada/cousins-decline-canada-1.7103338</guid>
+				<pubDate>Thu, 21 Mar 2024 08:48:30 +0000</pubDate>
+			</item>
+
+			<item>
+				<title>|Health| The teen mental illness epidemic.</title>
+				<description><![CDATA[<p>New link (with rationale) on <a href="https://www.slowernews.com/#health">Slower News - Health</a> category.</p>]]></description>
+				<link>https://www.afterbabel.com/p/international-mental-illness-part-one</link>
+				<guid>https://www.afterbabel.com/p/international-mental-illness-part-one</guid>
+				<pubDate>Thu, 21 Mar 2024 08:18:30 +0000</pubDate>
+			</item>
+
+			<item>
 				<title>|Urbanism| Why the line.</title>
 				<description><![CDATA[<p>New link (with rationale) on <a href="https://www.slowernews.com/#urbanism">Slower News - Urbanism</a> category.</p>]]></description>
 				<link>https://www.overcomingbias.com/p/why-the-line</link>
@@ -83,14 +99,6 @@
 				<link>https://slowernews.substack.com/p/autumn-2023-issue-11</link>
 				<guid>https://slowernews.substack.com/p/2023-autumn</guid>
 				<pubDate>Sun, 24 Sep 2023 07:18:20 +0000</pubDate>
-			</item>
-
-			<item>
-				<title>|Demography| Will nations fund fertility?</title>
-				<description><![CDATA[<p>New link (with rationale) on <a href="https://www.slowernews.com/#demography">Slower News - Demography</a> category.</p>]]></description>
-				<link>https://www.overcomingbias.com/p/will-nations-fund-fertility</link>
-				<guid>https://www.overcomingbias.com/p/will-nations-fund-fertility</guid>
-				<pubDate>Thu, 14 Sep 2023 11:18:30 +0000</pubDate>
 			</item>
 		</channel>
 	</rss>
