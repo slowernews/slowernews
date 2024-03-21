@@ -6,6 +6,14 @@
 			<atom:link href="https://www.slowernews.com/rss.xml" rel="self" type="application/rss+xml" />
 
 			<item>
+				<title>|INFO| Slower News Quarterly - Spring Issue.</title>
+				<description><![CDATA[<p>Thirteenth issue of Slower News Quarterly was published.</p>]]></description>
+				<link>https://slowernews.substack.com/p/spring-2024-issue-13</link>
+				<link>https://slowernews.substack.com/p/spring-2024-issue-13</link>
+				<pubDate>Thu, 21 Mar 2024 09:48:30 +0000</pubDate>
+			</item>
+
+			<item>
 				<title>|Society| Cousins are disappearing. Is this reshaping the experience of childhood?</title>
 				<description><![CDATA[<p>New link (with rationale) on <a href="https://www.slowernews.com/#society">Slower News - Society</a> category.</p>]]></description>
 				<link>https://www.cbc.ca/news/canada/cousins-decline-canada-1.7103338</link>
@@ -91,14 +99,6 @@
 				<link>https://www.wired.com/story/what-openai-really-wants/</link>
 				<guid>https://www.wired.com/story/what-openai-really-wants/</guid>
 				<pubDate>Fri, 29 Sep 2023 09:18:30 +0000</pubDate>
-			</item>
-
-			<item>
-				<title>|INFO| Slower News Quarterly - Autumn Issue.</title>
-				<description><![CDATA[<p>Eleventh issue of Slower News Quarterly was published.</p>]]></description>
-				<link>https://slowernews.substack.com/p/autumn-2023-issue-11</link>
-				<guid>https://slowernews.substack.com/p/2023-autumn</guid>
-				<pubDate>Sun, 24 Sep 2023 07:18:20 +0000</pubDate>
 			</item>
 		</channel>
 	</rss>
