@@ -2,6 +2,12 @@
 
 When (and sometimes why) items were included, replaced or even deprecated.
 
+### Lucrecia Martel - La ciénaga
+
+2024-04-18
+
+What is Argentina?
+
 ### László Nemes - Son of Saul
 
 2024-03-21
@@ -14,7 +20,7 @@ I discovered this director recently. Timeless and completely underrated movies. 
 
 ### DakhaBrakha - Baby
 
-2023-11-28
+2023-11-28 »
 
 Amazing band from Ukraine.
 
@@ -30,7 +36,7 @@ I discovered this director recently. I only watched his first two movies (1988) 
 
 ### Park Chan-wook - Oldboy
 
-2023-10-11 »
+2023-10-11
 
 Korean Tarantino.
 
