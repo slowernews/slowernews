@@ -6,6 +6,14 @@
 			<atom:link href="https://www.slowernews.com/rss.xml" rel="self" type="application/rss+xml" />
 
 			<item>
+				<title>|Economy and business| Most investments are bad.</title>
+				<description><![CDATA[<p>New link (with rationale) on <a href="https://www.slowernews.com/#economy-and-business">Slower News - Economy and business</a> category.</p>]]></description>
+				<link>https://www.lynalden.com/most-investments-are-bad/</link>
+				<guid>https://www.lynalden.com/most-investments-are-bad/</guid>
+				<pubDate>Tue, 30 Apr 2024 07:18:30 +0000</pubDate>
+			</item>
+
+			<item>
 				<title>|INFO| Slower News Quarterly - Spring Issue.</title>
 				<description><![CDATA[<p>Thirteenth issue of Slower News Quarterly was published.</p>]]></description>
 				<link>https://slowernews.substack.com/p/spring-2024-issue-13</link>
@@ -91,14 +99,6 @@
 				<link>https://www.theatlantic.com/ideas/archive/2023/10/private-equity-publicly-traded-companies/675788/</link>
 				<guid>https://www.theatlantic.com/ideas/archive/2023/10/private-equity-publicly-traded-companies/675788/</guid>
 				<pubDate>Sun, 19 Nov 2023 09:18:30 +0000</pubDate>
-			</item>
-
-			<item>
-				<title>|Economy and business| Another mega corp has been born.</title>
-				<description><![CDATA[<p>New link (with rationale) on <a href="https://www.slowernews.com/#economy-and-business">Slower News - Economy and business</a> category. If you’re old enough and have witnessed the birth of Google and Facebook, I’m sure you understand my feelings about OpenAI.</p>]]></description>
-				<link>https://www.wired.com/story/what-openai-really-wants/</link>
-				<guid>https://www.wired.com/story/what-openai-really-wants/</guid>
-				<pubDate>Fri, 29 Sep 2023 09:18:30 +0000</pubDate>
 			</item>
 		</channel>
 	</rss>
