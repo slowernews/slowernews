@@ -2,6 +2,12 @@
 
 When (and sometimes why) items were included, replaced or even deprecated.
 
+### Sofia Coppola - Lost in translation
+
+2024-05-02
+
+Probably timeless. Listed as underrated, for now.
+
 ### Lucrecia Martel - La ciénaga
 
 2024-04-18
