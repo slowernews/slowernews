@@ -2,6 +2,10 @@
 
 When (and sometimes why) items were included, replaced or even deprecated.
 
+### Philip Glass - Koyaanisqatsi
+
+2024-09-14
+
 ### Sofia Coppola - Lost in translation
 
 2024-05-02
@@ -26,7 +30,7 @@ I discovered this director recently. Timeless and completely underrated movies. 
 
 ### DakhaBrakha - Baby
 
-2023-11-28 »
+2023-11-28
 
 Amazing band from Ukraine.
 

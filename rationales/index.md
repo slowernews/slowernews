@@ -2,6 +2,10 @@
 
 When (and sometimes why) articles were included, replaced or deprecated. Often, it implies reordering the article section to balance/relate viewpoints.
 
+### Dying alone
+
+2024-09-14
+
 ### Most investments are bad
 
 2024-04-30
@@ -24,7 +28,7 @@ When (and sometimes why) articles were included, replaced or deprecated. Often, 
 
 ### Geologists say plastic rocks are now a thing
 
-2024-02-19
+2024-02-19 
 
 ### The slow frontier of genetic choice
 
