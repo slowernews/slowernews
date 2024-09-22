@@ -6,6 +6,22 @@
 			<atom:link href="https://www.slowernews.com/rss.xml" rel="self" type="application/rss+xml" />
 
 			<item>
+				<title>|INFO| Slower News Quarterly - Autumn Issue.</title>
+				<description><![CDATA[<p>Fourteenth issue of Slower News Quarterly was published.</p>]]></description>
+				<link>https://slowernews.substack.com/p/autumn-2024-issue-14</link>
+				<link>https://slowernews.substack.com/p/autumn-2024-issue-14</link>
+				<pubDate>Sun, 22 Sep 2024 09:19:30 +0000</pubDate>
+			</item>
+
+			<item>
+				<title>|Energy| Electric bikes and mopeds are cutting demand for oil far more than electric cars.</title>
+				<description><![CDATA[<p>New link (with rationale) on <a href="https://www.slowernews.com/#energy">Slower News - Energy</a> category.</p>]]></description>
+				<link>https://theconversation.com/the-worlds-280-million-electric-bikes-and-mopeds-are-cutting-demand-for-oil-far-more-than-electric-cars-213870</link>
+				<guid>https://theconversation.com/the-worlds-280-million-electric-bikes-and-mopeds-are-cutting-demand-for-oil-far-more-than-electric-cars-213870</guid>
+				<pubDate>Sun, 22 Sep 2024 09:18:30 +0000</pubDate>
+			</item>
+
+			<item>
 				<title>|Society| Dying alone.</title>
 				<description><![CDATA[<p>New link (with rationale) on <a href="https://www.slowernews.com/#society">Slower News - Society</a> category.</p>]]></description>
 				<link>https://www3.nhk.or.jp/nhkworld/en/news/20240830_02/</link>
@@ -19,14 +35,6 @@
 				<link>https://www.lynalden.com/most-investments-are-bad/</link>
 				<guid>https://www.lynalden.com/most-investments-are-bad/</guid>
 				<pubDate>Tue, 30 Apr 2024 07:18:30 +0000</pubDate>
-			</item>
-
-			<item>
-				<title>|INFO| Slower News Quarterly - Spring Issue.</title>
-				<description><![CDATA[<p>Thirteenth issue of Slower News Quarterly was published.</p>]]></description>
-				<link>https://slowernews.substack.com/p/spring-2024-issue-13</link>
-				<link>https://slowernews.substack.com/p/spring-2024-issue-13</link>
-				<pubDate>Thu, 21 Mar 2024 09:48:30 +0000</pubDate>
 			</item>
 		</channel>
 	</rss>
