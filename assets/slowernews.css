@@ -158,6 +158,9 @@ hr {
 .pageLink {
   color: var(--pageLink);  
 }
+.trend {
+  color: var(--trend);    
+}
 .fullwidth {
   max-width: 90%;
   clear: both;
