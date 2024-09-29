@@ -2,6 +2,10 @@
 
 When (and sometimes why) items were included, replaced or deprecated.
 
+### Sergio Leone - The Good, the bad and the ugly
+
+2024-09-29
+
 ### Daft Punk
 
 2024-02-03
