@@ -2,6 +2,10 @@
 
 When (and sometimes why) articles were included, replaced or deprecated. Often, it implies reordering the article section to balance/relate viewpoints.
 
+### Today's selfie is tomorrow's biometric profile
+
+2024-10-02
+
 ### Electric bikes and mopeds are cutting demand for oil far more than electric cars
 
 2024-09-22
