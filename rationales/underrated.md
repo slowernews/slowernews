@@ -2,6 +2,11 @@
 
 When (and sometimes why) items were included, replaced or even deprecated.
 
+### Arvo Part - Spiegel im spiegel
+
+2024-10-05
+
+
 ### Philip Glass - Koyaanisqatsi
 
 2024-09-14
