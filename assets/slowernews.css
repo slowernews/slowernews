@@ -200,7 +200,7 @@ hr {
 
 
 /* LINKS */
-a:link {
+a {
   color: inherit;
   text-decoration: dashed underline 1px;
   text-underline-position: under;
@@ -214,7 +214,7 @@ a:hover {
 
 a:visited {
   color: gray;
-  text-decoration: wavy line-through;
+  text-decoration: line-through wavy;
 }
 
 ::selection {
