@@ -200,7 +200,7 @@ hr {
 
 
 /* LINKS */
-a {
+a:link {
   color: inherit;
   text-decoration: dashed underline 1px;
   text-underline-position: under;
