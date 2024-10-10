@@ -202,19 +202,13 @@ hr {
 /* LINKS */
 a:link {
   color: inherit;
-  text-decoration: dashed underline 1px;
-  text-underline-position: under;
-}
-
-a:hover {
-  color: inherit;
-  text-decoration: solid underline 1px;
+  text-decoration-thickness: 1px;
   text-underline-position: under;
 }
 
 a:visited {
   color: gray;
-  text-decoration: line-through wavy;
+  text-decoration-line: line-through;
 }
 
 ::selection {
