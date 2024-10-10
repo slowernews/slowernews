@@ -202,13 +202,12 @@ hr {
 /* LINKS */
 a:link {
   color: inherit;
-  text-decoration-line: underline;
+  text-decoration: underline 1px;
   text-underline-position: under;
-  text-decoration-thickness: 1px;
 }
 
 a:visited {
-  text-decoration-line: line-through;
+  color: gray;
 }
 
 ::selection {
