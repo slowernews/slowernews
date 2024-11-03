@@ -56,7 +56,9 @@ Mr. Bungle's [concert](https://www.youtube.com/watch?v=0wVGbhunXx4) was - easily
 
 ### Maelle
 
-[Raw version](https://www.youtube.com/watch?v=RGAYk5ec12U). [Another version](https://www.youtube.com/watch?v=GjxZcCvwF7U) and a [cover by a school choral](https://www.youtube.com/watch?v=K4-ko_P3NgE)
+[Raw version](https://www.youtube.com/watch?v=RGAYk5ec12U)
+
+[Cover by a school choral](https://www.youtube.com/watch?v=K4-ko_P3NgE)
 
 ### Gabriel Gárcia Márquez
 
