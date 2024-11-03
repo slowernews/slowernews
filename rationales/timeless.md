@@ -2,6 +2,10 @@
 
 When (and sometimes why) items were included, replaced or deprecated.
 
+### Tom Odell - Another love
+
+2024-11-02
+
 ### Sergio Leone - The Good, the bad and the ugly
 
 2024-09-29

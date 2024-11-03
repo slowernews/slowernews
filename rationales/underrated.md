@@ -2,18 +2,45 @@
 
 When (and sometimes why) items were included, replaced or even deprecated.
 
+### Giogio Moroder
+
+2024-11-02
+
+### The Cure
+
+2024-11-02
+
+### Aurora
+
+2024-11-02
+
+Hard to choose a song.
+
+### Meiko Kaji
+
+2024-11-02
+
+### Umoja - La piragua
+
+2024-11-02
+
+### Peremotka - Endless summer
+
+2024-11-02
+
 ### Arvo Part - Spiegel im spiegel
 
 2024-10-05
-
 
 ### Philip Glass - Koyaanisqatsi
 
 2024-09-14
 
+See also [Einstein on the beach](https://www.youtube.com/watch?v=afW7RGY-CQw)
+
 ### Sofia Coppola - Lost in translation
 
-2024-05-02
+2024-05-02 »
 
 Probably timeless. Listed as underrated, for now.
 
