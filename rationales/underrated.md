@@ -2,6 +2,10 @@
 
 When (and sometimes why) items were included, replaced or even deprecated.
 
+### Kiesza
+
+2024-11-02
+
 ### Giogio Moroder
 
 2024-11-02
