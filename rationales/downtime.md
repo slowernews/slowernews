@@ -2,7 +2,7 @@
 
 When (and sometimes why) items were included, replaced or even deprecated.
 
-### The knife
+### The knife, Mr. Bungle (pink cigarettes), Gorillaz (melancholy hill)
 
 2024-11-04
 
