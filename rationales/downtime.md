@@ -2,6 +2,10 @@
 
 When (and sometimes why) items were included, replaced or even deprecated.
 
+### The knife
+
+2024-11-04
+
 ### Kiesza, Giogio Moroder, The Cure, Aurora, Tom Odell, Meiko Kaji, Umoja, Peremotka (endless summer)
 
 2024-11-02
