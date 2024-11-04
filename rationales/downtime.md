@@ -54,6 +54,8 @@ Classical percussion cover. The [baritone horn/tuba](https://www.youtube.com/wat
 
 Mr. Bungle's [concert](https://www.youtube.com/watch?v=0wVGbhunXx4) was - easily - the best one I ever assisted.
 
+[Pink cigarette cover](https://www.youtube.com/watch?v=4zYSR_UqNfU)
+
 ### Roisin Murphy
 
 [Here's](https://www.youtube.com/watch?v=YYQ6wAmHo-w) more. [Real artists](https://www.youtube.com/watch?v=z9u0-3H4I4o) are [humble](https://www.youtube.com/watch?v=Cq1mn7nllTQ). 
