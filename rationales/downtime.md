@@ -2,6 +2,10 @@
 
 When (and sometimes why) items were included, replaced or even deprecated.
 
+### Arctic Monkeys, Joanna Newson, Carlos Paião, Boney M
+
+2024-11-07
+
 ### The knife, Mr. Bungle (pink cigarettes), Gorillaz (melancholy hill)
 
 2024-11-04
