@@ -6,6 +6,14 @@
 			<atom:link href="https://www.slowernews.com/rss.xml" rel="self" type="application/rss+xml" />
 
 			<item>
+				<title>|Geopolitics| The empire strikes back.</title>
+				<description><![CDATA[<p>New link (with rationale) on <a href="https://www.slowernews.com/#geopolitics">Slower News - Geopolitics</a> category.</p>]]></description>
+				<link>https://www.youtube.com/watch?v=7XckpZzxbG0</link>
+				<guid>https://www.youtube.com/watch?v=7XckpZzxbG0</guid>
+				<pubDate>Mon, 11 Nov 2024 09:18:30 +0000</pubDate>
+			</item>
+
+			<item>
 				<title>|Politics| Today's selfie is tomorrow's biometric profile.</title>
 				<description><![CDATA[<p>New link (with rationale) on <a href="https://www.slowernews.com/#politics">Slower News - Politics</a> category.</p>]]></description>
 				<link>https://adam.harvey.studio/todays-selfie/</link>
@@ -35,14 +43,6 @@
 				<link>https://www3.nhk.or.jp/nhkworld/en/news/20240830_02/</link>
 				<guid>https://www3.nhk.or.jp/nhkworld/en/news/20240830_02/</guid>
 				<pubDate>Sat, 14 Sep 2024 09:18:30 +0000</pubDate>
-			</item>
-
-			<item>
-				<title>|Economy and business| Most investments are bad.</title>
-				<description><![CDATA[<p>New link (with rationale) on <a href="https://www.slowernews.com/#economy-and-business">Slower News - Economy and business</a> category.</p>]]></description>
-				<link>https://www.lynalden.com/most-investments-are-bad/</link>
-				<guid>https://www.lynalden.com/most-investments-are-bad/</guid>
-				<pubDate>Tue, 30 Apr 2024 07:18:30 +0000</pubDate>
 			</item>
 		</channel>
 	</rss>

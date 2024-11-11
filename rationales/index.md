@@ -2,6 +2,12 @@
 
 When (and sometimes why) articles were included, replaced or deprecated. Often, it implies reordering the article section to balance/relate viewpoints.
 
+### The empire strikes back
+
+2024-11-11
+
+This propaganda video (made by common people) synthesizes America's resilience and hope in continuing to lead the world.
+
 ### Today's selfie is tomorrow's biometric profile
 
 2024-10-02
