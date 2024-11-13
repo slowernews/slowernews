@@ -1,34 +1,10 @@
 # Rationale - Underrated
 
-When (and sometimes why) items were included, replaced or even deprecated.
-
-### Arctic Monkeys, Joanna Newson, Carlos Paião, Boney M
-
-2024-11-07
-
-### The knife, Mr. Bungle (pink cigarettes), Gorillaz (melancholy hill)
-
-2024-11-04
-
-### Kiesza, Giogio Moroder, The Cure, Aurora, Tom Odell, Meiko Kaji, Umoja, Peremotka (endless summer)
-
-2024-11-02
-
-### Arvo Part
-
-2024-10-05
-
-### Sergio Leone
-
-2024-09-29
-
 ### Philip Glass
 
 [Koyaanisqatsi](https://www.youtube.com/watch?v=KC0FroHjB94)
 
 See also [Einstein on the beach](https://www.youtube.com/watch?v=afW7RGY-CQw)
-
----
 
 ### Carlos Saura
 
@@ -82,7 +58,7 @@ Timeless interviews from [1990](https://www.youtube.com/watch?v=ItllhYhQR4Q) & [
 
 ### Julio Pereira
 
-[Cavaquinho](https://www.youtube.com/watch?v=J6JKzRQwer0). What is a [Cavaquinho](https://en.wikipedia.org/wiki/Cavaquinho)
+[Cavaquinho](https://www.youtube.com/watch?v=J6JKzRQwer0). [Info](https://en.wikipedia.org/wiki/Cavaquinho).
 
 [Sete instrumentos](https://www.youtube.com/watch?v=YVFu_0wUjk8)
 
