@@ -1,4 +1,4 @@
-# Rationale - Underrated
+# Rationale - Downtime
 
 ### Philip Glass
 
@@ -32,7 +32,7 @@ Daft Punk's imaginary last concert.
 
 ### Paulo Coelho
 
-Timeless interviews from [1990](https://www.youtube.com/watch?v=ItllhYhQR4Q) & [1994](https://www.youtube.com/watch?v=4AwUM3Br_Pg)
+Timeless interviews from [1990](https://www.youtube.com/watch?v=ItllhYhQR4Q) & [1994](https://www.youtube.com/watch?v=4AwUM3Br_Pg).
 
 ### Ganhões Castro Verde
 
@@ -56,7 +56,7 @@ Classical percussion cover. The [baritone horn/tuba](https://www.youtube.com/wat
 
 Mr. Bungle's [concert](https://www.youtube.com/watch?v=0wVGbhunXx4) was - easily - the best one I ever assisted.
 
-[Pink cigarette](https://www.youtube.com/watch?v=TwWQYg7aS5o) and [a great cover](https://www.youtube.com/watch?v=4zYSR_UqNfU)
+[Pink cigarette](https://www.youtube.com/watch?v=TwWQYg7aS5o) and [a great cover](https://www.youtube.com/watch?v=4zYSR_UqNfU).
 
 ### Roisin Murphy
 
