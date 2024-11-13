@@ -2,9 +2,7 @@
 
 ### Philip Glass
 
-[Koyaanisqatsi](https://www.youtube.com/watch?v=KC0FroHjB94)
-
-See also [Einstein on the beach](https://www.youtube.com/watch?v=afW7RGY-CQw)
+[Koyaanisqatsi](https://www.youtube.com/watch?v=KC0FroHjB94). See also [Einstein on the beach](https://www.youtube.com/watch?v=afW7RGY-CQw).
 
 ### Carlos Saura
 
@@ -30,9 +28,7 @@ Daft Punk's imaginary last concert.
 
 ### Labrinth
 
-[Forever](https://www.youtube.com/watch?v=03nR6eWanXs)
-
-[Mount Everest](https://www.youtube.com/watch?v=4yPZs81lK3w)
+[Forever](https://www.youtube.com/watch?v=03nR6eWanXs) / [Mount Everest](https://www.youtube.com/watch?v=4yPZs81lK3w)
 
 ### Paulo Coelho
 
@@ -40,27 +36,19 @@ Timeless interviews from [1990](https://www.youtube.com/watch?v=ItllhYhQR4Q) & [
 
 ### Ganhões Castro Verde
 
-[Grandola vila morena](https://en.wikipedia.org/wiki/Gr%C3%A2ndola,_Vila_Morena)
-
-[Cante alentejano](https://en.wikipedia.org/wiki/Cante_Alentejano)
+More info: [Grandola vila morena](https://en.wikipedia.org/wiki/Gr%C3%A2ndola,_Vila_Morena) / [Cante alentejano](https://en.wikipedia.org/wiki/Cante_Alentejano).
 
 ### Barbatuques
 
-[Carcará](https://www.youtube.com/watch?v=9GuvFw9f_XQ)
-
-[Samba lelê](https://www.youtube.com/watch?v=_Tz7KROhuAw)
+[Carcará](https://www.youtube.com/watch?v=9GuvFw9f_XQ) / [Samba lelê](https://www.youtube.com/watch?v=_Tz7KROhuAw)
 
 ### Chico Buarque
 
-[Info about Cálice](https://en.wikipedia.org/wiki/Chico_Buarque#.22C.C3.A1lice.22)
-
-[Construção](https://www.youtube.com/watch?v=vmGrRmXivmM). [Info](https://en.wikipedia.org/wiki/Constru%C3%A7%C3%A3o_(song))
+[Construção](https://www.youtube.com/watch?v=vmGrRmXivmM). More info on [construção](https://en.wikipedia.org/wiki/Constru%C3%A7%C3%A3o_(song)) and on [cálice](https://en.wikipedia.org/wiki/Chico_Buarque#.22C.C3.A1lice.22).
 
 ### Julio Pereira
 
-[Cavaquinho](https://www.youtube.com/watch?v=J6JKzRQwer0). [Info](https://en.wikipedia.org/wiki/Cavaquinho).
-
-[Sete instrumentos](https://www.youtube.com/watch?v=YVFu_0wUjk8)
+[Sete instrumentos](https://www.youtube.com/watch?v=YVFu_0wUjk8) / [Cavaquinho](https://www.youtube.com/watch?v=J6JKzRQwer0). More info on [cavaquinho](https://en.wikipedia.org/wiki/Cavaquinho).
 
 ### Mr. Bungle
 
@@ -72,21 +60,13 @@ Mr. Bungle's [concert](https://www.youtube.com/watch?v=0wVGbhunXx4) was - easily
 
 ### Roisin Murphy
 
-[The time is now](https://www.youtube.com/watch?v=jR9Ke02m_zk)
-
-[Indigo](https://www.youtube.com/watch?v=effZOf10Iwk)
-
-[familiar feeling](https://www.youtube.com/watch?v=PFtbSydasFY)
-
-[Overpowered](https://www.youtube.com/watch?v=5qpyvYn5-tw)
+[Indigo](https://www.youtube.com/watch?v=effZOf10Iwk) / [The time is now](https://www.youtube.com/watch?v=jR9Ke02m_zk) / [familiar feeling](https://www.youtube.com/watch?v=PFtbSydasFY) / [Overpowered](https://www.youtube.com/watch?v=5qpyvYn5-tw)
 
 [Here's](https://www.youtube.com/watch?v=YYQ6wAmHo-w) more. [Real artists](https://www.youtube.com/watch?v=z9u0-3H4I4o) are [humble](https://www.youtube.com/watch?v=Cq1mn7nllTQ). 
 
 ### Maelle
 
-[Toutes les machines ont un coeur](https://www.youtube.com/watch?v=UVz3xR1X9RU)
-
-[Flash acoustic](https://www.youtube.com/watch?v=nRHWYOSYqMI) / [Raw version](https://www.youtube.com/watch?v=RGAYk5ec12U)
+[Toutes les machines ont un coeur](https://www.youtube.com/watch?v=UVz3xR1X9RU) / [Flash](https://www.youtube.com/watch?v=nRHWYOSYqMI) and a [raw version](https://www.youtube.com/watch?v=RGAYk5ec12U)
 
 [Cover by a school choral](https://www.youtube.com/watch?v=K4-ko_P3NgE)
 
