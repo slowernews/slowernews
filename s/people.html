@@ -2,7 +2,7 @@
 
 <html lang="en">
 <head>
-	<title>Slower News | Kaspa currency</title>
+	<title>Slower News | People</title>
 	<meta charset="UTF-8">
 	<meta name="description" content="Keep up with relevant trends, micro-trends and edge cases without spending a shit-ton of time distilling trivia.">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
@@ -31,37 +31,6 @@
 		var topLink = document.getElementById("topLink");
 		topLink.innerText = linkText[idRandom];
 		topLink.setAttribute("href", linkURL[idRandom])
-
-
-		// Function to get Kaspa's last price from CoinGecko API
-		async function getKaspaPrice() {
-			const url = 'https://api.coingecko.com/api/v3/simple/price?ids=kaspa&vs_currencies=usd'; // CoinGecko API endpoint for Kaspa (KAS) price
-			const response = await fetch(url); // Fetch data from the API
-			const jsonData = await response.json(); // Parse JSON response
-			const kaspaPriceUSD = jsonData.kaspa.u
-			document.getElementById('kaspaPrice').innerText = `$${kaspaPriceUSD.toFixed(3)}`;
-		}
-		
-		/* Function to get Kaspa's last price from CoinGecko API
-		async function getKaspaPrice() {
-		    try {
-		        const url = 'https://api.coingecko.com/api/v3/simple/price?ids=kaspa&vs_currencies=usd'; // CoinGecko API endpoint for Kaspa (KAS) price
-		        const response = await fetch(url); // Fetch data from the API
-		        if (!response.ok) {throw new Error(`HTTP error! status: ${response.status}`);} // Check if the response is OK
-		        const jsonData = await response.json(); // Parse JSON response
-		        const kaspaPriceUSD = jsonData.kaspa.usd;
-				document.getElementById('kaspaPrice').innerText = `$${kaspaPriceUSD.toFixed(3)}`;
-		    } catch (error) {
-		        console.error('Failed to fetch Kaspa price:', error);
-		        document.getElementById('kaspaPrice').innerText = 'Failed to load price. Check console for errors.';
-		    }
-		} */
-
-		// Call the function to update the price on page load
-		document.addEventListener('DOMContentLoaded', getKaspaPrice);
-
-		// Optional: Update price every 600000 milliseconds = 600 seconds = 10 minutes
-		// setInterval(getKaspaPrice, 600000);
 	</script>
 
 <nav class="fullwidth">
@@ -97,19 +66,20 @@
 </nav>
 
 <header>
-	<h1>Kaspa currency</h1>
+	<h1>People</h1>
 	<p class="subtitle">Relevant trends & some edge cases</p>
 </header>
 
 <main>
 	<section>
-		<br>
-		<p>1 KAS = <span id="kaspaPrice"></span> | <a href="https://kas.fyi/">General info</a> | <a href="https://kas.fyi/top-addresses">Holders</a> | <a href="https://kas.fyi/krc20-tokens">KRC-20</a> | <a href="https://www.reddit.com/r/kaspa/new/">On Reddit</a> | <a href="https://www.coingecko.com/en/coins/kaspa">On Coingecko</a> | <a href="https://coinmarketcap.com/currencies/kaspa/">On Coinmarketcap</a></p> 
-	</section>
-	<section>
-		<h2>News:</h2>
+		<h2>Contemporary:</h2>
 		<ul>
-			<li class="recent">[2024-11-19] Kaspa was listed in a Tier 1 CEX: Kraken.</li>
+			<li>[1970] Javier Milei (ar)</li>
+			<li>[1971] Elon Musk (za)</li>
+			<li>[1974] Naval Ravikant (in)</li>
+			<li>[1981] Nayib Bukele (sv)</li>
+			<li>[1983] Lex Fridman (ru)</li>
+			<li>[2003] <a href="https://en.wikipedia.org/wiki/Greta_Thunberg">Greta Thunberg</a> (se)</li>
 		</ul>
 	</section>
 </main>
@@ -124,7 +94,7 @@ eutanasia
 	<p style="color: gray">«News are the first draft of History.» – Anonymous</p><br>
 
 	<h3>What is this?</h3>
-	<p>A «secret» page with news too specific for main page. Kaspa currency news without trivia and rampant propaganda.</p>
+	<p>A «secret» page with news too specific for main page.</p>
 
 	<h3>Why?</h3>
 	<p>I wanted to read something like this - an information flood is drowning our times - but I couldn’t find it elsewhere. So, as most projects, it started while «scratching my own itch» and before becoming a website it lived as a markdown file.</p>
