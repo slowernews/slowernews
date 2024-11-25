@@ -32,30 +32,21 @@
 		topLink.innerText = linkText[idRandom];
 		topLink.setAttribute("href", linkURL[idRandom])
 
-
+	
 		// Function to get Kaspa's last price from CoinGecko API
 		async function getKaspaPrice() {
-			const url = 'https://api.coingecko.com/api/v3/simple/price?ids=kaspa&vs_currencies=usd'; // CoinGecko API endpoint for Kaspa (KAS) price
-			const response = await fetch(url); // Fetch data from the API
-			const jsonData = await response.json(); // Parse JSON response
-			const kaspaPriceUSD = jsonData.kaspa.u
-			document.getElementById('kaspaPrice').innerText = `$${kaspaPriceUSD.toFixed(3)}`;
-		}
-		
-		/* Function to get Kaspa's last price from CoinGecko API
-		async function getKaspaPrice() {
-		    try {
-		        const url = 'https://api.coingecko.com/api/v3/simple/price?ids=kaspa&vs_currencies=usd'; // CoinGecko API endpoint for Kaspa (KAS) price
-		        const response = await fetch(url); // Fetch data from the API
-		        if (!response.ok) {throw new Error(`HTTP error! status: ${response.status}`);} // Check if the response is OK
-		        const jsonData = await response.json(); // Parse JSON response
-		        const kaspaPriceUSD = jsonData.kaspa.usd;
+			try {
+				const url = 'https://api.coingecko.com/api/v3/simple/price?ids=kaspa&vs_currencies=usd'; // CoinGecko API endpoint for Kaspa (KAS) price
+				const response = await fetch(url); // Fetch data from the API
+				if (!response.ok) {throw new Error(`HTTP error! status: ${response.status}`);} // Check if the response is OK
+				const jsonData = await response.json(); // Parse JSON response
+				const kaspaPriceUSD = jsonData.kaspa.usd;
 				document.getElementById('kaspaPrice').innerText = `$${kaspaPriceUSD.toFixed(3)}`;
-		    } catch (error) {
-		        console.error('Failed to fetch Kaspa price:', error);
-		        document.getElementById('kaspaPrice').innerText = 'Failed to load price. Check console for errors.';
-		    }
-		} */
+			} catch (error) {
+				console.error('Failed to fetch Kaspa price:', error);
+				document.getElementById('kaspaPrice').innerText = 'Failed to load price. Check console for errors.';
+			}
+		}
 
 		// Call the function to update the price on page load
 		document.addEventListener('DOMContentLoaded', getKaspaPrice);
