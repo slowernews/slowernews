@@ -10,7 +10,7 @@ When (and sometimes why) articles were included, replaced or deprecated. Often, 
 
 2023-12-12
 
-### 
+### 7th highest personal income tax and the 2nd highest corporate tax rate in Europe
 
 2023-12-10
 
