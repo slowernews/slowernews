@@ -2,6 +2,12 @@
 
 When (and sometimes why) articles were included, replaced or deprecated. Often, it implies reordering the article section to balance/relate viewpoints.
 
+### AI's sputnik moment
+
+2025-02-05
+
+China has proved that it is overtaking the US in scientific research.
+
 ### The empire strikes back
 
 2024-11-11
