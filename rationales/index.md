@@ -2,6 +2,12 @@
 
 When (and sometimes why) articles were included, replaced or deprecated. Often, it implies reordering the article section to balance/relate viewpoints.
 
+### Decline in teen drug use continues
+
+2025-02-05
+
+I wonder if the new drug of choice is actually technology.
+
 ### AI's sputnik moment
 
 2025-02-05
