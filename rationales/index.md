@@ -2,6 +2,12 @@
 
 When (and sometimes why) articles were included, replaced or deprecated. Often, it implies reordering the article section to balance/relate viewpoints.
 
+### Who killed the rave? Late-night dancing falls into global decline
+
+2025-03-20
+
+I’m not sure yet how to categorize this or what the meaning is.
+
 ### Decline in teen drug use continues
 
 2025-02-05
