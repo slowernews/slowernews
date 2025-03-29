@@ -2,6 +2,10 @@
 
 When (and sometimes why) articles were included, replaced or deprecated. Often, it implies reordering the article section to balance/relate viewpoints.
 
+### Balcony solar
+
+2025-03-29
+
 ### Who killed the rave? Late-night dancing falls into global decline
 
 2025-03-20

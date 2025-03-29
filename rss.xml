@@ -6,6 +6,14 @@
 			<atom:link href="https://www.slowernews.com/rss.xml" rel="self" type="application/rss+xml" />
 
 			<item>
+				<title>|Energy| Balcony solar.</title>
+				<description><![CDATA[<p>New link (with rationale) on <a href="https://www.slowernews.com/#energy">Slower News - Energy</a> category.</p>]]></description>
+				<link>https://www.theguardian.com/environment/2024/dec/18/if-a-million-germans-have-them-there-must-be-something-in-it-how-balcony-solar-is-taking-off</link>
+				<guid>https://www.theguardian.com/environment/2024/dec/18/if-a-million-germans-have-them-there-must-be-something-in-it-how-balcony-solar-is-taking-off</guid>
+				<pubDate>Sat, 29 Mar 2025 09:18:30 +0000</pubDate>
+			</item>
+
+			<item>
 				<title>|INFO| Slower News Semiannual - Spring Issue.</title>
 				<description><![CDATA[<p>Fifteenth issue of Slower News Semiannual was published.</p>]]></description>
 				<link>https://slowernews.substack.com/p/spring-2025-issue-15</link>
@@ -43,38 +51,6 @@
 				<link>https://www.youtube.com/watch?v=7XckpZzxbG0</link>
 				<guid>https://www.youtube.com/watch?v=7XckpZzxbG0</guid>
 				<pubDate>Mon, 11 Nov 2024 09:18:30 +0000</pubDate>
-			</item>
-
-			<item>
-				<title>|Politics| Today's selfie is tomorrow's biometric profile.</title>
-				<description><![CDATA[<p>New link (with rationale) on <a href="https://www.slowernews.com/#politics">Slower News - Politics</a> category.</p>]]></description>
-				<link>https://adam.harvey.studio/todays-selfie/</link>
-				<guid>https://adam.harvey.studio/todays-selfie/</guid>
-				<pubDate>Wed, 2 Oct 2024 09:18:30 +0000</pubDate>
-			</item>
-
-			<item>
-				<title>|INFO| Slower News Semiannual - Autumn Issue.</title>
-				<description><![CDATA[<p>Fourteenth issue of Slower News Semiannual was published.</p>]]></description>
-				<link>https://slowernews.substack.com/p/autumn-2024-issue-14</link>
-				<guid>https://slowernews.substack.com/p/autumn-2024-issue-14</guid>
-				<pubDate>Sun, 22 Sep 2024 09:19:30 +0000</pubDate>
-			</item>
-
-			<item>
-				<title>|Energy| Electric bikes and mopeds are cutting demand for oil far more than electric cars.</title>
-				<description><![CDATA[<p>New link (with rationale) on <a href="https://www.slowernews.com/#energy">Slower News - Energy</a> category.</p>]]></description>
-				<link>https://theconversation.com/the-worlds-280-million-electric-bikes-and-mopeds-are-cutting-demand-for-oil-far-more-than-electric-cars-213870</link>
-				<guid>https://theconversation.com/the-worlds-280-million-electric-bikes-and-mopeds-are-cutting-demand-for-oil-far-more-than-electric-cars-213870</guid>
-				<pubDate>Sun, 22 Sep 2024 09:18:30 +0000</pubDate>
-			</item>
-
-			<item>
-				<title>|Society| Dying alone.</title>
-				<description><![CDATA[<p>New link (with rationale) on <a href="https://www.slowernews.com/#society">Slower News - Society</a> category.</p>]]></description>
-				<link>https://www3.nhk.or.jp/nhkworld/en/news/20240830_02/</link>
-				<guid>https://www3.nhk.or.jp/nhkworld/en/news/20240830_02/</guid>
-				<pubDate>Sat, 14 Sep 2024 09:18:30 +0000</pubDate>
 			</item>
 		</channel>
 	</rss>
