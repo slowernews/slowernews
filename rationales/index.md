@@ -2,6 +2,12 @@
 
 When (and sometimes why) articles were included, replaced or deprecated. Often, it implies reordering the article section to balance/relate viewpoints.
 
+### Vibe coding
+
+2025-04-13
+
+A neologism that has come to stay.
+
 ### Balcony solar
 
 2025-03-29
