@@ -14,7 +14,25 @@
 </head>
 
 <body>
-	<p class="greatLink"><a href="../">You’ll get a link like this one on all pages.</a></p>
+	<p class="greatLink"><a id="topLink" href=""></a></p>
+	<script>
+		var linkURL = [
+		  "https://slowernews.com/sponsor"
+		, "https://slowernews.com/sponsor"
+		, "https://slowernews.substack.com/welcome"
+		];
+
+		var linkText = [
+		  "The only AD in this page!"
+		, "Show your product here for just $99 per semester!"
+		, "There is a semiannual newsletter also!"
+		];
+
+		var idRandom = Math.floor(Math.random()*linkURL.length);
+		var topLink = document.getElementById("topLink");
+		topLink.innerText = linkText[idRandom];
+		topLink.setAttribute("href", linkURL[idRandom])
+	</script>
 
 <nav class="fullwidth">
 	<details>
@@ -53,18 +71,18 @@
 
 <header>
 	<h1>Slower News</h1>
-	<p class="subtitle">How to sponsor it?</p>
+	<p class="subtitle">How to donate?</p>
 </header>
 
 <main>
 	<section>
-		<ul>
-			<li><h4>Non-negotiable: only one sponsor and one (colored) text link.</h4> (adblock resistant - no JS) on the top of the <a href="https://slowernews.com/">all pages</a> and on the <a href="https://slowernews.substack.com/">semiannual newsletter</a>. 140 Unicode characters allowed.</li>
-			<li><h4>Current (and minimum) price of the main page: $99 per semester.</h4>
-			When the spot is taken, you may propose a price «raise». Two weeks before the end of the semester, the incubent will be informed of the highest raise - if any. The incumbent may «call» the price and keep the spot. The new price will be updated here.</li>
-			<li><h4><a href="https://slowernews.goatcounter.com">Past traffic (not using adblock!)</a></h4> Most traffic is direct. Most people found Slower News on <a href="https://news.ycombinator.com/item?id=25535456">Hacker News.</a></li>
-			<li><h4>Crypto or Paypal.</h4> Don’t expect receipts. Like Slower News itself, the process is analogic and quixotic. Hopefully <a href="https://news.ycombinator.com/user?id=galfarragem">trustable.</a></li>
-			<li>Even if you found something less palatable <a href="mailto:archimodelsblog@gmail.com">say hi, maybe we can work it out.</a> Don't be shy.</li>
+		<ul style="word-wrap: break-word;">
+			<li><h4><a href="https://www.paypal.com/donate?hosted_button_id=4J432LXV72VD4">Paypal</a> or crypto.</h4> Don’t expect receipts. Like Slower News itself, the process is analogic and quixotic. Hopefully <a href="https://news.ycombinator.com/user?id=galfarragem">trustable.</a> Any question just <a href="mailto:archimodelsblog@gmail.com">say hi</a>. Don't be shy!</li><br><br>
+			<li><h4>[BTC]</h4> <code>1Auz3oMdBeJsomGVFNUyAvYEao5CgWKj3V</code></li>
+			<li><h4>[ETH via eth/base/op/arb/bnb]</h4> <code>0x9779535E66E8BC90e30e4A31A4043466aDA53607</code></li>
+			<li><h4>[SOL]</h4> <code>2UMmaZMkAs5PJKhmgJekgBSo7FX6kPjj5XpUemsHsbE1</code></li>
+			<li><h4>[MNR]</h4> <code>4DSQMNzzq46N1z2pZWAVdeA6JvUL9TCB2bnBiA3ZzoqEdYJnMydt5akCa3vtmapeDsbVKGPFdNkzqTcJS8M8oyK7WGjgKow2cpe8ni8WAr</code></li>
+			<li><h4>[KAS]</h4> <code>kaspa:qp7fru4qfhzphm54ahparmdaeq0j4d2lw36hyhjye758q5rhutpmxa34hlr8s</code></li>
 		</ul>
 	</section>
 </main>
@@ -92,7 +110,7 @@
 	<h3>Colophon</h3>
 	<p>Hand coded - fully functional without JS - and statically hosted at Netlify via a Github repository. Tufte CSS (adapted) with native darkmode. No images, no tracking (GDPR friendly analytics with <a href="https://slowernews.goatcounter.com">Goatcounter</a>) and no bloat. Ok, it uses non-standard fonts but web design is mostly typography. If you are curious, this is my <a href="https://github.com/slowernews/notebook/blob/master/on-toolbox.md">toolbox</a>.</p>
 	<hr>
-	<small>Updated: 2024-10-01 | <a href="https://github.com/slowernews/slowernews#slower-news---faq">All FAQ</a> | <a href="https://slowernews.substack.com/welcome">Newsletter</a> | <a href="https://www.slowernews.com/rss.xml">RSS</a> | * Proudly curated by humans since 2020 *</small>
+	<small>Updated: 2025-06-12 | <a href="https://github.com/slowernews/slowernews#slower-news---faq">All FAQ</a> | <a href="https://slowernews.substack.com/welcome">Newsletter</a> | <a href="https://www.slowernews.com/rss.xml">RSS</a> | * Proudly curated by humans since 2020 *</small>
 </footer>
 
 <script data-goatcounter="https://slowernews.goatcounter.com/count"
