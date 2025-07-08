@@ -10,9 +10,9 @@ I discovered this director recently. Timeless and completely underrated movies. 
 
 ### Daft Punk
 
-Covers: [Veridis quo](https://www.youtube.com/watch?v=DPp-ATdi3KM) / [Within](https://www.youtube.com/watch?v=4mnb7FLjM5Y) / [Church organ cover](https://www.youtube.com/watch?v=H52dy28o_Vk)
+[veridis quo](https://www.youtube.com/watch?v=ySLc8gZ3oEc)
 
-Lofi: [veridis quo](https://www.youtube.com/watch?v=ZHasBtOg3dY)
+Covers: [Veridis quo](https://www.youtube.com/watch?v=DPp-ATdi3KM) / [Within](https://www.youtube.com/watch?v=4mnb7FLjM5Y) / [Church organ cover](https://www.youtube.com/watch?v=H52dy28o_Vk)
 
 ### Wong Kar-wai
 
