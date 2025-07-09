@@ -2,6 +2,10 @@
 
 When (and sometimes why) articles were included, replaced or deprecated. Often, it implies reordering the article section to balance/relate viewpoints.
 
+### Surviving the LLMs
+
+2025-07-09
+
 ### Vibe coding
 
 2025-04-13
