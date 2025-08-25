@@ -2,7 +2,7 @@
 
 When (and sometimes why) articles were included, replaced or deprecated. Often, it implies reordering the article section to balance/relate viewpoints.
 
-### Helding breath for 29 minutes
+### Holding breath for 29 minutes
 
 2025-08-25
 
