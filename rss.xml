@@ -6,6 +6,14 @@
 			<atom:link href="https://www.slowernews.com/rss.xml" rel="self" type="application/rss+xml" />
 
 			<item>
+				<title>|Sports| Helding breath for 29 minutes.</title>
+				<description><![CDATA[<p>New link (with rationale) on <a href="https://www.slowernews.com/#sports">Slower News - Sports</a> category.</p>]]></description>
+				<link>https://divernet.com/scuba-news/freediving/how-croatian-freediver-held-breath-for-29-minutes/</link>
+				<guid>https://divernet.com/scuba-news/freediving/how-croatian-freediver-held-breath-for-29-minutes/</guid>
+				<pubDate>Mon, 25 Aug 2025 09:18:30 +0000</pubDate>
+			</item>
+
+			<item>
 				<title>|Work, education and skills| Surviving the LLMs.</title>
 				<description><![CDATA[<p>New link (with rationale) on <a href="https://www.slowernews.com/#work-education-and-skills">Slower News - Work, Education And Skills</a> category.</p>]]></description>
 				<link>https://daedtech.com/surviving-the-great-commoditizer-stop-getting-good-at-chatgpt/</link>
@@ -43,22 +51,6 @@
 				<link>https://archive.is/ul4Ui</link>
 				<guid>https://archive.is/ul4Ui</guid>
 				<pubDate>Thu, 20 Mar 2025 09:18:30 +0000</pubDate>
-			</item>
-
-			<item>
-				<title>|Health| Decline in teen drug use continues.</title>
-				<description><![CDATA[<p>New link (with rationale) on <a href="https://www.slowernews.com/#health">Slower News - Health</a> category. I wonder if the new drug of choice is actually technology.</p>]]></description>
-				<link>https://arstechnica.com/health/2024/12/the-kids-are-maybe-alright-teen-drug-use-hits-new-lows-in-ongoing-decline/</link>
-				<guid>https://arstechnica.com/health/2024/12/the-kids-are-maybe-alright-teen-drug-use-hits-new-lows-in-ongoing-decline/</guid>
-				<pubDate>Wed, 5 Feb 2025 11:18:30 +0000</pubDate>
-			</item>
-
-			<item>
-				<title>|Geopolitics| AI's sputnik moment.</title>
-				<description><![CDATA[<p>New link (with rationale) on <a href="https://www.slowernews.com/#geopolitics">Slower News - Geopolitics</a> category. China has proved that it is overtaking the US in scientific research.</p>]]></description>
-				<link>https://www.theguardian.com/technology/2025/jan/28/who-is-behind-deepseek-and-how-did-it-achieve-its-ai-sputnik-moment</link>
-				<guid>https://www.theguardian.com/technology/2025/jan/28/who-is-behind-deepseek-and-how-did-it-achieve-its-ai-sputnik-moment</guid>
-				<pubDate>Wed, 5 Feb 2025 09:18:30 +0000</pubDate>
 			</item>
 		</channel>
 	</rss>
