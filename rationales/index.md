@@ -2,6 +2,12 @@
 
 When (and sometimes why) articles were included, replaced or deprecated. Often, it implies reordering the article section to balance/relate viewpoints.
 
+### AI is changing the internet
+
+2025-09-23
+
+We don’t fully understand it yet - but the internet as we knew it is already gone.
+
 ### Holding breath for 29 minutes
 
 2025-08-25

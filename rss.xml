@@ -6,6 +6,22 @@
 			<atom:link href="https://www.slowernews.com/rss.xml" rel="self" type="application/rss+xml" />
 
 			<item>
+				<title>|INFO| Slower News Semiannual - Autumn Issue.</title>
+				<description><![CDATA[<p>Sixteenth issue of Slower News Semiannual was published.</p>]]></description>
+				<link>https://slowernews.substack.com/p/autumn-2025-issue-16</link>
+				<guid>https://slowernews.substack.com/p/autumn-2025-issue-16</guid>
+				<pubDate>Tue, 23 Sep 2025 10:18:30 +0000</pubDate>
+			</item>
+
+			<item>
+				<title>|Media| AI is changing the internet.</title>
+				<description><![CDATA[<p>New link (with rationale) on <a href="https://www.slowernews.com/#media">Slower News - Media</a> category.</p>]]></description>
+				<link>https://www.squarepeg.vc/blog/ai-is-changing-the-internet</link>
+				<guid>https://www.squarepeg.vc/blog/ai-is-changing-the-internet</guid>
+				<pubDate>Tue, 23 Sep 2025 09:18:30 +0000</pubDate>
+			</item>
+
+			<item>
 				<title>|Sports| Holding breath for 29 minutes.</title>
 				<description><![CDATA[<p>New link (with rationale) on <a href="https://www.slowernews.com/#sports">Slower News - Sports</a> category.</p>]]></description>
 				<link>https://divernet.com/scuba-news/freediving/how-croatian-freediver-held-breath-for-29-minutes/</link>
@@ -35,22 +51,6 @@
 				<link>https://www.theguardian.com/environment/2024/dec/18/if-a-million-germans-have-them-there-must-be-something-in-it-how-balcony-solar-is-taking-off</link>
 				<guid>https://www.theguardian.com/environment/2024/dec/18/if-a-million-germans-have-them-there-must-be-something-in-it-how-balcony-solar-is-taking-off</guid>
 				<pubDate>Sat, 29 Mar 2025 09:18:30 +0000</pubDate>
-			</item>
-
-			<item>
-				<title>|INFO| Slower News Semiannual - Spring Issue.</title>
-				<description><![CDATA[<p>Fifteenth issue of Slower News Semiannual was published.</p>]]></description>
-				<link>https://slowernews.substack.com/p/spring-2025-issue-15</link>
-				<guid>https://slowernews.substack.com/p/spring-2025-issue-15</guid>
-				<pubDate>Thu, 20 Mar 2025 10:18:30 +0000</pubDate>
-			</item>
-
-			<item>
-				<title>|Culture, beliefs and ethics| Who killed the rave? Late-night dancing falls into global decline.</title>
-				<description><![CDATA[<p>New link (with rationale) on <a href="https://www.slowernews.com/#culture-beliefs-and-ethics">Slower News - Culture, beliefs and ethics</a> category.</p>]]></description>
-				<link>https://archive.is/ul4Ui</link>
-				<guid>https://archive.is/ul4Ui</guid>
-				<pubDate>Thu, 20 Mar 2025 09:18:30 +0000</pubDate>
 			</item>
 		</channel>
 	</rss>
