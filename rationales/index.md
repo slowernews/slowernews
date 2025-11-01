@@ -2,6 +2,12 @@
 
 When (and sometimes why) articles were included, replaced or deprecated. Often, it implies reordering the article section to balance/relate viewpoints.
 
+### Grokipedia
+
+2025-11-01
+
+Grokipedia is new but it’s a serious contender to Wikipedia. AI is rewriting the internet.
+
 ### AI is changing the internet
 
 2025-09-23

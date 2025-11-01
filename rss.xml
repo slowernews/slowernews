@@ -6,6 +6,14 @@
 			<atom:link href="https://www.slowernews.com/rss.xml" rel="self" type="application/rss+xml" />
 
 			<item>
+				<title>|Media| Grokipedia.</title>
+				<description><![CDATA[<p>New link (with rationale) on <a href="https://www.slowernews.com/#media">Slower News - Media</a> category. Grokipedia is new but it’s a serious contender to Wikipedia. AI is rewriting the internet.</p>]]></description>
+				<link>https://grokipedia.com/</link>
+				<guid>https://grokipedia.com/</guid>
+				<pubDate>Sat, 1 Nov 2025 09:18:30 +0000</pubDate>
+			</item>
+
+			<item>
 				<title>|INFO| Slower News Semiannual - Autumn Issue.</title>
 				<description><![CDATA[<p>Sixteenth issue of Slower News Semiannual was published.</p>]]></description>
 				<link>https://slowernews.substack.com/p/autumn-2025-issue-16</link>
@@ -35,22 +43,6 @@
 				<link>https://daedtech.com/surviving-the-great-commoditizer-stop-getting-good-at-chatgpt/</link>
 				<guid>https://daedtech.com/surviving-the-great-commoditizer-stop-getting-good-at-chatgpt/</guid>
 				<pubDate>Wed, 9 Jul 2025 11:18:30 +0000</pubDate>
-			</item>
-
-			<item>
-				<title>|Work, education and skills| Vibe coding.</title>
-				<description><![CDATA[<p>New link (with rationale) on <a href="https://www.slowernews.com/#work-education-and-skills">Slower News - Work, education and skills</a> category. A neologism that has come to stay.</p>]]></description>
-				<link>https://en.wikipedia.org/wiki/Vibe_coding</link>
-				<guid>https://en.wikipedia.org/wiki/Vibe_coding</guid>
-				<pubDate>Sun, 13 Apr 2025 09:18:30 +0000</pubDate>
-			</item>
-
-			<item>
-				<title>|Energy| Balcony solar.</title>
-				<description><![CDATA[<p>New link (with rationale) on <a href="https://www.slowernews.com/#energy">Slower News - Energy</a> category.</p>]]></description>
-				<link>https://www.theguardian.com/environment/2024/dec/18/if-a-million-germans-have-them-there-must-be-something-in-it-how-balcony-solar-is-taking-off</link>
-				<guid>https://www.theguardian.com/environment/2024/dec/18/if-a-million-germans-have-them-there-must-be-something-in-it-how-balcony-solar-is-taking-off</guid>
-				<pubDate>Sat, 29 Mar 2025 09:18:30 +0000</pubDate>
 			</item>
 		</channel>
 	</rss>
