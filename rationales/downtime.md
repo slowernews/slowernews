@@ -22,10 +22,6 @@ I discovered this director recently. I only watched his first two movies (1988) 
 
 Korean Tarantino.
 
-### Ghoulie
-
-Daft Punk's imaginary last concert.
-
 ### Labrinth
 
 [Forever](https://www.youtube.com/watch?v=03nR6eWanXs) / [Mount Everest](https://www.youtube.com/watch?v=4yPZs81lK3w)
