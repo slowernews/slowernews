@@ -2,6 +2,16 @@
 
 When (and sometimes why) articles were included, replaced or deprecated. Often, it implies reordering the article section to balance/relate viewpoints.
 
+### Voyager 1 is close to being one light-day away from Earth
+
+2025-12-03
+
+This is the farthest humanity has ever reached.
+
+### Jakarta is now the largest city in the world
+
+2025-12-03
+
 ### Grokipedia
 
 2025-11-01
